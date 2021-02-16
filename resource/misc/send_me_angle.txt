@@ -1,56 +1,56 @@
-Verse 1]
-Wise man said just walk this way
-To the dawn of the light
-The wind will blow into your face
-As the years pass you by
-Hear this voice from deep inside
-It's the call of your heart
-Close your eyes and you will find
-Passage out of the dark
-
-[Chorus]
-Here I am
-Will you send me an angel?
-Here I am
-In the land of the morning star!
-
-[Verse 2]
-Wise man said just find your place
-In the eye of the storm
-Seek the roses along the way
-Just beware of the thorns
-
-[Chorus]
-Here I am
-Will you send me an angel?
-Here I am
-In the land of the morning star!
-
-
-[Verse 3]
-Wise man said just raise your hand
-And reach out for the spell
-Find the door to the promised land
-Just believe in yourself
-Hear this voice from deep inside
-It's the call of your heart
-Close your eyes and you will find
-The way out of the dark
-
-[Outro]
-Here I am
-Will you send me an angel?
-Here I am
-In the land of the morning star!
-Here I am
-Will you send me an angel?
-Here I am
-In the land of the morning star!
-Here I am
-Will you send me an angel?
-Here I am
-In the land of the morning star!
-Here I am
-Will you send me an angel?
-Here I am
-In the land of the morning star!
+D send_me_angle.txt: Verse 1] 1
+V send_me_angle.txt: Wise man said just walk this way 2
+V send_me_angle.txt: To the dawn of the light 3
+V send_me_angle.txt: The wind will blow into your face 4
+D send_me_angle.txt: As the years pass you by 5
+D send_me_angle.txt: Hear this voice from deep inside 6
+D send_me_angle.txt: It's the call of your heart 7
+V send_me_angle.txt: Close your eyes and you will find 8
+V send_me_angle.txt: Passage out of the dark 9
+D send_me_angle.txt:  10
+W send_me_angle.txt: [Chorus] 11
+D send_me_angle.txt: Here I am 12
+V send_me_angle.txt: Will you send me an angel? 13
+V send_me_angle.txt: Here I am 14
+I send_me_angle.txt: In the land of the morning star! 15
+V send_me_angle.txt:  16
+I send_me_angle.txt: [Verse 2] 17
+V send_me_angle.txt: Wise man said just find your place 18
+V send_me_angle.txt: In the eye of the storm 19
+D send_me_angle.txt: Seek the roses along the way 20
+D send_me_angle.txt: Just beware of the thorns 21
+V send_me_angle.txt:  22
+D send_me_angle.txt: [Chorus] 23
+D send_me_angle.txt: Here I am 24
+V send_me_angle.txt: Will you send me an angel? 25
+D send_me_angle.txt: Here I am 26
+V send_me_angle.txt: In the land of the morning star! 27
+V send_me_angle.txt:  28
+D send_me_angle.txt:  29
+V send_me_angle.txt: [Verse 3] 30
+D send_me_angle.txt: Wise man said just raise your hand 31
+W send_me_angle.txt: And reach out for the spell 32
+E send_me_angle.txt: Find the door to the promised land 33
+D send_me_angle.txt: Just believe in yourself 34
+V send_me_angle.txt: Hear this voice from deep inside 35
+V send_me_angle.txt: It's the call of your heart 36
+E send_me_angle.txt: Close your eyes and you will find 37
+V send_me_angle.txt: The way out of the dark 38
+D send_me_angle.txt:  39
+D send_me_angle.txt: [Outro] 40
+V send_me_angle.txt: Here I am 41
+D send_me_angle.txt: Will you send me an angel? 42
+D send_me_angle.txt: Here I am 43
+V send_me_angle.txt: In the land of the morning star! 44
+D send_me_angle.txt: Here I am 45
+V send_me_angle.txt: Will you send me an angel? 46
+V send_me_angle.txt: Here I am 47
+V send_me_angle.txt: In the land of the morning star! 48
+V send_me_angle.txt: Here I am 49
+D send_me_angle.txt: Will you send me an angel? 50
+V send_me_angle.txt: Here I am 51
+V send_me_angle.txt: In the land of the morning star! 52
+D send_me_angle.txt: Here I am 53
+V send_me_angle.txt: Will you send me an angel? 54
+V send_me_angle.txt: Here I am 55
+V send_me_angle.txt: In the land of the morning star 56

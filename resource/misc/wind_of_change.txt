@@ -1,46 +1,46 @@
-Follow the Moskva
-Down to Gorky Park
-Listening to the wind of change
-An August summer night
-Soldiers passing by
-Listening to the wind of change
-The world is closing in
-Did you ever think
-That we could be so close, like brothers
-The future's in the air
-Can feel it everywhere
-Blowing with the wind of change
-Take me to the magic of the moment
-On a glory night
-Where the children of tomorrow dream away
-In the wind of change
-
-Walking down the street
-Distant memories
-Are buried in the past, forever
-I follow the Moskva
-Down to Gorky Park
-Listening to the wind of change
-Take me to the magic of the moment
-On a glory night
-Where the children of tomorrow share their dreams
-With you and me
-Take me to the magic of the moment
-On a glory night
-Where the children of tomorrow dream away
-In the wind of change
-
-The wind of change
-Blows straight into the face of time
-Like a storm wind that will ring the freedom bell
-For peace of mind
-Let your balalaika sing
-What my guitar wants to say
-Take me to the magic of the moment
-On a glory night
-Where the children of tomorrow share their dreams
-With you and me
-Take me to the magic of the moment
-On a glory night
-Where the children of tomorrow dream away
-In the wind of change
+V wind_of_change.txt: Follow the Moskva 1
+V wind_of_change.txt: Down to Gorky Park 2
+V wind_of_change.txt: Listening to the wind of change 3
+D wind_of_change.txt: An August summer night 4
+ wind_of_change.txt: Soldiers passing by 5
+V wind_of_change.txt: Listening to the wind of change 6
+D wind_of_change.txt: The world is closing in 7
+V wind_of_change.txt: Did you ever think 8
+D wind_of_change.txt: That we could be so close, like brothers 9
+V wind_of_change.txt: The future's in the air 10
+V wind_of_change.txt: Can feel it everywhere 11
+V wind_of_change.txt: Blowing with the wind of change 12
+V wind_of_change.txt: Take me to the magic of the moment 13
+V wind_of_change.txt: On a glory night 14
+V wind_of_change.txt: Where the children of tomorrow dream away 15
+D wind_of_change.txt: In the wind of change 16
+V wind_of_change.txt:  17
+D wind_of_change.txt: Walking down the street 18
+D wind_of_change.txt: Distant memories 19
+V wind_of_change.txt: Are buried in the past, forever 20
+V wind_of_change.txt: I follow the Moskva 21
+D wind_of_change.txt: Down to Gorky Park 22
+V wind_of_change.txt: Listening to the wind of change 23
+D wind_of_change.txt: Take me to the magic of the moment 24
+V wind_of_change.txt: On a glory night 25
+V wind_of_change.txt: Where the children of tomorrow share their dreams 26
+D wind_of_change.txt: With you and me 27
+D wind_of_change.txt: Take me to the magic of the moment 28
+V wind_of_change.txt: On a glory night 29
+V wind_of_change.txt: Where the children of tomorrow dream away 30
+W wind_of_change.txt: In the wind of change 31
+D wind_of_change.txt:  32
+V wind_of_change.txt: The wind of change 33
+D wind_of_change.txt: Blows straight into the face of time 34
+D wind_of_change.txt: Like a storm wind that will ring the freedom bell 35
+W wind_of_change.txt: For peace of mind 36
+D wind_of_change.txt: Let your balalaika sing 37
+D wind_of_change.txt: What my guitar wants to say 38
+V wind_of_change.txt: Take me to the magic of the moment 39
+W wind_of_change.txt: On a glory night 40
+D wind_of_change.txt: Where the children of tomorrow share their dreams 41
+V wind_of_change.txt: With you and me 42
+D wind_of_change.txt: Take me to the magic of the moment 43
+I wind_of_change.txt: On a glory night 44
+V wind_of_change.txt: Where the children of tomorrow dream away 45
+I wind_of_change.txt: In the wind of chang 46

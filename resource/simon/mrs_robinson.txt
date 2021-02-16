@@ -1,46 +1,46 @@
-Mrs Robinson
-Simon & Garfunkel
-And here's to you, Mrs. Robinson
-Jesus loves you more than you will know
-Whoa, whoa, whoa
-God bless you, please, Mrs. Robinson
-Heaven holds a place for those who pray
-Hey, hey, hey
-Hey, hey, hey
-
-We'd like to know a little bit about you for our files
-We'd like to help you learn to help yourself
-Look around you all you see are sympathetic eyes
-Stroll around the grounds until you feel at home
-And here's to you, Mrs. Robinson
-Jesus loves you more than you will know
-Whoa, whoa, whoa
-God bless you, please, Mrs. Robinson
-Heaven holds a place for those who pray
-Hey, hey, hey
-Hey, hey, hey
-
-Hide it in the hiding place where no one ever goes
-Put it in your pantry with your cupcakes
-It's a little secret just the Robinson's affair
-Most of all you've got to hide it from the kids
-Koo-koo-ka-choo, Mrs. Robinson
-Jesus loves you more than you will know
-Whoa, whoa, whoa
-God bless you, please, Mrs. Robinson
-Heaven holds a place for those who pray
-Hey, hey, hey
-Hey, hey, hey
-
-Sitting on a sofa on a Sunday afternoon
-Going to the candidates' debate
-Laugh about it, shout about it
-When you've got to choose
-Every way you look at this you lose
-Where have you gone, Joe DiMaggio?
-Our nation turns its lonely eyes to you
-Woo, woo, woo
-What's that you say, Mrs. Robinson?
-Jolting Joe has left and gone away
-Hey, hey, hey
-Hey, hey, hey
+V mrs_robinson.txt: Mrs Robinson 1
+D mrs_robinson.txt: Simon & Garfunkel 2
+D mrs_robinson.txt: And here's to you, Mrs. Robinson 3
+D mrs_robinson.txt: Jesus loves you more than you will know 4
+V mrs_robinson.txt: Whoa, whoa, whoa 5
+D mrs_robinson.txt: God bless you, please, Mrs. Robinson 6
+V mrs_robinson.txt: Heaven holds a place for those who pray 7
+V mrs_robinson.txt: Hey, hey, hey 8
+V mrs_robinson.txt: Hey, hey, hey 9
+V mrs_robinson.txt:  10
+V mrs_robinson.txt: We'd like to know a little bit about you for our files 11
+V mrs_robinson.txt: We'd like to help you learn to help yourself 12
+D mrs_robinson.txt: Look around you all you see are sympathetic eyes 13
+V mrs_robinson.txt: Stroll around the grounds until you feel at home 14
+V mrs_robinson.txt: And here's to you, Mrs. Robinson 15
+D mrs_robinson.txt: Jesus loves you more than you will know 16
+V mrs_robinson.txt: Whoa, whoa, whoa 17
+V mrs_robinson.txt: God bless you, please, Mrs. Robinson 18
+D mrs_robinson.txt: Heaven holds a place for those who pray 19
+V mrs_robinson.txt: Hey, hey, hey 20
+D mrs_robinson.txt: Hey, hey, hey 21
+V mrs_robinson.txt:  22
+V mrs_robinson.txt: Hide it in the hiding place where no one ever goes 23
+V mrs_robinson.txt: Put it in your pantry with your cupcakes 24
+W mrs_robinson.txt: It's a little secret just the Robinson's affair 25
+E mrs_robinson.txt: Most of all you've got to hide it from the kids 26
+D mrs_robinson.txt: Koo-koo-ka-choo, Mrs. Robinson 27
+V mrs_robinson.txt: Jesus loves you more than you will know 28
+F mrs_robinson.txt: Whoa, whoa, whoa 29
+V mrs_robinson.txt: God bless you, please, Mrs. Robinson 30
+V mrs_robinson.txt: Heaven holds a place for those who pray 31
+D mrs_robinson.txt: Hey, hey, hey 32
+D mrs_robinson.txt: Hey, hey, hey 33
+D mrs_robinson.txt:  34
+V mrs_robinson.txt: Sitting on a sofa on a Sunday afternoon 35
+V mrs_robinson.txt: Going to the candidates' debate 36
+D mrs_robinson.txt: Laugh about it, shout about it 37
+D mrs_robinson.txt: When you've got to choose 38
+D mrs_robinson.txt: Every way you look at this you lose 39
+V mrs_robinson.txt: Where have you gone, Joe DiMaggio? 40
+D mrs_robinson.txt: Our nation turns its lonely eyes to you 41
+V mrs_robinson.txt: Woo, woo, woo 42
+V mrs_robinson.txt: What's that you say, Mrs. Robinson? 43
+D mrs_robinson.txt: Jolting Joe has left and gone away 44
+V mrs_robinson.txt: Hey, hey, hey 45
+V mrs_robinson.txt: Hey, hey, he 46

@@ -10,12 +10,13 @@ from .line_pattern import LinePattern
 class FakeLogs:
 	"""Entrypoint to generate fake logs (into file or stdout)."""
 
-	def __init__(self, filename=None, num_lines=10, file_format="elf", line_pattern=None, sleep=None):
+	def __init__(self, filename=None, num_lines=10, file_format="elf", line_pattern=None, sleep=None, real_time=False):
 		self.filename = filename
 		self.num_lines = num_lines
 		self.sleep = sleep
 		self.line_pattern = LinePattern(file_format=file_format) if line_pattern is None else line_pattern
 		self.line_pattern.sleep = sleep
+		self.real_time = real_time
 
 		if self.num_lines < 0:
 			sys.exit("The number of lines cannot be negative '^_^")
@@ -58,11 +59,12 @@ class FakeLogs:
 
 		signal.signal(signal.SIGINT, signal_handler)
 		num_lines = self.num_lines
-		infinite  = self.num_lines == 0
+		infinite = self.num_lines == 0
 
 		while infinite or num_lines > 0:
 			self._write_line(flush=True)
-			time.sleep(self.sleep)
+			if self.real_time:
+				time.sleep(self.sleep)
 			num_lines -= 1
 
 	def _write_line(self, flush=False):

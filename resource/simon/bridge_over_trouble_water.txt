@@ -1,39 +1,39 @@
-Bridge Over Troubled Water
-Simon & Garfunkel
-When you're weary
-Feeling small
-When tears are in your eyes
-I'll dry them all
-I'm on your side
-Oh, when times get rough
-And friends just can't be found
-
-Like a bridge over troubled water
-I will lay me down
-Like a bridge over troubled water
-I will lay me down
-
-When you're down and out
-When you're on the street
-When evening falls so hard
-I will comfort you
-I'll take your part
-Oh, when darkness comes
-And pain is all around
-
-Like a bridge over troubled water
-I will lay me down
-Like a bridge over troubled water
-I will lay me down
-Sail on silver girl
-Sail on by
-Your time has come to shine
-All your dreams are on their way
-See how they shine
-Oh, if you need a friend
-I'm sailing right behind
-
-Like a bridge over troubled water
-I will ease your mind
-Like a bridge over troubled water
-I will ease your mind
+V bridge_over_trouble_water.txt: Bridge Over Troubled Water 0 1
+D bridge_over_trouble_water.txt: Simon & Garfunkel 1 2
+V bridge_over_trouble_water.txt: When you're weary 2 3
+D bridge_over_trouble_water.txt: Feeling small 3 4
+D bridge_over_trouble_water.txt: When tears are in your eyes 4 5
+D bridge_over_trouble_water.txt: I'll dry them all 5 6
+D bridge_over_trouble_water.txt: I'm on your side 6 7
+D bridge_over_trouble_water.txt: Oh, when times get rough 7 8
+V bridge_over_trouble_water.txt: And friends just can't be found 8 9
+D bridge_over_trouble_water.txt:  9 10
+D bridge_over_trouble_water.txt: Like a bridge over troubled water 10 11
+V bridge_over_trouble_water.txt: I will lay me down 11 12
+W bridge_over_trouble_water.txt: Like a bridge over troubled water 12 13
+V bridge_over_trouble_water.txt: I will lay me down 13 14
+W bridge_over_trouble_water.txt:  14 15
+V bridge_over_trouble_water.txt: When you're down and out 15 16
+D bridge_over_trouble_water.txt: When you're on the street 16 17
+D bridge_over_trouble_water.txt: When evening falls so hard 17 18
+D bridge_over_trouble_water.txt: I will comfort you 18 19
+W bridge_over_trouble_water.txt: I'll take your part 19 20
+D bridge_over_trouble_water.txt: Oh, when darkness comes 20 21
+V bridge_over_trouble_water.txt: And pain is all around 21 22
+D bridge_over_trouble_water.txt:  22 23
+V bridge_over_trouble_water.txt: Like a bridge over troubled water 23 24
+V bridge_over_trouble_water.txt: I will lay me down 24 25
+V bridge_over_trouble_water.txt: Like a bridge over troubled water 25 26
+W bridge_over_trouble_water.txt: I will lay me down 26 27
+V bridge_over_trouble_water.txt: Sail on silver girl 27 28
+W bridge_over_trouble_water.txt: Sail on by 28 29
+D bridge_over_trouble_water.txt: Your time has come to shine 29 30
+V bridge_over_trouble_water.txt: All your dreams are on their way 30 31
+V bridge_over_trouble_water.txt: See how they shine 31 32
+W bridge_over_trouble_water.txt: Oh, if you need a friend 32 33
+I bridge_over_trouble_water.txt: I'm sailing right behind 33 34
+E bridge_over_trouble_water.txt:  34 35
+D bridge_over_trouble_water.txt: Like a bridge over troubled water 35 36
+F bridge_over_trouble_water.txt: I will ease your mind 36 37
+V bridge_over_trouble_water.txt: Like a bridge over troubled water 37 38
+V bridge_over_trouble_water.txt: I will ease your min 38 39

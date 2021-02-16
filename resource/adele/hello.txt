@@ -1,48 +1,48 @@
-Hello, it's me
-I was wondering if after all these years you'd like to meet
-To go over everything
-They say that time's supposed to heal ya
-But I ain't done much healing
-
-Hello, can you hear me?
-I'm in California dreaming about who we used to be
-When we were younger and free
-I've forgotten how it felt before the world fell at our feet
-There's such a difference between us
-And a million miles
-Hello from the other side
-I must've called a thousand times
-To tell you I'm sorry for everything that I've done
-But when I call, you never seem to be home
-
-Hello from the outside
-At least I can say that I've tried
-To tell you I'm sorry for breaking your heart
-But it don't matter, it clearly doesn't tear you apart anymore
-Hello, how are you?
-It's so typical of me to talk about myself, I'm sorry
-I hope that you're well
-Did you ever make it out of that town where nothing ever happened?
-It's no secret that the both of us are running out of time
-So hello from the other side (Other side)
-I must've called a thousand times (Thousand times)
-To tell you I'm sorry for everything that I've done
-But when I call, you never seem to be home
-
-Hello from the outside (Outside)
-At least I can say that I've tried (I've tried)
-To tell you I'm sorry for breaking your heart
-But it don't matter, it clearly doesn't tear you apart anymore
-Ooh-ooh, anymore
-Ooh-ooh-ooh, anymore
-Ooh-ooh, anymore
-Anymore
-Hello from the other side (Other side)
-
-I must've called a thousand times (Thousand times)
-To tell you I'm sorry for everything that I've done
-But when I call, you never seem to be home
-Hello from the outside (Outside)
-At least I can say that I've tried (I've tried)
-To tell you I'm sorry for breaking your heart
-But it don't matter, it clearly doesn't tear you apart anymore
+V hello.txt: Hello, it's me 1
+V hello.txt: I was wondering if after all these years you'd like to meet 2
+V hello.txt: To go over everything 3
+V hello.txt: They say that time's supposed to heal ya 4
+E hello.txt: But I ain't done much healing 5
+D hello.txt:  6
+V hello.txt: Hello, can you hear me? 7
+D hello.txt: I'm in California dreaming about who we used to be 8
+V hello.txt: When we were younger and free 9
+I hello.txt: I've forgotten how it felt before the world fell at our feet 10
+V hello.txt: There's such a difference between us 11
+D hello.txt: And a million miles 12
+V hello.txt: Hello from the other side 13
+V hello.txt: I must've called a thousand times 14
+D hello.txt: To tell you I'm sorry for everything that I've done 15
+V hello.txt: But when I call, you never seem to be home 16
+D hello.txt:  17
+W hello.txt: Hello from the outside 18
+V hello.txt: At least I can say that I've tried 19
+I hello.txt: To tell you I'm sorry for breaking your heart 20
+D hello.txt: But it don't matter, it clearly doesn't tear you apart anymore 21
+D hello.txt: Hello, how are you? 22
+D hello.txt: It's so typical of me to talk about myself, I'm sorry 23
+V hello.txt: I hope that you're well 24
+V hello.txt: Did you ever make it out of that town where nothing ever happened? 25
+D hello.txt: It's no secret that the both of us are running out of time 26
+D hello.txt: So hello from the other side (Other side) 27
+D hello.txt: I must've called a thousand times (Thousand times) 28
+V hello.txt: To tell you I'm sorry for everything that I've done 29
+ hello.txt: But when I call, you never seem to be home 30
+D hello.txt:  31
+D hello.txt: Hello from the outside (Outside) 32
+D hello.txt: At least I can say that I've tried (I've tried) 33
+D hello.txt: To tell you I'm sorry for breaking your heart 34
+ hello.txt: But it don't matter, it clearly doesn't tear you apart anymore 35
+D hello.txt: Ooh-ooh, anymore 36
+D hello.txt: Ooh-ooh-ooh, anymore 37
+D hello.txt: Ooh-ooh, anymore 38
+W hello.txt: Anymore 39
+D hello.txt: Hello from the other side (Other side) 40
+I hello.txt:  41
+V hello.txt: I must've called a thousand times (Thousand times) 42
+V hello.txt: To tell you I'm sorry for everything that I've done 43
+V hello.txt: But when I call, you never seem to be home 44
+D hello.txt: Hello from the outside (Outside) 45
+V hello.txt: At least I can say that I've tried (I've tried) 46
+D hello.txt: To tell you I'm sorry for breaking your heart 47
+D hello.txt: But it don't matter, it clearly doesn't tear you apart anymor 48

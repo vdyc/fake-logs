@@ -1,107 +1,107 @@
-Verse 1: Michael Jackson]
-It's close to midnight
-Something evil's lurking in the dark
-Under the moonlight
-You see a sight that almost stops your heart
-You try to scream
-But terror takes the sound before you make it
-You start to freeze
-As horror looks you right between your eyes
-You're paralyzed
-
-[Chorus 1: Michael Jackson]
-'Cause this is thriller
-Thriller night
-And no one's gonna save you
-From the beast about to strike
-You know it's thriller
-Thriller night
-You're fighting for your life
-Inside a killer
-Thriller tonight, yeah, ooh
-
-[Verse 2: Michael Jackson]
-You hear the door slam
-And realize there's nowhere left to run
-You feel the cold hand
-And wonder if you'll ever see the sun
-You close your eyes
-And hope that this is just imagination
-(Girl)
-But all the while
-You hear a creature creeping up behind
-You're out of time
-
-
-[Chorus 2: Michael Jackson]
-'Cause this is thriller, thriller night
-There ain't no second chance
-Against the thing with 40 eyes, girl
-(Ooh, ooh)
-Thriller, thriller night
-You're fighting for your life
-Inside a killer, thriller tonight
-
-[Bridge: Michael Jackson]
-Night creatures call and the dead start to walk in their masquerade
-There's no escaping the jaws of the alien this time
-They're open wide
-This is the end of your life, ooh
-
-[Verse 3: Michael Jackson]
-They're out to get you
-There's demons closing in on every side
-(Ooh)
-They will possess you
-Unless you change that number on your dial
-Now is the time
-For you and I to cuddle close together, yeah
-All through the night
-I'll save you from the terror on the screen
-I'll make you see
-
-
-[Chorus 3: Michael Jackson]
-That this is thriller, thriller night
-'Cause I can thrill you more
-Than any ghoul would ever dare try
-Thriller, thriller night
-So let me hold you tight
-And share a killer, thriller, chiller
-Thriller here tonight
-'Cause this is thriller, thriller night
-Girl, I can thrill you more
-Than any ghoul would ever dare try
-(Ooh, ooh)
-Thriller, thriller night
-So let me hold you tight
-And share a killer, thriller
-I'm gonna thrill you tonight
-
-[Outro: Vincent Price & Michael Jackson]
-Darkness falls across the land
-The midnight hour is close at hand
-Creatures crawl in search of blood
-To terrorize y'all's neighborhood
-I'm gonna thrill you tonight
-And whosoever shall be found
-Without the soul for getting down
-Must stand and face the hounds of hell
-And rot inside a corpse's shell
-I'm gonna thrill you tonight
-(Thriller, ooh, thriller)
-I'm gonna thrill you tonight
-(Thriller night, thriller)
-I'm gonna thrill you tonight
-Ooh, babe, I'm gonna thrill you tonight
-Thriller night, babe
-The foulest stench is in the air
-The funk of forty thousand years (Thriller night, thriller)
-And grisly ghouls from every tomb
-Are closing in to seal your doom
-And though you fight to stay alive
-Your body starts to shiver (I'm gonna thrill you tonight)
-For no mere mortal can resist
-The evil of the thriller!
-AHAHAHAHAHAHAHAHA
-AHAHAHAHAHAHAHAHA!
+D thriller.txt: Verse 1: Michael Jackson] 1
+D thriller.txt: It's close to midnight 2
+D thriller.txt: Something evil's lurking in the dark 3
+V thriller.txt: Under the moonlight 4
+D thriller.txt: You see a sight that almost stops your heart 5
+V thriller.txt: You try to scream 6
+D thriller.txt: But terror takes the sound before you make it 7
+D thriller.txt: You start to freeze 8
+V thriller.txt: As horror looks you right between your eyes 9
+F thriller.txt: You're paralyzed 10
+D thriller.txt:  11
+D thriller.txt: [Chorus 1: Michael Jackson] 12
+D thriller.txt: 'Cause this is thriller 13
+V thriller.txt: Thriller night 14
+D thriller.txt: And no one's gonna save you 15
+D thriller.txt: From the beast about to strike 16
+V thriller.txt: You know it's thriller 17
+D thriller.txt: Thriller night 18
+D thriller.txt: You're fighting for your life 19
+D thriller.txt: Inside a killer 20
+V thriller.txt: Thriller tonight, yeah, ooh 21
+V thriller.txt:  22
+W thriller.txt: [Verse 2: Michael Jackson] 23
+V thriller.txt: You hear the door slam 24
+V thriller.txt: And realize there's nowhere left to run 25
+D thriller.txt: You feel the cold hand 26
+D thriller.txt: And wonder if you'll ever see the sun 27
+D thriller.txt: You close your eyes 28
+V thriller.txt: And hope that this is just imagination 29
+V thriller.txt: (Girl) 30
+V thriller.txt: But all the while 31
+V thriller.txt: You hear a creature creeping up behind 32
+D thriller.txt: You're out of time 33
+D thriller.txt:  34
+D thriller.txt:  35
+D thriller.txt: [Chorus 2: Michael Jackson] 36
+D thriller.txt: 'Cause this is thriller, thriller night 37
+V thriller.txt: There ain't no second chance 38
+D thriller.txt: Against the thing with 40 eyes, girl 39
+V thriller.txt: (Ooh, ooh) 40
+D thriller.txt: Thriller, thriller night 41
+V thriller.txt: You're fighting for your life 42
+D thriller.txt: Inside a killer, thriller tonight 43
+V thriller.txt:  44
+D thriller.txt: [Bridge: Michael Jackson] 45
+V thriller.txt: Night creatures call and the dead start to walk in their masquerade 46
+D thriller.txt: There's no escaping the jaws of the alien this time 47
+V thriller.txt: They're open wide 48
+D thriller.txt: This is the end of your life, ooh 49
+V thriller.txt:  50
+V thriller.txt: [Verse 3: Michael Jackson] 51
+D thriller.txt: They're out to get you 52
+V thriller.txt: There's demons closing in on every side 53
+I thriller.txt: (Ooh) 54
+D thriller.txt: They will possess you 55
+D thriller.txt: Unless you change that number on your dial 56
+D thriller.txt: Now is the time 57
+V thriller.txt: For you and I to cuddle close together, yeah 58
+V thriller.txt: All through the night 59
+D thriller.txt: I'll save you from the terror on the screen 60
+D thriller.txt: I'll make you see 61
+V thriller.txt:  62
+D thriller.txt:  63
+D thriller.txt: [Chorus 3: Michael Jackson] 64
+ thriller.txt: That this is thriller, thriller night 65
+V thriller.txt: 'Cause I can thrill you more 66
+V thriller.txt: Than any ghoul would ever dare try 67
+D thriller.txt: Thriller, thriller night 68
+D thriller.txt: So let me hold you tight 69
+D thriller.txt: And share a killer, thriller, chiller 70
+D thriller.txt: Thriller here tonight 71
+V thriller.txt: 'Cause this is thriller, thriller night 72
+I thriller.txt: Girl, I can thrill you more 73
+D thriller.txt: Than any ghoul would ever dare try 74
+D thriller.txt: (Ooh, ooh) 75
+V thriller.txt: Thriller, thriller night 76
+V thriller.txt: So let me hold you tight 77
+D thriller.txt: And share a killer, thriller 78
+W thriller.txt: I'm gonna thrill you tonight 79
+V thriller.txt:  80
+D thriller.txt: [Outro: Vincent Price & Michael Jackson] 81
+W thriller.txt: Darkness falls across the land 82
+D thriller.txt: The midnight hour is close at hand 83
+F thriller.txt: Creatures crawl in search of blood 84
+D thriller.txt: To terrorize y'all's neighborhood 85
+I thriller.txt: I'm gonna thrill you tonight 86
+D thriller.txt: And whosoever shall be found 87
+W thriller.txt: Without the soul for getting down 88
+V thriller.txt: Must stand and face the hounds of hell 89
+V thriller.txt: And rot inside a corpse's shell 90
+V thriller.txt: I'm gonna thrill you tonight 91
+V thriller.txt: (Thriller, ooh, thriller) 92
+D thriller.txt: I'm gonna thrill you tonight 93
+D thriller.txt: (Thriller night, thriller) 94
+D thriller.txt: I'm gonna thrill you tonight 95
+V thriller.txt: Ooh, babe, I'm gonna thrill you tonight 96
+D thriller.txt: Thriller night, babe 97
+V thriller.txt: The foulest stench is in the air 98
+D thriller.txt: The funk of forty thousand years (Thriller night, thriller) 99
+D thriller.txt: And grisly ghouls from every tomb 100
+I thriller.txt: Are closing in to seal your doom 101
+V thriller.txt: And though you fight to stay alive 102
+D thriller.txt: Your body starts to shiver (I'm gonna thrill you tonight) 103
+D thriller.txt: For no mere mortal can resist 104
+D thriller.txt: The evil of the thriller! 105
+V thriller.txt: AHAHAHAHAHAHAHAHA 106
+W thriller.txt: AHAHAHAHAHAHAHAHA 107

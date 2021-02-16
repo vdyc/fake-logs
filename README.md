@@ -125,7 +125,7 @@ python examples/custom_tokens.py -n 2 -p '"%m %Y" - %h'
 * NCSA Common Log Format : [CLF][clf]
 * W3C Extended Log Format : [ELF][elf]
 * List of specifiers : [Apache][apache], [Nginx][nginx], [Lighttpd][lighttpd], [GoAccess][goaccess]
-
+* Android logcat format: [Android logcat format][logcat]
 
 ## License
 
@@ -142,6 +142,7 @@ Fake Logs is [MIT licensed](./LICENSE).
 [nginx]:     http://nginx.org/en/docs/http/ngx_http_log_module.html#log_format
 [goaccess]:   https://goaccess.io/man#custom-log
 [lighttpd]:   https://redmine.lighttpd.net/projects/1/wiki/Docs_ModAccesslog
+[logcat]:     https://developer.android.com/studio/debug/am-logcat
 
 [//]: # (Badges)
 [build]:       https://travis-ci.org/s4tori/fake-logs.svg?branch=master

@@ -1,51 +1,51 @@
-Someone Like You
-Adele
-I heard that you're settled down
-That you found a girl and you're married now
-I heard that your dreams came true
-Guess she gave you things, I didn't give to you
-Old friend, why are you so shy?
-Ain't like you to hold back or hide from the light
-
-I hate to turn up out of the blue, uninvited
-But I couldn't stay away, I couldn't fight it
-I had hoped you'd see my face
-And that you'd be reminded that for me, it isn't over
-
-Never mind, I'll find someone like you
-I wish nothing but the best for you, too
-"Don't forget me, " I beg
-I remember you said
-"Sometimes it lasts in love, but sometimes it hurts instead"
-"Sometimes it lasts in love, but sometimes it hurts instead"
-
-You know how the time flies
-Only yesterday was the time of our lives
-We were born and raised in a summer haze
-Bound by the surprise of our glory days
-I hate to turn up out of the blue, uninvited
-But I couldn't stay away, I couldn't fight it
-I had hoped you'd see my face
-And that you'd be reminded that for me, it isn't over
-
-Never mind, I'll find someone like you
-I wish nothing but the best for you, too
-"Don't forget me, " I begged
-I remember you said
-"Sometimes it lasts in love, but sometimes it hurts instead"
-
-Nothing compares, no worries or cares
-Regrets and mistakes, they're memories made
-Who would have known how bittersweet this would taste?
-Never mind, I'll find someone like you
-I wish nothing but the best for you
-"Don't forget me, " I beg
-I remember you said
-"Sometimes it lasts in love, but sometimes it hurts instead"
-
-Never mind, I'll find someone like you
-I wish nothing but the best for you, too
-"Don't forget me, " I begged
-I remember you said
-"Sometimes it lasts in love, but sometimes it hurts instead"
-"Sometimes it lasts in love, but sometimes it hurts instead"
+V someone_like_you.txt: Someone Like You 1
+V someone_like_you.txt: Adele 2
+V someone_like_you.txt: I heard that you're settled down 3
+D someone_like_you.txt: That you found a girl and you're married now 4
+D someone_like_you.txt: I heard that your dreams came true 5
+V someone_like_you.txt: Guess she gave you things, I didn't give to you 6
+D someone_like_you.txt: Old friend, why are you so shy? 7
+V someone_like_you.txt: Ain't like you to hold back or hide from the light 8
+V someone_like_you.txt:  9
+D someone_like_you.txt: I hate to turn up out of the blue, uninvited 10
+V someone_like_you.txt: But I couldn't stay away, I couldn't fight it 11
+D someone_like_you.txt: I had hoped you'd see my face 12
+V someone_like_you.txt: And that you'd be reminded that for me, it isn't over 13
+D someone_like_you.txt:  14
+W someone_like_you.txt: Never mind, I'll find someone like you 15
+I someone_like_you.txt: I wish nothing but the best for you, too 16
+D someone_like_you.txt: "Don't forget me, " I beg 17
+V someone_like_you.txt: I remember you said 18
+V someone_like_you.txt: "Sometimes it lasts in love, but sometimes it hurts instead" 19
+D someone_like_you.txt: "Sometimes it lasts in love, but sometimes it hurts instead" 20
+V someone_like_you.txt:  21
+D someone_like_you.txt: You know how the time flies 22
+V someone_like_you.txt: Only yesterday was the time of our lives 23
+D someone_like_you.txt: We were born and raised in a summer haze 24
+D someone_like_you.txt: Bound by the surprise of our glory days 25
+D someone_like_you.txt: I hate to turn up out of the blue, uninvited 26
+D someone_like_you.txt: But I couldn't stay away, I couldn't fight it 27
+D someone_like_you.txt: I had hoped you'd see my face 28
+V someone_like_you.txt: And that you'd be reminded that for me, it isn't over 29
+V someone_like_you.txt:  30
+D someone_like_you.txt: Never mind, I'll find someone like you 31
+V someone_like_you.txt: I wish nothing but the best for you, too 32
+V someone_like_you.txt: "Don't forget me, " I begged 33
+V someone_like_you.txt: I remember you said 34
+V someone_like_you.txt: "Sometimes it lasts in love, but sometimes it hurts instead" 35
+V someone_like_you.txt:  36
+D someone_like_you.txt: Nothing compares, no worries or cares 37
+D someone_like_you.txt: Regrets and mistakes, they're memories made 38
+V someone_like_you.txt: Who would have known how bittersweet this would taste? 39
+D someone_like_you.txt: Never mind, I'll find someone like you 40
+V someone_like_you.txt: I wish nothing but the best for you 41
+V someone_like_you.txt: "Don't forget me, " I beg 42
+D someone_like_you.txt: I remember you said 43
+V someone_like_you.txt: "Sometimes it lasts in love, but sometimes it hurts instead" 44
+D someone_like_you.txt:  45
+V someone_like_you.txt: Never mind, I'll find someone like you 46
+V someone_like_you.txt: I wish nothing but the best for you, too 47
+V someone_like_you.txt: "Don't forget me, " I begged 48
+V someone_like_you.txt: I remember you said 49
+V someone_like_you.txt: "Sometimes it lasts in love, but sometimes it hurts instead" 50
+V someone_like_you.txt: "Sometimes it lasts in love, but sometimes it hurts instead 51

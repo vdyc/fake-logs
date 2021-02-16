@@ -1,43 +1,43 @@
-[Verse 1]
-Another head hangs lowly
-Child is slowly taken
-And the violence caused such silence
-Who are we mistaken?
-
-[Pre-Chorus]
-But you see, it's not me, it's not my family
-In your head, in your head, they are fightin'
-With their tanks and their bombs and their bombs and their guns
-In your head, in your head, they are cryin'
-
-[Chorus]
-In your head, in your head
-Zombie, zombie, zombie-ie-ie
-What's in your head, in your head?
-Zombie, zombie, zombie-ie-ie-ie, oh
-
-[Post-Chorus]
-Du, du, du, du
-Du, du, du, du
-Du, du, du, du
-Du, du, du, du
-
-[Verse 2]
-Another mother's breakin'
-Heart is takin' over
-When the violence causes silence
-We must be mistaken
-
-[Pre-Chorus]
-It's the same old theme, since 1916
-In your head, in your head, they're still fightin'
-With their tanks and their bombs and their bombs and their guns
-In your head, in your head, they are dyin'
-
-[Chorus]
-In your head, in your head
-Zombie, zombie, zombie-ie-ie
-What's in your head, in your head?
-Zombie, zombie, zombie-ie-ie-ie, oh-oh-oh-oh-oh-oh-oh, eh-eh-oh, ra-ra
-
-[Instrumental Outro]
+D zombie.txt: [Verse 1] 1
+D zombie.txt: Another head hangs lowly 2
+D zombie.txt: Child is slowly taken 3
+V zombie.txt: And the violence caused such silence 4
+V zombie.txt: Who are we mistaken? 5
+D zombie.txt:  6
+V zombie.txt: [Pre-Chorus] 7
+W zombie.txt: But you see, it's not me, it's not my family 8
+V zombie.txt: In your head, in your head, they are fightin' 9
+V zombie.txt: With their tanks and their bombs and their bombs and their guns 10
+W zombie.txt: In your head, in your head, they are cryin' 11
+I zombie.txt:  12
+V zombie.txt: [Chorus] 13
+D zombie.txt: In your head, in your head 14
+V zombie.txt: Zombie, zombie, zombie-ie-ie 15
+D zombie.txt: What's in your head, in your head? 16
+V zombie.txt: Zombie, zombie, zombie-ie-ie-ie, oh 17
+D zombie.txt:  18
+V zombie.txt: [Post-Chorus] 19
+V zombie.txt: Du, du, du, du 20
+V zombie.txt: Du, du, du, du 21
+V zombie.txt: Du, du, du, du 22
+D zombie.txt: Du, du, du, du 23
+D zombie.txt:  24
+D zombie.txt: [Verse 2] 25
+V zombie.txt: Another mother's breakin' 26
+F zombie.txt: Heart is takin' over 27
+D zombie.txt: When the violence causes silence 28
+D zombie.txt: We must be mistaken 29
+D zombie.txt:  30
+D zombie.txt: [Pre-Chorus] 31
+V zombie.txt: It's the same old theme, since 1916 32
+W zombie.txt: In your head, in your head, they're still fightin' 33
+V zombie.txt: With their tanks and their bombs and their bombs and their guns 34
+D zombie.txt: In your head, in your head, they are dyin' 35
+D zombie.txt:  36
+D zombie.txt: [Chorus] 37
+E zombie.txt: In your head, in your head 38
+V zombie.txt: Zombie, zombie, zombie-ie-ie 39
+D zombie.txt: What's in your head, in your head? 40
+V zombie.txt: Zombie, zombie, zombie-ie-ie-ie, oh-oh-oh-oh-oh-oh-oh, eh-eh-oh, ra-ra 41
+V zombie.txt:  42
+D zombie.txt: [Instrumental Outro 43

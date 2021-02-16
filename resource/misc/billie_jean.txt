@@ -1,83 +1,83 @@
-
-She was more like a beauty queen from a movie scene
-I said, "Don't mind, but what do you mean, I am the one
-Who will dance on the floor in the round?"
-She said I am the one
-Who will dance on the floor, in the round
-She told me her name was Billie Jean
-As she caused a scene
-Then every head turned with eyes that dreamed of bein' the one
-Who will dance on the floor in the round
-
-[Pre-Chorus]
-People always told me, "Be careful of what you do
-Don't go around breakin' young girls' hearts" (Hee-hee)
-And mother always told me, "Be careful of who you love
-And be careful of what you do (Oh-oh)
-'Cause the lie becomes the truth" (Oh-oh)
-
-[Chorus]
-Billie Jean is not my lover
-She's just a girl who claims that I am the one (Oh, baby)
-But the kid is not my son, hoo!
-She says I am the one (Oh, baby)
-But the kid is not my son (Hee-hee-hee, no-no-no, hee-hee-hee)
-Hoo!
-
-[Verse 2]
-For forty days and for forty nights, the law was on her side
-But who can stand when she's in demand?
-Her schemes and plans
-'Cause we danced on the floor in the round, hee!
-So take my strong advice, just remember to always think twice
-(Don't think twice) Do think twice! (A-hoo!)
-She told my baby we'd danced till three, then she looked at me
-Then showed a photo of a baby cryin', his eyes were like mine (Oh, no)
-'Cause we danced on the floor in the round, baby
-(Ooh, hee-hee-hee)
-Hee!
-Hoo!
-
-[Pre-Chorus]
-People always told me, "Be careful of what you do
-And don't go around breakin' young girls' hearts"
-(Don't break no hearts!) (Hee-hee)
-But she came and stood right by me
-Then the smell of sweet perfume (Ha-oh)
-This happened much too soon (Ha-oh, ha-ooh)
-She called me to her room (Ha-oh, hoo!)
-
-[Chorus]
-Billie Jean is not my lover (Hoo!)
-She's just a girl who claims that I am the one
-But the kid is not my son
-No-no-no, no-no-no-no-no-no (Hoo!)
-Billie Jean is not my lover
-She's just a girl who claims that I am the one (Oh baby)
-But the kid is not my son (Oh, no, no)
-She says I am the one (Oh baby)
-But the kid is not my son (No, hee-hee!)
-[Break]
-Ah, hee-hee-hee!
-Hee! Hoo!
-
-[Chorus]
-She says I am the one, but the kid is not my son
-No-no-no, hoo! (Hoo!)
-Billie Jean is not my lover
-She's just a girl who claims that I am the one
-But the kid is not my son
-No-no-no, no-no-no-no
-She says I am the one, but the kid is not my son (No-no-no)
-She says I am the one (You know what you did)
-She says he is my son (Breakin' my heart, babe)
-She says I am the one
-
-[Outro]
-Billie Jean is not my lover
-Billie Jean is not my lover
-Billie Jean is not my lover
-Billie Jean is not my lover (Don't call me Billie Jean) (Hoo!)
-Billie Jean is not my lover (She's not at the scene)
-Billie Jean is (Hee! Aaow! Ooh!)
-Billie Jean is
+D billie_jean.txt:  1
+D billie_jean.txt: She was more like a beauty queen from a movie scene 2
+V billie_jean.txt: I said, "Don't mind, but what do you mean, I am the one 3
+V billie_jean.txt: Who will dance on the floor in the round?" 4
+D billie_jean.txt: She said I am the one 5
+D billie_jean.txt: Who will dance on the floor, in the round 6
+V billie_jean.txt: She told me her name was Billie Jean 7
+D billie_jean.txt: As she caused a scene 8
+V billie_jean.txt: Then every head turned with eyes that dreamed of bein' the one 9
+D billie_jean.txt: Who will dance on the floor in the round 10
+V billie_jean.txt:  11
+D billie_jean.txt: [Pre-Chorus] 12
+D billie_jean.txt: People always told me, "Be careful of what you do 13
+V billie_jean.txt: Don't go around breakin' young girls' hearts" (Hee-hee) 14
+D billie_jean.txt: And mother always told me, "Be careful of who you love 15
+D billie_jean.txt: And be careful of what you do (Oh-oh) 16
+D billie_jean.txt: 'Cause the lie becomes the truth" (Oh-oh) 17
+V billie_jean.txt:  18
+D billie_jean.txt: [Chorus] 19
+W billie_jean.txt: Billie Jean is not my lover 20
+D billie_jean.txt: She's just a girl who claims that I am the one (Oh, baby) 21
+D billie_jean.txt: But the kid is not my son, hoo! 22
+V billie_jean.txt: She says I am the one (Oh, baby) 23
+D billie_jean.txt: But the kid is not my son (Hee-hee-hee, no-no-no, hee-hee-hee) 24
+V billie_jean.txt: Hoo! 25
+D billie_jean.txt:  26
+V billie_jean.txt: [Verse 2] 27
+V billie_jean.txt: For forty days and for forty nights, the law was on her side 28
+V billie_jean.txt: But who can stand when she's in demand? 29
+V billie_jean.txt: Her schemes and plans 30
+V billie_jean.txt: 'Cause we danced on the floor in the round, hee! 31
+D billie_jean.txt: So take my strong advice, just remember to always think twice 32
+V billie_jean.txt: (Don't think twice) Do think twice! (A-hoo!) 33
+V billie_jean.txt: She told my baby we'd danced till three, then she looked at me 34
+V billie_jean.txt: Then showed a photo of a baby cryin', his eyes were like mine (Oh, no) 35
+D billie_jean.txt: 'Cause we danced on the floor in the round, baby 36
+W billie_jean.txt: (Ooh, hee-hee-hee) 37
+V billie_jean.txt: Hee! 38
+V billie_jean.txt: Hoo! 39
+D billie_jean.txt:  40
+D billie_jean.txt: [Pre-Chorus] 41
+D billie_jean.txt: People always told me, "Be careful of what you do 42
+V billie_jean.txt: And don't go around breakin' young girls' hearts" 43
+D billie_jean.txt: (Don't break no hearts!) (Hee-hee) 44
+D billie_jean.txt: But she came and stood right by me 45
+D billie_jean.txt: Then the smell of sweet perfume (Ha-oh) 46
+V billie_jean.txt: This happened much too soon (Ha-oh, ha-ooh) 47
+V billie_jean.txt: She called me to her room (Ha-oh, hoo!) 48
+D billie_jean.txt:  49
+V billie_jean.txt: [Chorus] 50
+D billie_jean.txt: Billie Jean is not my lover (Hoo!) 51
+F billie_jean.txt: She's just a girl who claims that I am the one 52
+V billie_jean.txt: But the kid is not my son 53
+W billie_jean.txt: No-no-no, no-no-no-no-no-no (Hoo!) 54
+D billie_jean.txt: Billie Jean is not my lover 55
+V billie_jean.txt: She's just a girl who claims that I am the one (Oh baby) 56
+V billie_jean.txt: But the kid is not my son (Oh, no, no) 57
+V billie_jean.txt: She says I am the one (Oh baby) 58
+D billie_jean.txt: But the kid is not my son (No, hee-hee!) 59
+D billie_jean.txt: [Break] 60
+V billie_jean.txt: Ah, hee-hee-hee! 61
+V billie_jean.txt: Hee! Hoo! 62
+I billie_jean.txt:  63
+D billie_jean.txt: [Chorus] 64
+W billie_jean.txt: She says I am the one, but the kid is not my son 65
+V billie_jean.txt: No-no-no, hoo! (Hoo!) 66
+D billie_jean.txt: Billie Jean is not my lover 67
+V billie_jean.txt: She's just a girl who claims that I am the one 68
+V billie_jean.txt: But the kid is not my son 69
+D billie_jean.txt: No-no-no, no-no-no-no 70
+V billie_jean.txt: She says I am the one, but the kid is not my son (No-no-no) 71
+V billie_jean.txt: She says I am the one (You know what you did) 72
+V billie_jean.txt: She says he is my son (Breakin' my heart, babe) 73
+V billie_jean.txt: She says I am the one 74
+E billie_jean.txt:  75
+D billie_jean.txt: [Outro] 76
+D billie_jean.txt: Billie Jean is not my lover 77
+F billie_jean.txt: Billie Jean is not my lover 78
+D billie_jean.txt: Billie Jean is not my lover 79
+V billie_jean.txt: Billie Jean is not my lover (Don't call me Billie Jean) (Hoo!) 80
+V billie_jean.txt: Billie Jean is not my lover (She's not at the scene) 81
+V billie_jean.txt: Billie Jean is (Hee! Aaow! Ooh!) 82
+F billie_jean.txt: Billie Jean i 83

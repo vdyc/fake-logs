@@ -1,126 +1,126 @@
-A long, long time ago
-I can still remember how that music
-Used to make me smile
-And I knew if I had my chance
-That I could make those people dance
-And maybe they'd be happy for a while
-
-But February made me shiver
-With every paper I'd deliver
-Bad news on the doorstep
-I couldn't take one more step
-I can't remember if I cried
-When I read about his widowed bride
-Something touched me deep inside
-The day the music died
-
-So, bye-bye, Miss American Pie
-Drove my Chevy to the levee, but the levee was dry
-And them good ol' boys were drinkin' whiskey and rye
-Singin', "This'll be the day that I die
-This'll be the day that I die"
-Did you write the book of love
-And do you have faith in God above
-If the Bible tells you so?
-Now, do you believe in rock 'n' roll
-Can music save your mortal soul
-And can you teach me how to dance real slow?
-
-Well, I know that you're in love with him
-'Cause I saw you dancin' in the gym
-You both kicked off your shoes
-Man, I dig those rhythm and blues
-I was a lonely teenage bronckin' buck
-With a pink carnation and a pickup truck
-But I knew I was out of luck
-The day the music died
-I started singin', bye-bye, Miss American Pie
-Drove my Chevy to the levee, but the levee was dry
-Them good ol' boys were drinkin' whiskey and rye
-Singin', "This'll be the day that I die
-This'll be the day that I die"
-
-Now, for ten years we've been on our own
-And moss grows fat on a rollin' stone
-But that's not how it used to be
-When the jester sang for the king and queen
-In a coat he borrowed from James Dean
-And a voice that came from you and me
-Oh, and while the king was looking down
-The jester stole his thorny crown
-The courtroom was adjourned
-No verdict was returned
-And while Lenin read a book on Marx
-A quartet practiced in the park
-And we sang dirges in the dark
-The day the music died
-
-We were singin', bye-bye, Miss American Pie
-Drove my Chevy to the levee, but the levee was dry
-Them good ol' boys were drinkin' whiskey and rye
-Singin', "This'll be the day that I die
-This'll be the day that I die"
-Helter skelter in a summer swelter
-The birds flew off with a fallout shelter
-Eight miles high and falling fast
-It landed foul on the grass
-The players tried for a forward pass
-With the jester on the sidelines in a cast
-Now, the halftime air was sweet perfume
-While sergeants played a marching tune
-We all got up to dance
-Oh, but we never got the chance
-'Cause the players tried to take the field
-The marching band refused to yield
-Do you recall what was revealed
-The day the music died?
-
-We started singin', bye-bye, Miss American Pie
-Drove my Chevy to the levee, but the levee was dry
-Them good ol' boys were drinkin' whiskey and rye
-Singin', "This'll be the day that I die
-This'll be the day that I die"
-Oh, and there we were all in one place
-A generation lost in space
-With no time left to start again
-So, come on, Jack be nimble, Jack be quick
-Jack Flash sat on a candlestick
-'Cause fire is the Devil's only friend
-Oh, and as I watched him on the stage
-My hands were clenched in fists of rage
-No angel born in Hell
-Could break that Satan spell
-And as the flames climbed high into the night
-To light the sacrificial rite
-I saw Satan laughing with delight
-The day the music died
-
-He was singin', bye-bye, Miss American Pie
-Drove my Chevy to the levee, but the levee was dry
-Them good ol' boys were drinkin' whiskey and rye
-Singin', "This'll be the day that I die
-This'll be the day that I die"
-I met a girl who sang the blues
-And I asked her for some happy news
-But she just smiled and turned away
-I went down to the sacred store
-Where I'd heard the music years before
-But the man there said the music wouldn't play
-And in the streets the children screamed
-The lovers cried, and the poets dreamed
-But not a word was spoken
-The church bells all were broken
-And the three men I admire most
-The Father, Son and the Holy Ghost
-They caught the last train for the coast
-The day the music died
-
-And they were singin', bye-bye, Miss American Pie
-Drove my Chevy to the levee, but the levee was dry
-And them good ol' boys were drinkin' whiskey and rye
-Singin', "This'll be the day that I die
-This'll be the day that I die"
-They were singin', bye-bye, Miss American Pie
-Drove my Chevy to the levee, but the levee was dry
-Them good ol' boys were drinkin' whiskey and rye
-Singin', "This'll be the day that I die"
+V american_pie.txt: A long, long time ago 1
+D american_pie.txt: I can still remember how that music 2
+V american_pie.txt: Used to make me smile 3
+D american_pie.txt: And I knew if I had my chance 4
+W american_pie.txt: That I could make those people dance 5
+V american_pie.txt: And maybe they'd be happy for a while 6
+V american_pie.txt:  7
+V american_pie.txt: But February made me shiver 8
+D american_pie.txt: With every paper I'd deliver 9
+D american_pie.txt: Bad news on the doorstep 10
+V american_pie.txt: I couldn't take one more step 11
+V american_pie.txt: I can't remember if I cried 12
+V american_pie.txt: When I read about his widowed bride 13
+V american_pie.txt: Something touched me deep inside 14
+V american_pie.txt: The day the music died 15
+V american_pie.txt:  16
+V american_pie.txt: So, bye-bye, Miss American Pie 17
+V american_pie.txt: Drove my Chevy to the levee, but the levee was dry 18
+D american_pie.txt: And them good ol' boys were drinkin' whiskey and rye 19
+D american_pie.txt: Singin', "This'll be the day that I die 20
+V american_pie.txt: This'll be the day that I die" 21
+D american_pie.txt: Did you write the book of love 22
+V american_pie.txt: And do you have faith in God above 23
+W american_pie.txt: If the Bible tells you so? 24
+V american_pie.txt: Now, do you believe in rock 'n' roll 25
+V american_pie.txt: Can music save your mortal soul 26
+V american_pie.txt: And can you teach me how to dance real slow? 27
+V american_pie.txt:  28
+D american_pie.txt: Well, I know that you're in love with him 29
+V american_pie.txt: 'Cause I saw you dancin' in the gym 30
+D american_pie.txt: You both kicked off your shoes 31
+D american_pie.txt: Man, I dig those rhythm and blues 32
+D american_pie.txt: I was a lonely teenage bronckin' buck 33
+D american_pie.txt: With a pink carnation and a pickup truck 34
+ american_pie.txt: But I knew I was out of luck 35
+ american_pie.txt: The day the music died 36
+D american_pie.txt: I started singin', bye-bye, Miss American Pie 37
+D american_pie.txt: Drove my Chevy to the levee, but the levee was dry 38
+D american_pie.txt: Them good ol' boys were drinkin' whiskey and rye 39
+D american_pie.txt: Singin', "This'll be the day that I die 40
+W american_pie.txt: This'll be the day that I die" 41
+D american_pie.txt:  42
+D american_pie.txt: Now, for ten years we've been on our own 43
+D american_pie.txt: And moss grows fat on a rollin' stone 44
+V american_pie.txt: But that's not how it used to be 45
+D american_pie.txt: When the jester sang for the king and queen 46
+D american_pie.txt: In a coat he borrowed from James Dean 47
+V american_pie.txt: And a voice that came from you and me 48
+D american_pie.txt: Oh, and while the king was looking down 49
+V american_pie.txt: The jester stole his thorny crown 50
+V american_pie.txt: The courtroom was adjourned 51
+I american_pie.txt: No verdict was returned 52
+D american_pie.txt: And while Lenin read a book on Marx 53
+E american_pie.txt: A quartet practiced in the park 54
+E american_pie.txt: And we sang dirges in the dark 55
+V american_pie.txt: The day the music died 56
+D american_pie.txt:  57
+W american_pie.txt: We were singin', bye-bye, Miss American Pie 58
+V american_pie.txt: Drove my Chevy to the levee, but the levee was dry 59
+V american_pie.txt: Them good ol' boys were drinkin' whiskey and rye 60
+E american_pie.txt: Singin', "This'll be the day that I die 61
+V american_pie.txt: This'll be the day that I die" 62
+V american_pie.txt: Helter skelter in a summer swelter 63
+D american_pie.txt: The birds flew off with a fallout shelter 64
+D american_pie.txt: Eight miles high and falling fast 65
+D american_pie.txt: It landed foul on the grass 66
+V american_pie.txt: The players tried for a forward pass 67
+V american_pie.txt: With the jester on the sidelines in a cast 68
+V american_pie.txt: Now, the halftime air was sweet perfume 69
+V american_pie.txt: While sergeants played a marching tune 70
+W american_pie.txt: We all got up to dance 71
+V american_pie.txt: Oh, but we never got the chance 72
+V american_pie.txt: 'Cause the players tried to take the field 73
+D american_pie.txt: The marching band refused to yield 74
+V american_pie.txt: Do you recall what was revealed 75
+V american_pie.txt: The day the music died? 76
+D american_pie.txt:  77
+D american_pie.txt: We started singin', bye-bye, Miss American Pie 78
+V american_pie.txt: Drove my Chevy to the levee, but the levee was dry 79
+D american_pie.txt: Them good ol' boys were drinkin' whiskey and rye 80
+ american_pie.txt: Singin', "This'll be the day that I die 81
+W american_pie.txt: This'll be the day that I die" 82
+V american_pie.txt: Oh, and there we were all in one place 83
+D american_pie.txt: A generation lost in space 84
+D american_pie.txt: With no time left to start again 85
+D american_pie.txt: So, come on, Jack be nimble, Jack be quick 86
+V american_pie.txt: Jack Flash sat on a candlestick 87
+D american_pie.txt: 'Cause fire is the Devil's only friend 88
+V american_pie.txt: Oh, and as I watched him on the stage 89
+V american_pie.txt: My hands were clenched in fists of rage 90
+D american_pie.txt: No angel born in Hell 91
+V american_pie.txt: Could break that Satan spell 92
+V american_pie.txt: And as the flames climbed high into the night 93
+D american_pie.txt: To light the sacrificial rite 94
+V american_pie.txt: I saw Satan laughing with delight 95
+D american_pie.txt: The day the music died 96
+D american_pie.txt:  97
+D american_pie.txt: He was singin', bye-bye, Miss American Pie 98
+D american_pie.txt: Drove my Chevy to the levee, but the levee was dry 99
+W american_pie.txt: Them good ol' boys were drinkin' whiskey and rye 100
+V american_pie.txt: Singin', "This'll be the day that I die 101
+D american_pie.txt: This'll be the day that I die" 102
+D american_pie.txt: I met a girl who sang the blues 103
+D american_pie.txt: And I asked her for some happy news 104
+D american_pie.txt: But she just smiled and turned away 105
+D american_pie.txt: I went down to the sacred store 106
+V american_pie.txt: Where I'd heard the music years before 107
+D american_pie.txt: But the man there said the music wouldn't play 108
+V american_pie.txt: And in the streets the children screamed 109
+I american_pie.txt: The lovers cried, and the poets dreamed 110
+W american_pie.txt: But not a word was spoken 111
+V american_pie.txt: The church bells all were broken 112
+D american_pie.txt: And the three men I admire most 113
+D american_pie.txt: The Father, Son and the Holy Ghost 114
+E american_pie.txt: They caught the last train for the coast 115
+V american_pie.txt: The day the music died 116
+D american_pie.txt:  117
+V american_pie.txt: And they were singin', bye-bye, Miss American Pie 118
+V american_pie.txt: Drove my Chevy to the levee, but the levee was dry 119
+V american_pie.txt: And them good ol' boys were drinkin' whiskey and rye 120
+D american_pie.txt: Singin', "This'll be the day that I die 121
+D american_pie.txt: This'll be the day that I die" 122
+W american_pie.txt: They were singin', bye-bye, Miss American Pie 123
+D american_pie.txt: Drove my Chevy to the levee, but the levee was dry 124
+D american_pie.txt: Them good ol' boys were drinkin' whiskey and rye 125
+V american_pie.txt: Singin', "This'll be the day that I die 126

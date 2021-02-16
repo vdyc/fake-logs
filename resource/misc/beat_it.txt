@@ -1,67 +1,67 @@
-[Verse 1]
-They told him, "Don't you ever come around here
-Don't wanna see your face, you better disappear"
-The fire's in their eyes and their words are really clear
-So beat it, just beat it (Ooh!)
-You better run, you better do what you can
-Don't wanna see no blood, don't be a macho man (Ooh!)
-You wanna be tough, better do what you can
-So beat it, but you wanna be bad
-
-[Chorus]
-Just beat it, beat it, beat it, beat it
-No one wants to be defeated
-Showin' how funky and strong is your fight
-It doesn't matter who's wrong or right
-Just beat it (Beat it)
-Just beat it (Beat it)
-Just beat it (Beat it)
-Just beat it (Beat it, uh)
-
-[Verse 2]
-They're out to get you, better leave while you can
-Don't wanna be a boy, you wanna be a man
-You wanna stay alive, better do what you can
-So beat it, just beat it (Ooh!)
-You have to show them that you're really not scared (Ooh!)
-You're playin' with your life, this ain't no truth or dare (Ooh!)
-They'll kick you, then they'll beat you, then they'll tell you it's fair
-So beat it, but you wanna be bad
-
-
-[Chorus]
-Just beat it, beat it, beat it, beat it
-No one wants to be defeated
-Showin' how funky and strong is your fight
-It doesn't matter who's wrong or right
-Just beat it, beat it, beat it, beat it
-No one wants to be defeated
-Showin' how funky and strong is your fight
-It doesn't matter who's wrong or right
-Just beat it (Beat it, beat it, beat it)
-Beat it (Beat it, beat it, ha, ha, ha, ha)
-Beat it (Beat it, beat it)
-Beat it (Beat it, beat it)
-Beat it (Beat it, beat it)
-
-[Guitar Solo]
-
-[Chorus]
-Beat it, beat it, beat it, beat it
-No one wants to be defeated
-Showin' how funky and strong is your fight
-It doesn't matter who's wrong or right (Who's right)
-Just beat it, beat it, beat it, beat it (Hoo-hoo!)
-No one wants to be defeated (Oh, lord)
-Showin' how funky (Hee-hee!) and strong is your fight (Hee-hee-hee!)
-It doesn't matter who's wrong or right
-Just beat it, beat it, beat it, beat it
-No one wants to be defeated (Oh-no!)
-Showin' how funky (Hoo-hoo!) and strong is your fight (Hee-hee!)
-It doesn't matter who's wrong or right
-Just beat it, beat it, beat it, beat it
-No one wants to be defeated
-Showin' how funky and strong is your fight
-It doesn't matter who's wrong or right (Who's right)
-Just beat it, beat it, beat it, beat it (Hoo-hoo!)
-No one wants to be...
+D beat_it.txt: [Verse 1] 1
+V beat_it.txt: They told him, "Don't you ever come around here 2
+V beat_it.txt: Don't wanna see your face, you better disappear" 3
+D beat_it.txt: The fire's in their eyes and their words are really clear 4
+V beat_it.txt: So beat it, just beat it (Ooh!) 5
+D beat_it.txt: You better run, you better do what you can 6
+V beat_it.txt: Don't wanna see no blood, don't be a macho man (Ooh!) 7
+D beat_it.txt: You wanna be tough, better do what you can 8
+D beat_it.txt: So beat it, but you wanna be bad 9
+D beat_it.txt:  10
+D beat_it.txt: [Chorus] 11
+D beat_it.txt: Just beat it, beat it, beat it, beat it 12
+D beat_it.txt: No one wants to be defeated 13
+D beat_it.txt: Showin' how funky and strong is your fight 14
+V beat_it.txt: It doesn't matter who's wrong or right 15
+V beat_it.txt: Just beat it (Beat it) 16
+V beat_it.txt: Just beat it (Beat it) 17
+D beat_it.txt: Just beat it (Beat it) 18
+D beat_it.txt: Just beat it (Beat it, uh) 19
+D beat_it.txt:  20
+D beat_it.txt: [Verse 2] 21
+V beat_it.txt: They're out to get you, better leave while you can 22
+V beat_it.txt: Don't wanna be a boy, you wanna be a man 23
+D beat_it.txt: You wanna stay alive, better do what you can 24
+D beat_it.txt: So beat it, just beat it (Ooh!) 25
+V beat_it.txt: You have to show them that you're really not scared (Ooh!) 26
+W beat_it.txt: You're playin' with your life, this ain't no truth or dare (Ooh!) 27
+E beat_it.txt: They'll kick you, then they'll beat you, then they'll tell you it's fair 28
+V beat_it.txt: So beat it, but you wanna be bad 29
+D beat_it.txt:  30
+V beat_it.txt:  31
+V beat_it.txt: [Chorus] 32
+D beat_it.txt: Just beat it, beat it, beat it, beat it 33
+D beat_it.txt: No one wants to be defeated 34
+V beat_it.txt: Showin' how funky and strong is your fight 35
+E beat_it.txt: It doesn't matter who's wrong or right 36
+D beat_it.txt: Just beat it, beat it, beat it, beat it 37
+D beat_it.txt: No one wants to be defeated 38
+V beat_it.txt: Showin' how funky and strong is your fight 39
+D beat_it.txt: It doesn't matter who's wrong or right 40
+D beat_it.txt: Just beat it (Beat it, beat it, beat it) 41
+V beat_it.txt: Beat it (Beat it, beat it, ha, ha, ha, ha) 42
+V beat_it.txt: Beat it (Beat it, beat it) 43
+D beat_it.txt: Beat it (Beat it, beat it) 44
+D beat_it.txt: Beat it (Beat it, beat it) 45
+V beat_it.txt:  46
+D beat_it.txt: [Guitar Solo] 47
+V beat_it.txt:  48
+D beat_it.txt: [Chorus] 49
+V beat_it.txt: Beat it, beat it, beat it, beat it 50
+V beat_it.txt: No one wants to be defeated 51
+D beat_it.txt: Showin' how funky and strong is your fight 52
+D beat_it.txt: It doesn't matter who's wrong or right (Who's right) 53
+D beat_it.txt: Just beat it, beat it, beat it, beat it (Hoo-hoo!) 54
+D beat_it.txt: No one wants to be defeated (Oh, lord) 55
+D beat_it.txt: Showin' how funky (Hee-hee!) and strong is your fight (Hee-hee-hee!) 56
+D beat_it.txt: It doesn't matter who's wrong or right 57
+V beat_it.txt: Just beat it, beat it, beat it, beat it 58
+V beat_it.txt: No one wants to be defeated (Oh-no!) 59
+V beat_it.txt: Showin' how funky (Hoo-hoo!) and strong is your fight (Hee-hee!) 60
+V beat_it.txt: It doesn't matter who's wrong or right 61
+V beat_it.txt: Just beat it, beat it, beat it, beat it 62
+D beat_it.txt: No one wants to be defeated 63
+ beat_it.txt: Showin' how funky and strong is your fight 64
+V beat_it.txt: It doesn't matter who's wrong or right (Who's right) 65
+D beat_it.txt: Just beat it, beat it, beat it, beat it (Hoo-hoo!) 66
+V beat_it.txt: No one wants to be.. 67

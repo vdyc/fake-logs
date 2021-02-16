@@ -8,18 +8,22 @@ from .weighted_choice import WeightedChoice
 class FakeTokens:
 	"""List of methods to generate fake tokens."""
 
-	def __init__(self, faker=None, date=None, date_pattern="%d/%b/%Y:%H:%M:%S", sleep=None):
+	def __init__(self, faker=None, date=None, date_pattern="%d/%b/%Y:%H:%M:%S", sleep=None, time_sim=None):
 		self.faker = Faker() if faker is None else faker
 		self.otime = datetime.datetime.now() if date is None else date
 		self.dispatcher = {}
 		self.date_pattern = date_pattern
 		self.sleep = sleep
+		self.time_sim = time_sim
+		self.log_freq = None
 
 		self.register_token("b", self.init_size_object())
 		self.register_token("d", self.init_date())
 		self.register_token("h", self.init_host())
 		self.register_token("m", self.init_method())
+		self.register_token("p", self.init_pid_tid())
 		self.register_token("s", self.init_status_code())
+		self.register_token("t", self.init_tag())
 		self.register_token("u", self.init_user_agent())
 		self.register_token("v", self.init_server_name())
 		self.register_token("H", self.init_protocol())
@@ -39,21 +43,30 @@ class FakeTokens:
 		return self.dispatcher[token]()
 
 	def inc_date(self):
-		sleep = self.sleep if self.sleep is not None else random.randint(30, 300)
+		if self.log_freq is None:
+			sleep = self.sleep if self.sleep is not None else random.randint(30, 300)
+		else:
+			sleep = random.uniform(self.log_freq[0], self.log_freq[1])
 		increment = datetime.timedelta(seconds=sleep)
 		self.otime += increment
 		return self.otime
 
-
 	# ----------------------------------------------
-
 	def init_date(self):
 		"""Return the date (%d)."""
 		def get_date():
 			date = self.inc_date()
 			return date.strftime(self.date_pattern)
 
-		return get_date
+		def get_date_sim():
+			sleep = self.sleep if self.sleep is not None else random.randint(30, 300)
+			increment = datetime.timedelta(seconds=sleep)
+			self.otime += increment
+			return self.otime
+			date = self.inc_date()
+			return date.strftime(self.date_pattern)
+
+		return get_date if self.time_sim is None else get_date_sim
 
 	def init_host(self):
 		"""Return the client IP address (%h)."""
@@ -107,5 +120,12 @@ class FakeTokens:
 		rng = WeightedChoice(user_agent, [0.5, 0.3, 0.1, 0.05, 0.05])
 		return rng.run
 
+	def init_pid_tid(self):
+		return
 
+	def init_debug_level(self):
+		return
+
+	def init_tag(self):
+		return
 	# ----------------------------------------------

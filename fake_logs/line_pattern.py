@@ -6,24 +6,28 @@ class LinePattern:
 	"""Parse a pattern to generate a line inside the logs."""
 
 	patterns = {
-		"elf"      : '%h - - [%d %Z] "%m %U %H" %s %b "%R" "%u"',
-		"clf"      : '%h - - [%d %Z] "%m %U %H" %s %b',
+		"elf": '%h - - [%d %Z] "%m %U %H" %s %b "%R" "%u"',
+		"clf": '%h - - [%d %Z] "%m %U %H" %s %b',
 		"elf-vhost": '%v:%h - - [%d %Z] "%m %U %H" %s %b "%R" "%u"',
-		"clf-vhost": '%v:%h - - [%d %Z] "%m %U %H" %s %b'
+		"clf-vhost": '%v:%h - - [%d %Z] "%m %U %H" %s %b',
+		"logcat": '%d  %p %t: %b'
 	}
 
-	def __init__(self, pattern=None, date_pattern=None, file_format="elf", fake_tokens=None):
+	def __init__(self, pattern=None, date_pattern=None, file_format="logcat", fake_tokens=None, log_freq=None):
 		self.pattern = self.get_default_format(pattern, file_format)
-		self.date_pattern = "%d/%b/%Y:%H:%M:%S" if date_pattern is None else date_pattern
+		self.date_pattern = "%m-%d %H:%M:%S.%f" if date_pattern is None else date_pattern
 		self._sleep = None
 		self.fake_tokens = FakeTokens() if fake_tokens is None else fake_tokens
 		self.dispatcher = self.fake_tokens.get_tokens(self.date_pattern)
 		self.tokens = []
+		# sleep in seconds
+		if log_freq is not None:
+			self.fake_tokens.log_freq = [60 / log_freq[1], (60 / log_freq[0])]
 
 		tokens_regex = re.compile("%([a-zA-Z]{1})")
 		self.line = tokens_regex.sub(self.match_token, self.pattern)
 
-	def get_default_format(self, pattern=None, file_format="elf"):
+	def get_default_format(self, pattern=None, file_format="logcat"):
 		"""Return a correct pattern (custom or relative a standard file format)."""
 		if pattern is not None:
 			return pattern
@@ -32,6 +36,8 @@ class LinePattern:
 			file_format = "elf"
 		elif any(file_format in s for s in ["clf"]):
 			file_format = "clf"
+		elif any(file_format in s for s in ["logcat"]):
+			file_format = "logcat"
 
 		return self.patterns[file_format]
 

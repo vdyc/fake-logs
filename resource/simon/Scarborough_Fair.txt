@@ -1,34 +1,34 @@
-Scarborough Fair/Canticle
-Simon & Garfunkel
-Are you going to Scarborough Fair?
-Parsley, sage, rosemary, and thyme
-Remember me to one who lives there
-She once was a true love of mine
-
-Tell her to make me a cambric shirt (in the deep forest green)
-Parsley, sage, rosemary, and thyme
-(Tracing of sparrow on snow-crested ground)
-Without no seams nor needle work
-(Bedclothes the child of the mountain)
-Then she'll be a true love of mine
-(Sleeps unaware of the clarion call)
-
-Tell her to find me an acre of land
-(A sprinkling of leaves)
-Parsley, sage, rosemary and thyme
-(Washes the grave with silvery tears)
-Between the salt water and the sea strands
-(And polishes a gun)
-Then she'll be a true love of mine
-
-Tell her to reap it with a sickle of leather
-(Blazing in scarlet battalions)
-Parsley, sage, rosemary, and thyme
-(Generals order their soldiers to kill)
-And gather it all in a bunch of heather
-(A cause they've long ago forgotten)
-Then she'll be a true love of mine
-Are you going to Scarborough Fair?
-Parsley, sage, rosemary, and thyme
-Remember me to one who lives there
-She once was a true love of mine
+I Scarborough_Fair.txt: Scarborough Fair/Canticle 1
+E Scarborough_Fair.txt: Simon & Garfunkel 2
+E Scarborough_Fair.txt: Are you going to Scarborough Fair? 3
+D Scarborough_Fair.txt: Parsley, sage, rosemary, and thyme 4
+D Scarborough_Fair.txt: Remember me to one who lives there 5
+V Scarborough_Fair.txt: She once was a true love of mine 6
+V Scarborough_Fair.txt:  7
+D Scarborough_Fair.txt: Tell her to make me a cambric shirt (in the deep forest green) 8
+D Scarborough_Fair.txt: Parsley, sage, rosemary, and thyme 9
+V Scarborough_Fair.txt: (Tracing of sparrow on snow-crested ground) 10
+I Scarborough_Fair.txt: Without no seams nor needle work 11
+D Scarborough_Fair.txt: (Bedclothes the child of the mountain) 12
+D Scarborough_Fair.txt: Then she'll be a true love of mine 13
+V Scarborough_Fair.txt: (Sleeps unaware of the clarion call) 14
+D Scarborough_Fair.txt:  15
+D Scarborough_Fair.txt: Tell her to find me an acre of land 16
+V Scarborough_Fair.txt: (A sprinkling of leaves) 17
+V Scarborough_Fair.txt: Parsley, sage, rosemary and thyme 18
+D Scarborough_Fair.txt: (Washes the grave with silvery tears) 19
+V Scarborough_Fair.txt: Between the salt water and the sea strands 20
+V Scarborough_Fair.txt: (And polishes a gun) 21
+V Scarborough_Fair.txt: Then she'll be a true love of mine 22
+V Scarborough_Fair.txt:  23
+V Scarborough_Fair.txt: Tell her to reap it with a sickle of leather 24
+D Scarborough_Fair.txt: (Blazing in scarlet battalions) 25
+D Scarborough_Fair.txt: Parsley, sage, rosemary, and thyme 26
+V Scarborough_Fair.txt: (Generals order their soldiers to kill) 27
+D Scarborough_Fair.txt: And gather it all in a bunch of heather 28
+D Scarborough_Fair.txt: (A cause they've long ago forgotten) 29
+D Scarborough_Fair.txt: Then she'll be a true love of mine 30
+V Scarborough_Fair.txt: Are you going to Scarborough Fair? 31
+V Scarborough_Fair.txt: Parsley, sage, rosemary, and thyme 32
+D Scarborough_Fair.txt: Remember me to one who lives there 33
+V Scarborough_Fair.txt: She once was a true love of min 34

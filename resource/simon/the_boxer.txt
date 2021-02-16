@@ -1,0 +1,72 @@
+D the_boxer.txt: [Verse 1] 1
+V the_boxer.txt: I am just a poor boy, though my story's seldom told 2
+V the_boxer.txt: I have squandered my resistance for a pocketful of mumbles, such are promises 3
+V the_boxer.txt: All lies and jest, still a man hears what he wants to hear 4
+V the_boxer.txt: And disregards the rest, hmmmm 5
+D the_boxer.txt:  6
+W the_boxer.txt: [Verse 2] 7
+D the_boxer.txt: When I left my home and my family, I was no more than a boy 8
+D the_boxer.txt: In the company of strangers 9
+D the_boxer.txt: In the quiet of the railway station, runnin' scared, laying low 10
+D the_boxer.txt: Seeking out the poorer quarters, where the ragged people go 11
+V the_boxer.txt: Looking for the places only they would know 12
+D the_boxer.txt:  13
+D the_boxer.txt: [Hook] 14
+V the_boxer.txt: Lie la lie, lie la lie la lie la lie 15
+D the_boxer.txt: Lie la lie, lie la lie la lie la lie, la la lie la lie 16
+V the_boxer.txt:  17
+V the_boxer.txt: [Verse 3] 18
+D the_boxer.txt: Asking only workman's wages, I come lookin' for a job 19
+I the_boxer.txt: But I get no offers 20
+D the_boxer.txt: Just a come-on from the whores on 7th Avenue 21
+V the_boxer.txt: I do declare, there were times when I was so lonesome 22
+V the_boxer.txt: I took some comfort there, lalalalalalala 23
+D the_boxer.txt:  24
+V the_boxer.txt: [Verse 4] 25
+D the_boxer.txt: Now the years are rolling by me 26
+D the_boxer.txt: They are rockin' evenly 27
+V the_boxer.txt: I am older than I once was 28
+D the_boxer.txt: And younger than I'll be; that's not unusual 29
+I the_boxer.txt: Nor is it strange 30
+D the_boxer.txt: After changes upon changes 31
+V the_boxer.txt: We are more or less the same 32
+I the_boxer.txt: After changes we are more or less the same 33
+V the_boxer.txt:  34
+V the_boxer.txt: [Hook] 35
+D the_boxer.txt: Lie la lie, lie la lie la lie la lie 36
+V the_boxer.txt: Lie la lie, lie la lie la lie la lie, la la lie la lie 37
+V the_boxer.txt:  38
+V the_boxer.txt: [Verse 5] 39
+D the_boxer.txt: And I'm laying out my winter clothes and wishing I was gone 40
+W the_boxer.txt: Goin' home 41
+D the_boxer.txt: Where the New York City winters aren't bleedin' me 42
+D the_boxer.txt: Leadin' me 43
+D the_boxer.txt: Goin' home 44
+V the_boxer.txt:  45
+V the_boxer.txt: [Verse 6] 46
+D the_boxer.txt: In the clearing stands a boxer, and a fighter by his trade 47
+D the_boxer.txt: And he carries the reminders 48
+D the_boxer.txt: Of every glove that laid him down or cut him 49
+D the_boxer.txt: 'Til he cried out in his anger and his shame 50
+W the_boxer.txt: "I am leaving, I am leaving", but the fighter still remains 51
+V the_boxer.txt:  52
+V the_boxer.txt: [Hook] 53
+V the_boxer.txt: Lie la lie, lie la lie la lie la lie 54
+D the_boxer.txt: Lie la lie, lie la lie la lie la lie, la la lie la lie 55
+V the_boxer.txt: Lie la lie, lie la lie la lie la lie 56
+D the_boxer.txt: Lie la lie, lie la lie la lie la lie, la la lie la lie 57
+V the_boxer.txt: Lie la lie, lie la lie la lie la lie 58
+E the_boxer.txt: Lie la lie, lie la lie la lie la lie, la la lie la lie 59
+D the_boxer.txt: Lie la lie, lie la lie la lie la lie 60
+D the_boxer.txt: Lie la lie, lie la lie la lie la lie, la la lie la lie 61
+V the_boxer.txt: Lie la lie, lie la lie la lie la lie 62
+V the_boxer.txt: Lie la lie, lie la lie la lie la lie, la la lie la lie 63
+D the_boxer.txt: Lie la lie, lie la lie la lie la lie 64
+V the_boxer.txt: Lie la lie, lie la lie la lie la lie, la la lie la lie 65
+D the_boxer.txt: Lie la lie, lie la lie la lie la lie 66
+D the_boxer.txt: Lie la lie, lie la lie la lie la lie, la la lie la lie 67
+D the_boxer.txt: Lie la lie, lie la lie la lie la lie 68
+I the_boxer.txt: Lie la lie, lie la lie la lie la lie, la la lie la lie 69
+V the_boxer.txt: Lie la lie, lie la lie la lie la lie 70
+D the_boxer.txt: Lie la lie, lie la lie la lie la lie, la la lie la lie 71
+D the_boxer.txt: I love you 72
