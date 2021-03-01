@@ -11,7 +11,7 @@ parser.add_argument("--Sleep"       , "-s", dest="sleep"       , help="Sleep thi
 parser.add_argument("--Format"      , "-f", dest="format"      , help="Line format", choices=["apache", "nginx", "lighttpd", "elf", "clf", "ncsa", "logcat"], type=str, default="logcat")
 parser.add_argument("--Pattern"     , "-p", dest="pattern"     , help="Custom pattern", type=str, default=None)
 parser.add_argument("--Date-pattern", "-d", dest="date_pattern", help="Date pattern", type=str, default=None)
-parser.add_argument("--Log-freq",     "-l", dest="log_freq"    , help="recurrence in one minute", type=list, default=[13000, 15000])
+parser.add_argument("--Log-freq",     "-l", dest="log_freq"    , help="recurrence in one minute", type=int, default=15000)
 parser.add_argument("--Realtime",     "-r", dest="realtime"    , help="log interval with real time sleep", type=bool, default=False)
 args = parser.parse_args()
 

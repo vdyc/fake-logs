@@ -1,93 +1,93 @@
-D they_dont_care_about_us.txt:  1
+E they_dont_care_about_us.txt:  1
 V they_dont_care_about_us.txt: All I want to say is that they don't really care about us 2
 D they_dont_care_about_us.txt: Don't worry what people say, we know the truth 3
-V they_dont_care_about_us.txt: All I want to say is that they don't really care about us 4
+F they_dont_care_about_us.txt: All I want to say is that they don't really care about us 4
 V they_dont_care_about_us.txt: Enough is enough of this garbage 5
 V they_dont_care_about_us.txt: All I want to say is that they don't really care about us 6
 D they_dont_care_about_us.txt: (Overlapping voices) 7
 D they_dont_care_about_us.txt:  8
 V they_dont_care_about_us.txt: [Verse 1] 9
 V they_dont_care_about_us.txt: Skin head, dead head, everybody gone bad 10
-D they_dont_care_about_us.txt: Situation, aggravation, everybody, allegation 11
+I they_dont_care_about_us.txt: Situation, aggravation, everybody, allegation 11
 V they_dont_care_about_us.txt: In the suit, on the news, everybody, dog food 12
-V they_dont_care_about_us.txt: Bang bang, shot dead, everybody's gone mad 13
- they_dont_care_about_us.txt:  14
+I they_dont_care_about_us.txt: Bang bang, shot dead, everybody's gone mad 13
+V they_dont_care_about_us.txt:  14
 V they_dont_care_about_us.txt: [Chorus] 15
-D they_dont_care_about_us.txt: All I wanna say is that they don't really care about us 16
-D they_dont_care_about_us.txt: All I wanna say is that they don't really care about us 17
+V they_dont_care_about_us.txt: All I wanna say is that they don't really care about us 16
+V they_dont_care_about_us.txt: All I wanna say is that they don't really care about us 17
 W they_dont_care_about_us.txt:  18
 V they_dont_care_about_us.txt: [Verse 2] 19
-V they_dont_care_about_us.txt: Beat me, hate me, you can never break me 20
-E they_dont_care_about_us.txt: Will me, thrill me, you can never kill me 21
-V they_dont_care_about_us.txt: Jew me, sue me, everybody do me 22
-I they_dont_care_about_us.txt: Kick me, kike me, don't you black or white me 23
-I they_dont_care_about_us.txt:  24
-I they_dont_care_about_us.txt: [Chorus] 25
-D they_dont_care_about_us.txt: All I wanna say is that they don't really care about us 26
-D they_dont_care_about_us.txt: All I wanna say is that they don't really care about us 27
-D they_dont_care_about_us.txt:  28
+D they_dont_care_about_us.txt: Beat me, hate me, you can never break me 20
+W they_dont_care_about_us.txt: Will me, thrill me, you can never kill me 21
+D they_dont_care_about_us.txt: Jew me, sue me, everybody do me 22
+D they_dont_care_about_us.txt: Kick me, kike me, don't you black or white me 23
+V they_dont_care_about_us.txt:  24
+D they_dont_care_about_us.txt: [Chorus] 25
+V they_dont_care_about_us.txt: All I wanna say is that they don't really care about us 26
+V they_dont_care_about_us.txt: All I wanna say is that they don't really care about us 27
+V they_dont_care_about_us.txt:  28
 V they_dont_care_about_us.txt:  29
 V they_dont_care_about_us.txt: Primis Player Placeholder 30
-V they_dont_care_about_us.txt:  31
-E they_dont_care_about_us.txt:  A Vocal Coach Reacts To Lil Tjay's Melodies | Genius News 32
-D they_dont_care_about_us.txt:  33
-D they_dont_care_about_us.txt: [Post-Chorus] 34
-V they_dont_care_about_us.txt: Tell me, what has become of my life? 35
-W they_dont_care_about_us.txt: I have a wife and two children who love me 36
-V they_dont_care_about_us.txt: I am the victim of police brutality, now 37
-E they_dont_care_about_us.txt: I'm tired of being the victim of hate 38
-V they_dont_care_about_us.txt: You're ripping me of my pride, oh, for God's sake 39
+W they_dont_care_about_us.txt:  31
+D they_dont_care_about_us.txt:  A Vocal Coach Reacts To Lil Tjay's Melodies | Genius News 32
+V they_dont_care_about_us.txt:  33
+V they_dont_care_about_us.txt: [Post-Chorus] 34
+D they_dont_care_about_us.txt: Tell me, what has become of my life? 35
+V they_dont_care_about_us.txt: I have a wife and two children who love me 36
+D they_dont_care_about_us.txt: I am the victim of police brutality, now 37
+D they_dont_care_about_us.txt: I'm tired of being the victim of hate 38
+W they_dont_care_about_us.txt: You're ripping me of my pride, oh, for God's sake 39
 V they_dont_care_about_us.txt: I look to heaven to fulfill its prophecy, set me free 40
-I they_dont_care_about_us.txt:  41
+V they_dont_care_about_us.txt:  41
 D they_dont_care_about_us.txt: [Verse 3] 42
-D they_dont_care_about_us.txt: Skin head, dead head, everybody's gone bad 43
-D they_dont_care_about_us.txt: Trepidation, speculation, everybody, allegation 44
+V they_dont_care_about_us.txt: Skin head, dead head, everybody's gone bad 43
+V they_dont_care_about_us.txt: Trepidation, speculation, everybody, allegation 44
 V they_dont_care_about_us.txt: In the suit, on the news, everybody, dog food 45
-W they_dont_care_about_us.txt: Black male, blackmail, throw the brother in jail 46
+D they_dont_care_about_us.txt: Black male, blackmail, throw the brother in jail 46
 D they_dont_care_about_us.txt:  47
-D they_dont_care_about_us.txt: [Chorus] 48
-V they_dont_care_about_us.txt: All I wanna say is that they don't really care about us 49
-D they_dont_care_about_us.txt: All I wanna say is that they don't really care about us 50
-V they_dont_care_about_us.txt:  51
-V they_dont_care_about_us.txt: [Post-Chorus] 52
+V they_dont_care_about_us.txt: [Chorus] 48
+D they_dont_care_about_us.txt: All I wanna say is that they don't really care about us 49
+E they_dont_care_about_us.txt: All I wanna say is that they don't really care about us 50
+D they_dont_care_about_us.txt:  51
+D they_dont_care_about_us.txt: [Post-Chorus] 52
 D they_dont_care_about_us.txt: Tell me, what has become of my rights? 53
 V they_dont_care_about_us.txt: Am I invisible 'cause you ignore me? 54
-V they_dont_care_about_us.txt: Your proclamation promised me free liberty, now 55
+D they_dont_care_about_us.txt: Your proclamation promised me free liberty, now 55
 D they_dont_care_about_us.txt: I'm tired of being the victim of shame 56
 V they_dont_care_about_us.txt: They're throwing me in a class with a bad name 57
-V they_dont_care_about_us.txt: I can't believe this is the land from which I came 58
-V they_dont_care_about_us.txt: You know, I really do hate to say it 59
-D they_dont_care_about_us.txt: The government don't wanna see 60
+W they_dont_care_about_us.txt: I can't believe this is the land from which I came 58
+W they_dont_care_about_us.txt: You know, I really do hate to say it 59
+I they_dont_care_about_us.txt: The government don't wanna see 60
 D they_dont_care_about_us.txt: But if Roosevelt was livin' 61
-V they_dont_care_about_us.txt: He wouldn't let this be, no, no 62
-D they_dont_care_about_us.txt:  63
-D they_dont_care_about_us.txt:  64
+D they_dont_care_about_us.txt: He wouldn't let this be, no, no 62
+V they_dont_care_about_us.txt:  63
+V they_dont_care_about_us.txt:  64
 D they_dont_care_about_us.txt: [Verse 4] 65
-D they_dont_care_about_us.txt: Skin head, dead head, everybody's gone bad 66
+V they_dont_care_about_us.txt: Skin head, dead head, everybody's gone bad 66
 D they_dont_care_about_us.txt: Situation, speculation, everybody, litigation 67
 V they_dont_care_about_us.txt: Beat me, bash me, you can never trash me 68
-I they_dont_care_about_us.txt: Hit me, kick me, you can never get me 69
-E they_dont_care_about_us.txt:  70
-V they_dont_care_about_us.txt: [Chorus] 71
-V they_dont_care_about_us.txt: All I wanna say is that they don't really care about us 72
-D they_dont_care_about_us.txt: All I wanna say is that they don't really care about us 73
+D they_dont_care_about_us.txt: Hit me, kick me, you can never get me 69
+V they_dont_care_about_us.txt:  70
+F they_dont_care_about_us.txt: [Chorus] 71
+D they_dont_care_about_us.txt: All I wanna say is that they don't really care about us 72
+V they_dont_care_about_us.txt: All I wanna say is that they don't really care about us 73
 V they_dont_care_about_us.txt:  74
 V they_dont_care_about_us.txt: [Bridge] 75
-D they_dont_care_about_us.txt: Some things in life 76
-D they_dont_care_about_us.txt: They just don't wanna see 77
+V they_dont_care_about_us.txt: Some things in life 76
+V they_dont_care_about_us.txt: They just don't wanna see 77
 D they_dont_care_about_us.txt: But if Martin Luther was livin' 78
-D they_dont_care_about_us.txt: He wouldn't let this be, no, no 79
-V they_dont_care_about_us.txt:  80
+V they_dont_care_about_us.txt: He wouldn't let this be, no, no 79
+W they_dont_care_about_us.txt:  80
 D they_dont_care_about_us.txt: [Verse 5] 81
 D they_dont_care_about_us.txt: Skin head, dead head, everybody's gone bad 82
-D they_dont_care_about_us.txt: Situation, segregation, everybody, allegation 83
- they_dont_care_about_us.txt: In the suit, on the news, everybody, dog food 84
+V they_dont_care_about_us.txt: Situation, segregation, everybody, allegation 83
+V they_dont_care_about_us.txt: In the suit, on the news, everybody, dog food 84
 V they_dont_care_about_us.txt: Kick me, kike me, don't you wrong or right me 85
-D they_dont_care_about_us.txt:  86
-W they_dont_care_about_us.txt: [Chorus] 87
+V they_dont_care_about_us.txt:  86
+V they_dont_care_about_us.txt: [Chorus] 87
 V they_dont_care_about_us.txt: All I wanna say is that they don't really care about us 88
 V they_dont_care_about_us.txt: All I wanna say is that they don't really care about us 89
 V they_dont_care_about_us.txt: All I wanna say is that they don't really care about us 90
 V they_dont_care_about_us.txt: All I wanna say is that they don't really care about us 91
-V they_dont_care_about_us.txt: All I wanna say is that they don't really care about us 92
-D they_dont_care_about_us.txt: All I wanna say is that they don't really care about u 93
+D they_dont_care_about_us.txt: All I wanna say is that they don't really care about us 92
+V they_dont_care_about_us.txt: All I wanna say is that they don't really care about u 93

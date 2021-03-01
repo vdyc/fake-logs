@@ -1,53 +1,53 @@
 D vincent.txt: Vincent 1
 V vincent.txt: Don McLean 2
-V vincent.txt: Starry, starry night 3
+D vincent.txt: Starry, starry night 3
 V vincent.txt: Paint your palette blue and gray 4
 D vincent.txt: Look out on a summer's day 5
 D vincent.txt: With eyes that know the darkness in my soul 6
-D vincent.txt: Shadows on the hills 7
+V vincent.txt: Shadows on the hills 7
 V vincent.txt: Sketch the trees and the daffodils 8
 D vincent.txt: Catch the breeze and the winter chills 9
 D vincent.txt: In colors on the snowy, linen land 10
-D vincent.txt:  11
-V vincent.txt: Now, I understand what you tried to say to me 12
-D vincent.txt: And how you suffered for your sanity 13
-D vincent.txt: And how you tried to set them free 14
+W vincent.txt:  11
+D vincent.txt: Now, I understand what you tried to say to me 12
+W vincent.txt: And how you suffered for your sanity 13
+V vincent.txt: And how you tried to set them free 14
 V vincent.txt: They would not listen, they did not know how 15
 V vincent.txt: Perhaps they'll listen now 16
 V vincent.txt:  17
-D vincent.txt: Starry, starry night 18
-D vincent.txt: Flaming flowers that brightly blaze 19
-I vincent.txt: Swirling clouds in violet haze 20
-D vincent.txt: Reflect in Vincent's eyes of china blue 21
-D vincent.txt: Colors changing hue 22
-V vincent.txt: Morning fields of amber grain 23
+V vincent.txt: Starry, starry night 18
+V vincent.txt: Flaming flowers that brightly blaze 19
+V vincent.txt: Swirling clouds in violet haze 20
+W vincent.txt: Reflect in Vincent's eyes of china blue 21
+V vincent.txt: Colors changing hue 22
+D vincent.txt: Morning fields of amber grain 23
 V vincent.txt: Weathered faces lined in pain 24
 V vincent.txt: Are soothed beneath the artist's loving hand 25
 D vincent.txt: Now, I understand, what you tried to say to me 26
-E vincent.txt: How you suffered for your sanity 27
-D vincent.txt: How you tried to set them free 28
-V vincent.txt: They would not listen, they did not know how 29
+V vincent.txt: How you suffered for your sanity 27
+E vincent.txt: How you tried to set them free 28
+D vincent.txt: They would not listen, they did not know how 29
 V vincent.txt: Perhaps they'll listen now 30
 V vincent.txt:  31
 V vincent.txt: For they could not love you 32
-D vincent.txt: But still your love was true 33
-I vincent.txt: And when no hope was left inside 34
+V vincent.txt: But still your love was true 33
+V vincent.txt: And when no hope was left inside 34
 V vincent.txt: On that starry, starry night 35
-D vincent.txt: You took your life as lovers often do 36
-W vincent.txt: But I could have told you, Vincent 37
+V vincent.txt: You took your life as lovers often do 36
+F vincent.txt: But I could have told you, Vincent 37
 D vincent.txt: This world was never meant for one 38
-V vincent.txt: As beautiful as you 39
-V vincent.txt:  40
-V vincent.txt: Starry, starry night 41
+D vincent.txt: As beautiful as you 39
+D vincent.txt:  40
+F vincent.txt: Starry, starry night 41
 V vincent.txt: Portraits hung in empty halls 42
-F vincent.txt: Frameless heads on nameless walls 43
+W vincent.txt: Frameless heads on nameless walls 43
 D vincent.txt: With eyes that watch the world and can't forget 44
-W vincent.txt: Like the strangers that you've met 45
+V vincent.txt: Like the strangers that you've met 45
 V vincent.txt: The ragged men in ragged clothes 46
 V vincent.txt: The silver thorn of bloody rose 47
 V vincent.txt: Lie crushed and broken on the virgin snow 48
-W vincent.txt: Now, I think I know what you tried to say to me 49
-V vincent.txt: How you suffered for your sanity 50
-V vincent.txt: How you tried to set them free 51
+D vincent.txt: Now, I think I know what you tried to say to me 49
+D vincent.txt: How you suffered for your sanity 50
+D vincent.txt: How you tried to set them free 51
 V vincent.txt: They would not listen, they're not listening still 52
-D vincent.txt: Perhaps they never wil 53
+V vincent.txt: Perhaps they never wil 53

@@ -1,76 +1,76 @@
-W when_we_are_young.txt: Everybody loves the things you do 1
+V when_we_are_young.txt: Everybody loves the things you do 1
 D when_we_are_young.txt: From the way you talk 2
 V when_we_are_young.txt: To the way you move 3
-V when_we_are_young.txt: Everybody here is watching you 4
-V when_we_are_young.txt: 'Cause you feel like home 5
-V when_we_are_young.txt: You're like a dream come true 6
-V when_we_are_young.txt:  7
+D when_we_are_young.txt: Everybody here is watching you 4
+F when_we_are_young.txt: 'Cause you feel like home 5
+D when_we_are_young.txt: You're like a dream come true 6
+W when_we_are_young.txt:  7
 D when_we_are_young.txt: But if by chance you're here alone 8
-D when_we_are_young.txt: Can I have a moment? 9
-I when_we_are_young.txt: Before I go? 10
-V when_we_are_young.txt: 'Cause I've been by myself all night long 11
-D when_we_are_young.txt: Hoping you're someone I used to know 12
-D when_we_are_young.txt:  13
-D when_we_are_young.txt: You look like a movie 14
-V when_we_are_young.txt: You sound like a song 15
-V when_we_are_young.txt: My God this reminds me, of when we were young 16
+E when_we_are_young.txt: Can I have a moment? 9
+D when_we_are_young.txt: Before I go? 10
+I when_we_are_young.txt: 'Cause I've been by myself all night long 11
+V when_we_are_young.txt: Hoping you're someone I used to know 12
+V when_we_are_young.txt:  13
+V when_we_are_young.txt: You look like a movie 14
+I when_we_are_young.txt: You sound like a song 15
+D when_we_are_young.txt: My God this reminds me, of when we were young 16
 V when_we_are_young.txt:  17
-D when_we_are_young.txt: Let me photograph you in this light 18
+V when_we_are_young.txt: Let me photograph you in this light 18
 V when_we_are_young.txt: In case it is the last time 19
-D when_we_are_young.txt: That we might be exactly like we were 20
-D when_we_are_young.txt: Before we realized 21
+V when_we_are_young.txt: That we might be exactly like we were 20
+I when_we_are_young.txt: Before we realized 21
 D when_we_are_young.txt: We were scared of getting old 22
-V when_we_are_young.txt: It made us restless 23
-V when_we_are_young.txt: It was just like a movie 24
-V when_we_are_young.txt: It was just like a song 25
-V when_we_are_young.txt:  26
-V when_we_are_young.txt: I was so scared to face my fears 27
-V when_we_are_young.txt: Nobody told me that you'd be here 28
+D when_we_are_young.txt: It made us restless 23
+D when_we_are_young.txt: It was just like a movie 24
+D when_we_are_young.txt: It was just like a song 25
+D when_we_are_young.txt:  26
+D when_we_are_young.txt: I was so scared to face my fears 27
+D when_we_are_young.txt: Nobody told me that you'd be here 28
 V when_we_are_young.txt: And I'd swear you moved overseas 29
-D when_we_are_young.txt: That's what you said, when you left me 30
+V when_we_are_young.txt: That's what you said, when you left me 30
 V when_we_are_young.txt:  31
 V when_we_are_young.txt: You still look like a movie 32
-V when_we_are_young.txt: You still sound like a song 33
-D when_we_are_young.txt: My God, this reminds me, of when we were young 34
+D when_we_are_young.txt: You still sound like a song 33
+V when_we_are_young.txt: My God, this reminds me, of when we were young 34
 V when_we_are_young.txt:  35
-D when_we_are_young.txt: Let me photograph you in this light 36
+V when_we_are_young.txt: Let me photograph you in this light 36
 V when_we_are_young.txt: In case it is the last time 37
-W when_we_are_young.txt: That we might be exactly like we were 38
-D when_we_are_young.txt: Before we realized 39
- when_we_are_young.txt: We were sad of getting old 40
+V when_we_are_young.txt: That we might be exactly like we were 38
+V when_we_are_young.txt: Before we realized 39
+V when_we_are_young.txt: We were sad of getting old 40
 V when_we_are_young.txt: It made us restless 41
-V when_we_are_young.txt: It was just like a movie 42
-V when_we_are_young.txt: It was just like a song 43
+D when_we_are_young.txt: It was just like a movie 42
+D when_we_are_young.txt: It was just like a song 43
 V when_we_are_young.txt: When we were young 44
-D when_we_are_young.txt: (When we were young) 45
-D when_we_are_young.txt: When we were young 46
+V when_we_are_young.txt: (When we were young) 45
+V when_we_are_young.txt: When we were young 46
 D when_we_are_young.txt: (When we were young) 47
-W when_we_are_young.txt: It's hard to win me back 48
+I when_we_are_young.txt: It's hard to win me back 48
 D when_we_are_young.txt: Everything just takes me back 49
-D when_we_are_young.txt: To when you were there 50
+V when_we_are_young.txt: To when you were there 50
 V when_we_are_young.txt: To when you were there 51
 V when_we_are_young.txt:  52
-V when_we_are_young.txt: And a part of me keeps holding on 53
+D when_we_are_young.txt: And a part of me keeps holding on 53
 D when_we_are_young.txt: Just in case it hasn't gone 54
-D when_we_are_young.txt: I guess I still care 55
-D when_we_are_young.txt: Do you still care? 56
+V when_we_are_young.txt: I guess I still care 55
+V when_we_are_young.txt: Do you still care? 56
 D when_we_are_young.txt: It was just like a movie 57
 D when_we_are_young.txt: It was just like a song 58
 V when_we_are_young.txt: My God, this reminds me 59
 D when_we_are_young.txt: Of when we were young 60
-I when_we_are_young.txt: When we were young 61
-V when_we_are_young.txt: (When we were young) 62
-W when_we_are_young.txt: When we were young 63
-D when_we_are_young.txt: (When we were young) 64
+D when_we_are_young.txt: When we were young 61
+D when_we_are_young.txt: (When we were young) 62
+D when_we_are_young.txt: When we were young 63
+V when_we_are_young.txt: (When we were young) 64
 V when_we_are_young.txt:  65
 D when_we_are_young.txt: Let me photograph you in this light 66
 V when_we_are_young.txt: In case it is the last time 67
 V when_we_are_young.txt: That we might be exactly like we were 68
-D when_we_are_young.txt: Before we realized 69
-D when_we_are_young.txt: We were sad of getting old 70
-V when_we_are_young.txt: It made us restless 71
-V when_we_are_young.txt: Oh I'm so mad I'm getting old 72
-V when_we_are_young.txt: It makes me reckless 73
-V when_we_are_young.txt: It was just like a movie 74
-D when_we_are_young.txt: It was just like a song 75
-V when_we_are_young.txt: When we were youn 76
+V when_we_are_young.txt: Before we realized 69
+V when_we_are_young.txt: We were sad of getting old 70
+I when_we_are_young.txt: It made us restless 71
+D when_we_are_young.txt: Oh I'm so mad I'm getting old 72
+D when_we_are_young.txt: It makes me reckless 73
+D when_we_are_young.txt: It was just like a movie 74
+V when_we_are_young.txt: It was just like a song 75
+D when_we_are_young.txt: When we were youn 76

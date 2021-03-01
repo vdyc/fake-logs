@@ -1,12 +1,12 @@
 <div align="center">
-	<h1>Python Fake Logs</h1>
+	<h1>Logcat Fake Logs</h1>
 
 [![license][license]][license-url]
 [![build][build]][build-url]
 <br /><br />
 </div>
 
-This script generates fake logs in various formats ([ELF][elf], [CLF][clf]).
+This script generates fake logs in various formats ([logcat][logcat], [ELF][elf], [CLF][clf]).
 Some options are directly available to help you format log output (see [Options](#options) section below). You can also easily override the script and add your own tokens (see [Custom tokens](#custom-tokens) section).
 
 
@@ -27,6 +27,21 @@ python fake-logs.py
 
 
 ## Usage
+
+Generate 50000 lines to STDOUT (logcat format):
+```sh
+Each subfolder in "resource" act as a PID, text file act as TID generator
+Replace with your own txt file if you don't like the song taste, and populate debug level etc by:
+# python fake_logs/util.py -i TEXT_FOLDER
+
+To generate the fake logcat at freq 10000/min, run:
+# python fake-logs.py -n 50000 -f logcat -o test_log_50000.log -l 10000
+
+# 02-28 13:43:54.054089  2755 6483 V bad.txt: [Verse 1] 1
+# 02-28 13:43:54.057123  1679 9487 I wind_of_change.txt: Follow the Moskva 1
+# 02-28 13:43:54.059960  2942 639 V thriller.txt: Verse 1: Michael Jackson] 1
+# ...
+```
 
 Generate 100 lines to STDOUT (Apache format):
 ```sh
@@ -71,6 +86,7 @@ You can use `python fake-logs.py -h` to get all available options.
 | `--format` (`-f`)       | Preconfigured line format (see `-h` option)     |
 | `--pattern` (`-p`)      | Custom log pattern                              |
 | `--date-pattern` (`-d`) | Custom date pattern                             |
+| `--log-freq` (`-l`)     | Log recurrence in one minute (def 15000)        |
 | `--help` (`-h`)         | List all available options                      |
 
 
@@ -81,6 +97,7 @@ The `pattern` option (`-p`) can be used to provide a customizable log format :
 | Specifier  | Description                                   | Example             |
 | ---------: | :-------------------------------------------- | :------------------ |
 | `%b`       | The size of the object returned to the client | 4943                |
+| `%c`       | The content to be print                       | D sound_of_silence.txt: Hello darkness, my old friend 3  |
 | `%d`       | The date (see `date-pattern` option)          | 1970/01/01 00:00:00 |
 | `%h`       | The client IP address                         | 192.30.253.112      |
 | `%m`       | The request method                            | GET                 |
@@ -121,11 +138,11 @@ python examples/custom_tokens.py -n 2 -p '"%m %Y" - %h'
 
 ## Resources
 
-* Inspiration : [Fake-Apache-Log-Generator][falg]
+* Android logcat format: [Android logcat format][logcat]
+* Inspiration : [Python Fake Logs][fake-logs]
 * NCSA Common Log Format : [CLF][clf]
 * W3C Extended Log Format : [ELF][elf]
 * List of specifiers : [Apache][apache], [Nginx][nginx], [Lighttpd][lighttpd], [GoAccess][goaccess]
-* Android logcat format: [Android logcat format][logcat]
 
 ## License
 
@@ -135,11 +152,11 @@ Fake Logs is [MIT licensed](./LICENSE).
 [//]: # (---------------------------------------------------------------------)
 
 [//]: # (Resources)
-[falg]:       https://github.com/kiritbasu/Fake-Apache-Log-Generator
+[fake-logs]:  https://github.com/s4tori/fake-logs
 [clf]:        https://www.w3.org/Daemon/User/Config/Logging.html#common_logfile_format
 [elf]:        https://www.w3.org/TR/WD-logfile.html
 [apache]:     https://httpd.apache.org/docs/current/en/mod/mod_log_config.html
-[nginx]:     http://nginx.org/en/docs/http/ngx_http_log_module.html#log_format
+[nginx]:      http://nginx.org/en/docs/http/ngx_http_log_module.html#log_format
 [goaccess]:   https://goaccess.io/man#custom-log
 [lighttpd]:   https://redmine.lighttpd.net/projects/1/wiki/Docs_ModAccesslog
 [logcat]:     https://developer.android.com/studio/debug/am-logcat

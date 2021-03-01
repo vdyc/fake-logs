@@ -1,32 +1,32 @@
-D always_somewhere.txt: [Verse 1] 1
-D always_somewhere.txt: Arrive at seven the place feels good 2
-D always_somewhere.txt: No time to call you today 3
-V always_somewhere.txt: Encores 'til eleven, then Chinese food 4
-D always_somewhere.txt: Back to the hotel again 5
-D always_somewhere.txt:  6
- always_somewhere.txt: [Verse 2] 7
-D always_somewhere.txt: I call your number; the line ain't free 8
+V always_somewhere.txt: [Verse 1] 1
+V always_somewhere.txt: Arrive at seven the place feels good 2
+V always_somewhere.txt: No time to call you today 3
+F always_somewhere.txt: Encores 'til eleven, then Chinese food 4
+V always_somewhere.txt: Back to the hotel again 5
+V always_somewhere.txt:  6
+D always_somewhere.txt: [Verse 2] 7
+V always_somewhere.txt: I call your number; the line ain't free 8
 D always_somewhere.txt: I like to tell you come to me 9
-V always_somewhere.txt: A night without you seems like a lost dream 10
-V always_somewhere.txt: Love, I can't tell you how I feel 11
+W always_somewhere.txt: A night without you seems like a lost dream 10
+D always_somewhere.txt: Love, I can't tell you how I feel 11
 D always_somewhere.txt:  12
 V always_somewhere.txt: [Refrain] 13
-E always_somewhere.txt: Always somewhere 14
+D always_somewhere.txt: Always somewhere 14
 V always_somewhere.txt: Miss you where I've been 15
 D always_somewhere.txt: I'll be back to love you again 16
 D always_somewhere.txt: Always somewhere 17
 D always_somewhere.txt: Miss you where I've been 18
-V always_somewhere.txt: I'll be back to love you again 19
+D always_somewhere.txt: I'll be back to love you again 19
 V always_somewhere.txt:  20
-D always_somewhere.txt: [Verse 3] 21
+V always_somewhere.txt: [Verse 3] 21
 D always_somewhere.txt: Another morning another place 22
-V always_somewhere.txt: The only day off is far away 23
-D always_somewhere.txt: But every city has seen me in the end 24
-D always_somewhere.txt: And brings me to you again 25
+D always_somewhere.txt: The only day off is far away 23
+V always_somewhere.txt: But every city has seen me in the end 24
+V always_somewhere.txt: And brings me to you again 25
 D always_somewhere.txt: [Refrain] 26
-V always_somewhere.txt: Always somewhere 27
-D always_somewhere.txt: Miss you where I've been 28
-V always_somewhere.txt: I'll be back to love you again 29
-D always_somewhere.txt: Always somewhere 30
-V always_somewhere.txt: Miss you where I've been 31
-D always_somewhere.txt: I'll be back to love you agai 32
+D always_somewhere.txt: Always somewhere 27
+V always_somewhere.txt: Miss you where I've been 28
+D always_somewhere.txt: I'll be back to love you again 29
+V always_somewhere.txt: Always somewhere 30
+D always_somewhere.txt: Miss you where I've been 31
+V always_somewhere.txt: I'll be back to love you agai 32

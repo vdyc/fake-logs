@@ -1,39 +1,39 @@
-V sound_of_silence.txt: The Sound of Silence 1
-F sound_of_silence.txt: Simon & Garfunkel, Garfunkel, ... 2
+D sound_of_silence.txt: The Sound of Silence 1
+V sound_of_silence.txt: Simon & Garfunkel, Garfunkel, ... 2
 D sound_of_silence.txt: Hello darkness, my old friend 3
-D sound_of_silence.txt: I've come to talk with you again 4
-V sound_of_silence.txt: Because a vision softly creeping 5
-W sound_of_silence.txt: Left its seeds while I was sleeping 6
-D sound_of_silence.txt: And the vision that was planted in my brain 7
-D sound_of_silence.txt: Still remains 8
-W sound_of_silence.txt: Within the sound of silence 9
-V sound_of_silence.txt:  10
-W sound_of_silence.txt: In restless dreams I walked alone 11
+I sound_of_silence.txt: I've come to talk with you again 4
+D sound_of_silence.txt: Because a vision softly creeping 5
+F sound_of_silence.txt: Left its seeds while I was sleeping 6
+V sound_of_silence.txt: And the vision that was planted in my brain 7
+W sound_of_silence.txt: Still remains 8
+V sound_of_silence.txt: Within the sound of silence 9
+D sound_of_silence.txt:  10
+V sound_of_silence.txt: In restless dreams I walked alone 11
 D sound_of_silence.txt: Narrow streets of cobblestone 12
 V sound_of_silence.txt: 'Neath the halo of a street lamp 13
 D sound_of_silence.txt: I turned my collar to the cold and damp 14
-W sound_of_silence.txt: When my eyes were stabbed by the flash of a neon light 15
-V sound_of_silence.txt: That split the night 16
-V sound_of_silence.txt: And touched the sound of silence 17
-D sound_of_silence.txt: And in the naked light I saw 18
-D sound_of_silence.txt: Ten thousand people, maybe more 19
+V sound_of_silence.txt: When my eyes were stabbed by the flash of a neon light 15
+I sound_of_silence.txt: That split the night 16
+E sound_of_silence.txt: And touched the sound of silence 17
+V sound_of_silence.txt: And in the naked light I saw 18
+I sound_of_silence.txt: Ten thousand people, maybe more 19
 D sound_of_silence.txt: People talking without speaking 20
 V sound_of_silence.txt: People hearing without listening 21
-D sound_of_silence.txt: People writing songs that voices never share 22
-I sound_of_silence.txt: No one dared 23
+V sound_of_silence.txt: People writing songs that voices never share 22
+V sound_of_silence.txt: No one dared 23
 D sound_of_silence.txt: Disturb the sound of silence 24
-V sound_of_silence.txt:  25
-V sound_of_silence.txt: "Fools" said I, "You do not know 26
-V sound_of_silence.txt: Silence like a cancer grows 27
-V sound_of_silence.txt: Hear my words that I might teach you 28
-D sound_of_silence.txt: Take my arms that I might reach you" 29
+D sound_of_silence.txt:  25
+D sound_of_silence.txt: "Fools" said I, "You do not know 26
+F sound_of_silence.txt: Silence like a cancer grows 27
+E sound_of_silence.txt: Hear my words that I might teach you 28
+V sound_of_silence.txt: Take my arms that I might reach you" 29
 V sound_of_silence.txt: But my words like silent raindrops fell 30
-V sound_of_silence.txt: And echoed in the wells of silence 31
-D sound_of_silence.txt: And the people bowed and prayed 32
-D sound_of_silence.txt: To the neon god they made 33
+I sound_of_silence.txt: And echoed in the wells of silence 31
+F sound_of_silence.txt: And the people bowed and prayed 32
+V sound_of_silence.txt: To the neon god they made 33
 V sound_of_silence.txt: And the sign flashed out its warning 34
 D sound_of_silence.txt: In the words that it was forming 35
-V sound_of_silence.txt: And the sign said, "The words of the prophets 36
+D sound_of_silence.txt: And the sign said, "The words of the prophets 36
 V sound_of_silence.txt: Are written on the subway walls 37
 D sound_of_silence.txt: And tenement halls 38
 V sound_of_silence.txt: And whispered in the sounds of silence 39

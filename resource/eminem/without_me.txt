@@ -1,103 +1,103 @@
 V without_me.txt: Obie Trice 1
 V without_me.txt: Real name no gimmicks 2
-V without_me.txt: Two trailer park girls go round the outside 3
-D without_me.txt: Round the outside, round the outside 4
-V without_me.txt: Two trailer park girls go round the outside 5
-W without_me.txt: Round the outside, round the outside 6
-V without_me.txt: Guess who's back, back again 7
-W without_me.txt: Shady's back, tell a friend 8
+I without_me.txt: Two trailer park girls go round the outside 3
+W without_me.txt: Round the outside, round the outside 4
+D without_me.txt: Two trailer park girls go round the outside 5
+V without_me.txt: Round the outside, round the outside 6
+D without_me.txt: Guess who's back, back again 7
+D without_me.txt: Shady's back, tell a friend 8
 V without_me.txt: Guess who's back, guess who's back? 9
- without_me.txt: Guess who's back, guess who's back? 10
-V without_me.txt: Guess who's back, guess who's back? 11
-V without_me.txt: Guess who's back? 12
-D without_me.txt:  13
+V without_me.txt: Guess who's back, guess who's back? 10
+D without_me.txt: Guess who's back, guess who's back? 11
+D without_me.txt: Guess who's back? 12
+V without_me.txt:  13
 V without_me.txt: I've created a monster, 'cause nobody wants to see Marshall no more 14
-V without_me.txt: They want Shady, I'm chopped liver 15
-D without_me.txt: Well if you want Shady, then this is what I'll give ya 16
- without_me.txt: A little bit of weed mixed with some hard liquor 17
-I without_me.txt: Some vodka that will jump start my heart quicker 18
-V without_me.txt: Then a shot when I get shocked at the hospital 19
-D without_me.txt: By the doctor when I'm not cooperating 20
-D without_me.txt: When I'm rocking the table while he's operating "Hey" 21
-D without_me.txt: You waited this long to stop debating 22
+I without_me.txt: They want Shady, I'm chopped liver 15
+V without_me.txt: Well if you want Shady, then this is what I'll give ya 16
+V without_me.txt: A little bit of weed mixed with some hard liquor 17
+V without_me.txt: Some vodka that will jump start my heart quicker 18
+D without_me.txt: Then a shot when I get shocked at the hospital 19
+F without_me.txt: By the doctor when I'm not cooperating 20
+V without_me.txt: When I'm rocking the table while he's operating "Hey" 21
+V without_me.txt: You waited this long to stop debating 22
 V without_me.txt: 'Cause I'm back, I'm on the rag and ovulating 23
-V without_me.txt: I know you got a job Ms. Cheney 24
+D without_me.txt: I know you got a job Ms. Cheney 24
 D without_me.txt: But your husband's heart problem is complicating 25
-D without_me.txt: So the F-C-C won't let me be or let me be me so let me see 26
-V without_me.txt: They tried to shut me down on M-T-V 27
+V without_me.txt: So the F-C-C won't let me be or let me be me so let me see 26
+D without_me.txt: They tried to shut me down on M-T-V 27
 V without_me.txt: But it feels so empty without me 28
 V without_me.txt: So come on and dip, bum on your lips 29
-W without_me.txt:  30
-W without_me.txt: Fuck that, cum on your lips and some on your tits 31
-V without_me.txt: And get ready 'cause this shit is about to get heavy 32
-D without_me.txt: I just settled all my lawsuits, "Fuck you, Debbie!" 33
+D without_me.txt:  30
+D without_me.txt: Fuck that, cum on your lips and some on your tits 31
+D without_me.txt: And get ready 'cause this shit is about to get heavy 32
+V without_me.txt: I just settled all my lawsuits, "Fuck you, Debbie!" 33
 V without_me.txt: Now this looks like a job for me 34
-V without_me.txt: So everybody just follow me 35
+D without_me.txt: So everybody just follow me 35
 D without_me.txt: 'Cause we need a little controversy 36
 V without_me.txt: 'Cause it feels so empty without me 37
-E without_me.txt: I said, this looks like a job for me 38
+V without_me.txt: I said, this looks like a job for me 38
 V without_me.txt: So everybody just follow me 39
 V without_me.txt: 'Cause we need a little controversy 40
 V without_me.txt: 'Cause it feels so empty without me 41
 V without_me.txt: Little hellions kids feeling rebellious 42
-V without_me.txt: Embarrassed, their parents still listen to Elvis 43
-D without_me.txt: They start feeling like prisoners helpless 44
+D without_me.txt: Embarrassed, their parents still listen to Elvis 43
+V without_me.txt: They start feeling like prisoners helpless 44
 V without_me.txt: 'Til someone comes along on a mission and yells "bitch" 45
-D without_me.txt: A visionary, vision is scary, 46
-W without_me.txt: Could start a revolution, pollutin' the air waves a rebel 47
-D without_me.txt: So let me just revel and bask 48
-V without_me.txt: In the fact that I got everyone kissing my ass 49
-V without_me.txt: And it's a disaster such a catastrophe 50
-V without_me.txt: For you to see so damn much of my ass you ask for me 51
-I without_me.txt: Well I'm back, nana-na na na nana-na na na kshh 52
+V without_me.txt: A visionary, vision is scary, 46
+F without_me.txt: Could start a revolution, pollutin' the air waves a rebel 47
+V without_me.txt: So let me just revel and bask 48
+D without_me.txt: In the fact that I got everyone kissing my ass 49
+D without_me.txt: And it's a disaster such a catastrophe 50
+D without_me.txt: For you to see so damn much of my ass you ask for me 51
+V without_me.txt: Well I'm back, nana-na na na nana-na na na kshh 52
 V without_me.txt: Fix your bent antenna, tune it in and then I'm gonna enter in endin' up 53
-D without_me.txt: Under your skin like a splinter 54
+F without_me.txt: Under your skin like a splinter 54
 D without_me.txt: The center of attention back for the winter 55
-V without_me.txt: I'm interesting, the best thing since wrestling 56
-D without_me.txt: Infesting in your kids ears and nesting 57
-V without_me.txt:  58
-D without_me.txt: "Testing attention please" 59
-D without_me.txt: Feel the tension soon as someone mentions me 60
-V without_me.txt: Here's my ten cents, my two cents is free 61
+D without_me.txt: I'm interesting, the best thing since wrestling 56
+V without_me.txt: Infesting in your kids ears and nesting 57
+I without_me.txt:  58
+V without_me.txt: "Testing attention please" 59
+V without_me.txt: Feel the tension soon as someone mentions me 60
+I without_me.txt: Here's my ten cents, my two cents is free 61
 D without_me.txt: A nuisance, who sent, you sent for me? 62
 D without_me.txt: Now this looks like a job for me 63
-V without_me.txt: So everybody just follow me 64
-D without_me.txt: 'Cause we need a little controversy 65
-V without_me.txt: 'Cause it feels so empty without me 66
+D without_me.txt: So everybody just follow me 64
+V without_me.txt: 'Cause we need a little controversy 65
+I without_me.txt: 'Cause it feels so empty without me 66
 D without_me.txt: I said, this looks like a job for me 67
-D without_me.txt: So everybody just follow me 68
-D without_me.txt: 'Cause we need a little controversy 69
+V without_me.txt: So everybody just follow me 68
+V without_me.txt: 'Cause we need a little controversy 69
 V without_me.txt: 'Cause it feels so empty without me 70
 V without_me.txt: A-tiskit a-taskit, 71
-D without_me.txt: I go tit for tat with anybody who's talking this shit and that shit 72
+V without_me.txt: I go tit for tat with anybody who's talking this shit and that shit 72
 V without_me.txt: Chris Kirkpatrick, you can get your ass kicked 73
-V without_me.txt: Worse than them little Limp Bizkit bastards 74
+D without_me.txt: Worse than them little Limp Bizkit bastards 74
 D without_me.txt: And Moby, you can get stomped by Obie 75
 D without_me.txt: You thirty six year old bald headed fag, blow me 76
-V without_me.txt: You don't know me, you're too old, let it go its over 77
-V without_me.txt: Nobody listens to Techno 78
+D without_me.txt: You don't know me, you're too old, let it go its over 77
+D without_me.txt: Nobody listens to Techno 78
 V without_me.txt: Now lets go, just give me the signal 79
 V without_me.txt: I'll be there with a whole list full of new insults 80
-V without_me.txt: I've been dope, suspenseful with a pencil 81
+E without_me.txt: I've been dope, suspenseful with a pencil 81
 D without_me.txt: Ever since Prince turned himself into a symbol 82
-V without_me.txt:  83
+D without_me.txt:  83
 V without_me.txt: But sometimes this shit just seems 84
 V without_me.txt: Everybody only wants to discuss me 85
 V without_me.txt: So this must mean I'm disgusting 86
 D without_me.txt: But it's just me I'm just obscene 87
-D without_me.txt: Though I'm not the first king of controversy 88
-V without_me.txt: I am the worst thing since Elvis Presley 89
-D without_me.txt: To do black music so selfishly 90
-D without_me.txt: And use it to get myself wealthy 91
-V without_me.txt: Hey, there's a concept that works 92
-D without_me.txt: Twenty million other white rappers emerge 93
+V without_me.txt: Though I'm not the first king of controversy 88
+D without_me.txt: I am the worst thing since Elvis Presley 89
+I without_me.txt: To do black music so selfishly 90
+E without_me.txt: And use it to get myself wealthy 91
+F without_me.txt: Hey, there's a concept that works 92
+V without_me.txt: Twenty million other white rappers emerge 93
 V without_me.txt: But no matter how many fish in the sea 94
-D without_me.txt: It will be so empty without me 95
-D without_me.txt: Now this looks like a job for me 96
-V without_me.txt: So everybody just follow me 97
-F without_me.txt: 'Cause we need a little controversy 98
-D without_me.txt: 'Cause it feels so empty without me 99
-D without_me.txt: I said, this looks like a job for me 100
+V without_me.txt: It will be so empty without me 95
+I without_me.txt: Now this looks like a job for me 96
+D without_me.txt: So everybody just follow me 97
+W without_me.txt: 'Cause we need a little controversy 98
+V without_me.txt: 'Cause it feels so empty without me 99
+V without_me.txt: I said, this looks like a job for me 100
 V without_me.txt: So everybody just follow me 101
-I without_me.txt: 'Cause we need a little controversy 102
-V without_me.txt: 'Cause it feels so empty without m 103
+D without_me.txt: 'Cause we need a little controversy 102
+D without_me.txt: 'Cause it feels so empty without m 103

@@ -1,6 +1,7 @@
 import os
 import glob
-import random
+import sys
+import getopt
 from weighted_choice import WeightedChoice
 
 
@@ -47,6 +48,30 @@ def append_debug_level_to_file(path_name):
 				write_to_file(file)
 
 
+def main(argv):
+	in_folder = ''
+	out_folder = ''
+	try:
+		opts, args = getopt.getopt(argv, "hi:o:", ["in_folder=", "out_folder="])
+	except getopt.GetoptError:
+		print('test.py -i <in_folder>')
+		print('Not supported: test.py -i <in_folder> -o <out_folder>')
+		sys.exit(2)
+	for opt, arg in opts:
+		if opt == '-h':
+			print('test.py -i <in_folder>')
+			print('Not supported: test.py -i <in_folder> -o <out_folder>')
+			sys.exit()
+		elif opt in ("-i", "--in_folder"):
+			in_folder = arg
+		elif opt in ("-o", "--out_folder"):
+			print('Not supported yet for out_folder')
+			out_folder = arg
+
+	append_line_number_to_file(in_folder)
+	append_debug_level_to_file(in_folder)
+
+
 if __name__ == "__main__":
-	# append_line_number_to_file(r".\fake-logs\resource")
-	append_debug_level_to_file(r"C:\Users\vince\Documents\projects\github\fake-logs\resource")
+	main(sys.argv[1:])
+

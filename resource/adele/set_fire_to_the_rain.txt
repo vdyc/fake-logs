@@ -1,61 +1,61 @@
-D set_fire_to_the_rain.txt: I let it fall, my heart 1
-D set_fire_to_the_rain.txt: And as it fell, you rose to claim it 2
-D set_fire_to_the_rain.txt: It was dark and I was over 3
+V set_fire_to_the_rain.txt: I let it fall, my heart 1
+V set_fire_to_the_rain.txt: And as it fell, you rose to claim it 2
+F set_fire_to_the_rain.txt: It was dark and I was over 3
 V set_fire_to_the_rain.txt: Until you kissed my lips and you saved me 4
 V set_fire_to_the_rain.txt: My hands, they were strong 5
-W set_fire_to_the_rain.txt: But my knees were far too weak 6
+D set_fire_to_the_rain.txt: But my knees were far too weak 6
 W set_fire_to_the_rain.txt: To stand in your arms 7
-D set_fire_to_the_rain.txt: Without falling to your feet 8
-D set_fire_to_the_rain.txt:  9
+V set_fire_to_the_rain.txt: Without falling to your feet 8
+V set_fire_to_the_rain.txt:  9
 D set_fire_to_the_rain.txt: But there's a side to you 10
-V set_fire_to_the_rain.txt: That I never knew, never knew 11
-V set_fire_to_the_rain.txt: All the things you'd say 12
-D set_fire_to_the_rain.txt: They were never true, never true 13
+D set_fire_to_the_rain.txt: That I never knew, never knew 11
+I set_fire_to_the_rain.txt: All the things you'd say 12
+V set_fire_to_the_rain.txt: They were never true, never true 13
 V set_fire_to_the_rain.txt: And the games you'd play 14
-I set_fire_to_the_rain.txt: You would always win, always win 15
-V set_fire_to_the_rain.txt: But I set fire to the rain 16
+W set_fire_to_the_rain.txt: You would always win, always win 15
+D set_fire_to_the_rain.txt: But I set fire to the rain 16
 V set_fire_to_the_rain.txt: Watched it pour as I touched your face 17
 D set_fire_to_the_rain.txt: Well, it burned while I cried 18
 V set_fire_to_the_rain.txt: 'Cause I heard it screaming out your name 19
-W set_fire_to_the_rain.txt: Your name 20
-F set_fire_to_the_rain.txt:  21
+D set_fire_to_the_rain.txt: Your name 20
+I set_fire_to_the_rain.txt:  21
 V set_fire_to_the_rain.txt: When laying with you 22
-V set_fire_to_the_rain.txt: I could stay there 23
+D set_fire_to_the_rain.txt: I could stay there 23
 D set_fire_to_the_rain.txt: Close my eyes, feel you here forever 24
-V set_fire_to_the_rain.txt: You and me together, nothing is better 25
+D set_fire_to_the_rain.txt: You and me together, nothing is better 25
 D set_fire_to_the_rain.txt: 'Cause there's a side to you 26
-V set_fire_to_the_rain.txt: That I never knew, never knew 27
-V set_fire_to_the_rain.txt: All the things you'd say 28
+D set_fire_to_the_rain.txt: That I never knew, never knew 27
+D set_fire_to_the_rain.txt: All the things you'd say 28
 D set_fire_to_the_rain.txt: They were never true, never true 29
-V set_fire_to_the_rain.txt: And the games you'd play 30
-V set_fire_to_the_rain.txt: You would always win, always win 31
-D set_fire_to_the_rain.txt: But I set fire to the rain 32
+W set_fire_to_the_rain.txt: And the games you'd play 30
+D set_fire_to_the_rain.txt: You would always win, always win 31
+I set_fire_to_the_rain.txt: But I set fire to the rain 32
 D set_fire_to_the_rain.txt: Watched it pour as I touched your face 33
-D set_fire_to_the_rain.txt: Well, it burned while I cried 34
-V set_fire_to_the_rain.txt: 'Cause I heard it screaming out your name 35
+V set_fire_to_the_rain.txt: Well, it burned while I cried 34
+I set_fire_to_the_rain.txt: 'Cause I heard it screaming out your name 35
 D set_fire_to_the_rain.txt: Your name 36
-W set_fire_to_the_rain.txt:  37
+D set_fire_to_the_rain.txt:  37
 V set_fire_to_the_rain.txt: I set fire to the rain 38
-V set_fire_to_the_rain.txt: And I threw us into the flames 39
-D set_fire_to_the_rain.txt: When we fell, something died 40
+F set_fire_to_the_rain.txt: And I threw us into the flames 39
+V set_fire_to_the_rain.txt: When we fell, something died 40
 D set_fire_to_the_rain.txt: 'Cause I knew that that was the last time 41
 D set_fire_to_the_rain.txt: The last time 42
-D set_fire_to_the_rain.txt: Sometimes I wake up by the door 43
+V set_fire_to_the_rain.txt: Sometimes I wake up by the door 43
 V set_fire_to_the_rain.txt: That heart you caught must be waiting for you 44
-D set_fire_to_the_rain.txt: Even now when we're already over 45
-V set_fire_to_the_rain.txt: I can't help myself from looking for you 46
+V set_fire_to_the_rain.txt: Even now when we're already over 45
+D set_fire_to_the_rain.txt: I can't help myself from looking for you 46
 V set_fire_to_the_rain.txt: I set fire to the rain 47
-D set_fire_to_the_rain.txt: Watched it pour as I touch your face 48
-D set_fire_to_the_rain.txt: Well, it burned while I cried 49
-W set_fire_to_the_rain.txt: 'Cause I heard it screaming out your name 50
+V set_fire_to_the_rain.txt: Watched it pour as I touch your face 48
+I set_fire_to_the_rain.txt: Well, it burned while I cried 49
+V set_fire_to_the_rain.txt: 'Cause I heard it screaming out your name 50
 D set_fire_to_the_rain.txt: Your name 51
 V set_fire_to_the_rain.txt:  52
 D set_fire_to_the_rain.txt: I set fire to the rain 53
-D set_fire_to_the_rain.txt: And I threw us into the flames 54
+V set_fire_to_the_rain.txt: And I threw us into the flames 54
 V set_fire_to_the_rain.txt: When we fell, something died 55
 D set_fire_to_the_rain.txt: 'Cause I knew that that was the last time 56
-V set_fire_to_the_rain.txt: The last time, oh 57
-D set_fire_to_the_rain.txt: Oh, no 58
-V set_fire_to_the_rain.txt: Let it burn, oh-oh-oh 59
+D set_fire_to_the_rain.txt: The last time, oh 57
+V set_fire_to_the_rain.txt: Oh, no 58
+D set_fire_to_the_rain.txt: Let it burn, oh-oh-oh 59
 V set_fire_to_the_rain.txt: Let it burn 60
 D set_fire_to_the_rain.txt: Let it bur 61

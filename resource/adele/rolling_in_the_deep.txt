@@ -1,76 +1,76 @@
-D rolling_in_the_deep.txt: There's a fire starting in my heart 1
-V rolling_in_the_deep.txt: Reaching a fever pitch and it's bringing me out the dark 2
+V rolling_in_the_deep.txt: There's a fire starting in my heart 1
+D rolling_in_the_deep.txt: Reaching a fever pitch and it's bringing me out the dark 2
 D rolling_in_the_deep.txt: Finally, I can see you crystal clear 3
 D rolling_in_the_deep.txt: Go ahead and sell me out and I'll lay your ship bare 4
 V rolling_in_the_deep.txt: See how I'll leave with every piece of you 5
-D rolling_in_the_deep.txt: Don't underestimate the things that I will do 6
-W rolling_in_the_deep.txt: There's a fire starting in my heart 7
-V rolling_in_the_deep.txt: Reaching a fever pitch and it's bring me out the dark 8
-D rolling_in_the_deep.txt:  9
+V rolling_in_the_deep.txt: Don't underestimate the things that I will do 6
+V rolling_in_the_deep.txt: There's a fire starting in my heart 7
+D rolling_in_the_deep.txt: Reaching a fever pitch and it's bring me out the dark 8
+W rolling_in_the_deep.txt:  9
 D rolling_in_the_deep.txt: The scars of your love remind me of us 10
-V rolling_in_the_deep.txt: They keep me thinking that we almost had it all 11
-V rolling_in_the_deep.txt: The scars of your love, they leave me breathless 12
-D rolling_in_the_deep.txt: I can't help feeling 13
+D rolling_in_the_deep.txt: They keep me thinking that we almost had it all 11
+D rolling_in_the_deep.txt: The scars of your love, they leave me breathless 12
+V rolling_in_the_deep.txt: I can't help feeling 13
 V rolling_in_the_deep.txt: We could have had it all 14
-D rolling_in_the_deep.txt: (You're gonna wish you never had met me) 15
-V rolling_in_the_deep.txt: Rolling in the deep 16
-V rolling_in_the_deep.txt: (Tears are gonna fall, rolling in the deep) 17
-D rolling_in_the_deep.txt:  18
-D rolling_in_the_deep.txt: You had my heart inside of your hands 19
-D rolling_in_the_deep.txt: (You're gonna wish you never had met me) 20
-D rolling_in_the_deep.txt: And you played it to the beat 21
-E rolling_in_the_deep.txt: (Tears are gonna fall, rolling in the deep) 22
+V rolling_in_the_deep.txt: (You're gonna wish you never had met me) 15
+D rolling_in_the_deep.txt: Rolling in the deep 16
+I rolling_in_the_deep.txt: (Tears are gonna fall, rolling in the deep) 17
+W rolling_in_the_deep.txt:  18
+I rolling_in_the_deep.txt: You had my heart inside of your hands 19
+W rolling_in_the_deep.txt: (You're gonna wish you never had met me) 20
+V rolling_in_the_deep.txt: And you played it to the beat 21
+D rolling_in_the_deep.txt: (Tears are gonna fall, rolling in the deep) 22
 D rolling_in_the_deep.txt: Baby, I have no story to be told 23
 V rolling_in_the_deep.txt: But I've heard one on you and I'm gonna make your head burn 24
-W rolling_in_the_deep.txt: Think of me in the depths of your despair 25
+V rolling_in_the_deep.txt: Think of me in the depths of your despair 25
 D rolling_in_the_deep.txt: Make a home down there as mine sure won't be shared 26
 D rolling_in_the_deep.txt: The scars of your love remind me of us 27
-D rolling_in_the_deep.txt: (Tears are gonna fall, rolling in the deep) 28
-V rolling_in_the_deep.txt: They keep me thinking that we almost had it all 29
+V rolling_in_the_deep.txt: (Tears are gonna fall, rolling in the deep) 28
+D rolling_in_the_deep.txt: They keep me thinking that we almost had it all 29
 D rolling_in_the_deep.txt: (You're gonna wish you never had met me) 30
 V rolling_in_the_deep.txt: The scars of your love, they leave me breathless 31
-V rolling_in_the_deep.txt: (Tears are gonna fall, rolling in the deep) 32
-D rolling_in_the_deep.txt: I can't help feeling 33
+E rolling_in_the_deep.txt: (Tears are gonna fall, rolling in the deep) 32
+I rolling_in_the_deep.txt: I can't help feeling 33
 V rolling_in_the_deep.txt:  34
-I rolling_in_the_deep.txt: We could have had it all 35
+V rolling_in_the_deep.txt: We could have had it all 35
 D rolling_in_the_deep.txt: (You're gonna wish you never had met me) 36
 V rolling_in_the_deep.txt: Rolling in the deep 37
-D rolling_in_the_deep.txt: (Tears are gonna fall, rolling in the deep) 38
+V rolling_in_the_deep.txt: (Tears are gonna fall, rolling in the deep) 38
 D rolling_in_the_deep.txt: You had my heart inside of your hands 39
-D rolling_in_the_deep.txt: (You're gonna wish you never had met me) 40
-W rolling_in_the_deep.txt: And you played it to the beat 41
-E rolling_in_the_deep.txt: (Tears are gonna fall, rolling in the deep) 42
+V rolling_in_the_deep.txt: (You're gonna wish you never had met me) 40
+V rolling_in_the_deep.txt: And you played it to the beat 41
+D rolling_in_the_deep.txt: (Tears are gonna fall, rolling in the deep) 42
 D rolling_in_the_deep.txt: Could have had it all 43
-D rolling_in_the_deep.txt: Rolling in the deep 44
-V rolling_in_the_deep.txt: You had my heart inside of your hands 45
-D rolling_in_the_deep.txt: But you played it with a beating 46
-I rolling_in_the_deep.txt: Throw your soul through every open door 47
-V rolling_in_the_deep.txt: Count your blessings to find what you look for 48
+E rolling_in_the_deep.txt: Rolling in the deep 44
+D rolling_in_the_deep.txt: You had my heart inside of your hands 45
+V rolling_in_the_deep.txt: But you played it with a beating 46
+D rolling_in_the_deep.txt: Throw your soul through every open door 47
+D rolling_in_the_deep.txt: Count your blessings to find what you look for 48
 D rolling_in_the_deep.txt: Turn my sorrow into treasured gold 49
- rolling_in_the_deep.txt: You'll pay me back in kind and reap just what you've sown 50
-V rolling_in_the_deep.txt: We could have had it all 51
-V rolling_in_the_deep.txt: (Tears are gonna fall, rolling in the deep) 52
-W rolling_in_the_deep.txt:  53
+V rolling_in_the_deep.txt: You'll pay me back in kind and reap just what you've sown 50
+D rolling_in_the_deep.txt: We could have had it all 51
+D rolling_in_the_deep.txt: (Tears are gonna fall, rolling in the deep) 52
+D rolling_in_the_deep.txt:  53
 V rolling_in_the_deep.txt: We could have had it all 54
-V rolling_in_the_deep.txt: (You're gonna wish you never had met me) 55
-D rolling_in_the_deep.txt: It all, it all, it all 56
-V rolling_in_the_deep.txt: (Tears are gonna fall, rolling in the deep) 57
+D rolling_in_the_deep.txt: (You're gonna wish you never had met me) 55
+V rolling_in_the_deep.txt: It all, it all, it all 56
+D rolling_in_the_deep.txt: (Tears are gonna fall, rolling in the deep) 57
 V rolling_in_the_deep.txt: We could have had it all 58
-V rolling_in_the_deep.txt: (You're gonna wish you never had met me) 59
-V rolling_in_the_deep.txt: Rolling in the deep 60
-D rolling_in_the_deep.txt: (Tears are gonna fall, rolling in the deep) 61
-V rolling_in_the_deep.txt: You had my heart inside of your hands 62
-D rolling_in_the_deep.txt: (You're gonna wish you never had met me) 63
+D rolling_in_the_deep.txt: (You're gonna wish you never had met me) 59
+F rolling_in_the_deep.txt: Rolling in the deep 60
+V rolling_in_the_deep.txt: (Tears are gonna fall, rolling in the deep) 61
+W rolling_in_the_deep.txt: You had my heart inside of your hands 62
+V rolling_in_the_deep.txt: (You're gonna wish you never had met me) 63
 V rolling_in_the_deep.txt: And you played it to the beat 64
-D rolling_in_the_deep.txt: (Tears are gonna fall, rolling in the deep) 65
-E rolling_in_the_deep.txt:  66
+V rolling_in_the_deep.txt: (Tears are gonna fall, rolling in the deep) 65
+D rolling_in_the_deep.txt:  66
 D rolling_in_the_deep.txt: We could have had it all 67
-D rolling_in_the_deep.txt: (You're gonna wish you never had met me) 68
- rolling_in_the_deep.txt: Rolling in the deep 69
-D rolling_in_the_deep.txt: (Tears are gonna fall, rolling in the deep) 70
-D rolling_in_the_deep.txt: You had my heart inside of your hands 71
-W rolling_in_the_deep.txt: (You're gonna wish you never had met me) 72
-V rolling_in_the_deep.txt: But you played it 73
-W rolling_in_the_deep.txt: You played it 74
-V rolling_in_the_deep.txt: You played it 75
+V rolling_in_the_deep.txt: (You're gonna wish you never had met me) 68
+D rolling_in_the_deep.txt: Rolling in the deep 69
+V rolling_in_the_deep.txt: (Tears are gonna fall, rolling in the deep) 70
+V rolling_in_the_deep.txt: You had my heart inside of your hands 71
+V rolling_in_the_deep.txt: (You're gonna wish you never had met me) 72
+D rolling_in_the_deep.txt: But you played it 73
+V rolling_in_the_deep.txt: You played it 74
+I rolling_in_the_deep.txt: You played it 75
 V rolling_in_the_deep.txt: You played it to the beat i 76

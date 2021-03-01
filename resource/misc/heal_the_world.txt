@@ -1,121 +1,121 @@
 D heal_the_world.txt: [Intro: Child] 1
-D heal_the_world.txt: Think about the generations and say that we wanna make it a better place for our children, and our children's children, so that they, they, they know it's a better world for them, and think, if they can make it a better place... 2
-D heal_the_world.txt:  3
-D heal_the_world.txt: [Verse 1] 4
+V heal_the_world.txt: Think about the generations and say that we wanna make it a better place for our children, and our children's children, so that they, they, they know it's a better world for them, and think, if they can make it a better place... 2
+V heal_the_world.txt:  3
+V heal_the_world.txt: [Verse 1] 4
 V heal_the_world.txt: There's a place in your heart 5
 V heal_the_world.txt: And I know that it is love 6
 D heal_the_world.txt: And this place could be much brighter than tomorrow 7
 D heal_the_world.txt: And if you really try 8
-D heal_the_world.txt: You'll find there's no need to cry 9
+V heal_the_world.txt: You'll find there's no need to cry 9
 V heal_the_world.txt: In this place, you will feel there's no hurt or sorrow 10
 V heal_the_world.txt:  11
-D heal_the_world.txt: [Pre-Chorus 1] 12
+V heal_the_world.txt: [Pre-Chorus 1] 12
 V heal_the_world.txt: There are ways to get there 13
-D heal_the_world.txt: If you care enough for the living 14
-V heal_the_world.txt: Make a little space 15
+F heal_the_world.txt: If you care enough for the living 14
+F heal_the_world.txt: Make a little space 15
 D heal_the_world.txt: Make a better place 16
-D heal_the_world.txt:  17
-D heal_the_world.txt: [Chorus] 18
-V heal_the_world.txt: Heal the world 19
-V heal_the_world.txt: Make it a better place 20
+V heal_the_world.txt:  17
+F heal_the_world.txt: [Chorus] 18
+I heal_the_world.txt: Heal the world 19
+D heal_the_world.txt: Make it a better place 20
 D heal_the_world.txt: For you and for me and the entire human race 21
 V heal_the_world.txt: There are people dying 22
-D heal_the_world.txt: If you care enough for the living 23
-V heal_the_world.txt: Make a better place for you and for me 24
+V heal_the_world.txt: If you care enough for the living 23
+E heal_the_world.txt: Make a better place for you and for me 24
 D heal_the_world.txt:  25
 V heal_the_world.txt: [Verse 2] 26
-D heal_the_world.txt: If you want to know why 27
-E heal_the_world.txt: There's a love that cannot lie 28
+V heal_the_world.txt: If you want to know why 27
+V heal_the_world.txt: There's a love that cannot lie 28
 V heal_the_world.txt: Love is strong, it only cares for joyful giving 29
-D heal_the_world.txt: If we try, we shall see 30
-V heal_the_world.txt: In this bliss, we cannot feel 31
+V heal_the_world.txt: If we try, we shall see 30
+D heal_the_world.txt: In this bliss, we cannot feel 31
 V heal_the_world.txt: Fear or dread, we stop existing and start living 32
-V heal_the_world.txt:  33
-V heal_the_world.txt:  34
-D heal_the_world.txt: Primis Player Placeholder 35
-V heal_the_world.txt:  36
-V heal_the_world.txt:  A Vocal Coach Reacts To Lil Tjay's Melodies | Genius News 37
+D heal_the_world.txt:  33
+D heal_the_world.txt:  34
+W heal_the_world.txt: Primis Player Placeholder 35
+D heal_the_world.txt:  36
+D heal_the_world.txt:  A Vocal Coach Reacts To Lil Tjay's Melodies | Genius News 37
 D heal_the_world.txt:  38
-D heal_the_world.txt: [Pre-Chorus 2] 39
+V heal_the_world.txt: [Pre-Chorus 2] 39
 D heal_the_world.txt: Then it feels that always 40
-V heal_the_world.txt: Love's enough for us growing 41
+D heal_the_world.txt: Love's enough for us growing 41
 D heal_the_world.txt: So make a better world 42
-I heal_the_world.txt: To make a better world 43
-D heal_the_world.txt:  44
-D heal_the_world.txt: [Chorus] 45
+D heal_the_world.txt: To make a better world 43
+V heal_the_world.txt:  44
+V heal_the_world.txt: [Chorus] 45
 V heal_the_world.txt: Heal the world 46
-W heal_the_world.txt: Make it a better place 47
-D heal_the_world.txt: For you and for me and the entire human race 48
-V heal_the_world.txt: There are people dying 49
-V heal_the_world.txt: If you care enough for the living 50
-V heal_the_world.txt: Make a better place for you and for me 51
-D heal_the_world.txt:  52
-D heal_the_world.txt: [Bridge] 53
-D heal_the_world.txt: And the dream we were conceived in will reveal a joyful face 54
-E heal_the_world.txt: And the world we once believed in will shine again in grace 55
-D heal_the_world.txt: Then why do we keep strangling life? 56
-V heal_the_world.txt: Would this Earth crucify its soul? 57
+V heal_the_world.txt: Make it a better place 47
+V heal_the_world.txt: For you and for me and the entire human race 48
+D heal_the_world.txt: There are people dying 49
+I heal_the_world.txt: If you care enough for the living 50
+D heal_the_world.txt: Make a better place for you and for me 51
+V heal_the_world.txt:  52
+V heal_the_world.txt: [Bridge] 53
+V heal_the_world.txt: And the dream we were conceived in will reveal a joyful face 54
+D heal_the_world.txt: And the world we once believed in will shine again in grace 55
+V heal_the_world.txt: Then why do we keep strangling life? 56
+D heal_the_world.txt: Would this Earth crucify its soul? 57
 V heal_the_world.txt: Though it's plain to see 58
-V heal_the_world.txt: This world is heavenly 59
-E heal_the_world.txt: Be God's glow 60
-W heal_the_world.txt:  61
-I heal_the_world.txt: [Verse 3] 62
+D heal_the_world.txt: This world is heavenly 59
+D heal_the_world.txt: Be God's glow 60
+D heal_the_world.txt:  61
+D heal_the_world.txt: [Verse 3] 62
 V heal_the_world.txt: We could fly so high 63
 D heal_the_world.txt: Let our spirits never die 64
 V heal_the_world.txt: In my heart, I feel you are all my brothers 65
-D heal_the_world.txt: Create a world with no fear 66
-V heal_the_world.txt: Together, we'll cry happy tears 67
-D heal_the_world.txt: See the nations turn their swords into 68
+V heal_the_world.txt: Create a world with no fear 66
+D heal_the_world.txt: Together, we'll cry happy tears 67
+W heal_the_world.txt: See the nations turn their swords into 68
 V heal_the_world.txt: Ploughshares 69
-W heal_the_world.txt:  70
+V heal_the_world.txt:  70
 V heal_the_world.txt:  71
-D heal_the_world.txt: [Pre-Chorus 3] 72
+V heal_the_world.txt: [Pre-Chorus 3] 72
 D heal_the_world.txt: We could really get there 73
-V heal_the_world.txt: If you cared enough for the living 74
-V heal_the_world.txt: Make a little space 75
-V heal_the_world.txt: To make a better place 76
+D heal_the_world.txt: If you cared enough for the living 74
+I heal_the_world.txt: Make a little space 75
+D heal_the_world.txt: To make a better place 76
 V heal_the_world.txt:  77
-W heal_the_world.txt: [Chorus] 78
+V heal_the_world.txt: [Chorus] 78
 V heal_the_world.txt: Heal the world 79
-D heal_the_world.txt: Make it a better place 80
-D heal_the_world.txt: For you and for me 81
-D heal_the_world.txt: And the entire human race 82
-W heal_the_world.txt: There are people dying 83
-D heal_the_world.txt: If you care enough for the living 84
-D heal_the_world.txt: Make a better place 85
+V heal_the_world.txt: Make it a better place 80
+V heal_the_world.txt: For you and for me 81
+V heal_the_world.txt: And the entire human race 82
+D heal_the_world.txt: There are people dying 83
+V heal_the_world.txt: If you care enough for the living 84
+V heal_the_world.txt: Make a better place 85
 D heal_the_world.txt: For you and for me 86
 V heal_the_world.txt: Heal the world 87
 V heal_the_world.txt: Make it a better place 88
 D heal_the_world.txt: For you and for me and the entire human race 89
-V heal_the_world.txt: There are people dying 90
-D heal_the_world.txt: If you care enough for the living 91
+I heal_the_world.txt: There are people dying 90
+V heal_the_world.txt: If you care enough for the living 91
 V heal_the_world.txt: Make a better place for you and for me 92
-V heal_the_world.txt: Heal the world (Heal the world) 93
-E heal_the_world.txt: Make it a better place 94
-D heal_the_world.txt: For you and for me and the entire human race 95
-D heal_the_world.txt: There are people dying 96
+D heal_the_world.txt: Heal the world (Heal the world) 93
+D heal_the_world.txt: Make it a better place 94
+V heal_the_world.txt: For you and for me and the entire human race 95
+V heal_the_world.txt: There are people dying 96
 D heal_the_world.txt: If you care enough for the living 97
-V heal_the_world.txt: Make a better place for you and for me 98
+D heal_the_world.txt: Make a better place for you and for me 98
 V heal_the_world.txt:  99
-V heal_the_world.txt:  100
-D heal_the_world.txt: [Post-Chorus] 101
+W heal_the_world.txt:  100
+V heal_the_world.txt: [Post-Chorus] 101
 V heal_the_world.txt: There are people dying 102
-D heal_the_world.txt: If you care enough for the living 103
+V heal_the_world.txt: If you care enough for the living 103
 D heal_the_world.txt: Make a better place for you and for me 104
-D heal_the_world.txt: There are people dying 105
+V heal_the_world.txt: There are people dying 105
 D heal_the_world.txt: If you care enough for the living 106
-V heal_the_world.txt: Make a better place for you and for me 107
+D heal_the_world.txt: Make a better place for you and for me 107
 D heal_the_world.txt:  108
 D heal_the_world.txt: [Outro: Michael Jackson & Child] 109
-V heal_the_world.txt: Make a better place (You and for me) 110
+D heal_the_world.txt: Make a better place (You and for me) 110
 V heal_the_world.txt: Make a better place (You and for me) 111
 V heal_the_world.txt: Make a better place (You and for me) 112
 D heal_the_world.txt: (You and for me) 113
 D heal_the_world.txt: Heal the world we live in (You and for me) 114
-D heal_the_world.txt: Save it for our children (You and for me) 115
+V heal_the_world.txt: Save it for our children (You and for me) 115
 V heal_the_world.txt: Heal the world we live in (You and for me) 116
 V heal_the_world.txt: Save it for our children (You and for me) 117
 D heal_the_world.txt: Heal the world we live in (You and for me) 118
-D heal_the_world.txt: Save it for our children (You and for me) 119
-D heal_the_world.txt: Heal the world we live in (You and for me) 120
-D heal_the_world.txt: Save it for our childre 121
+V heal_the_world.txt: Save it for our children (You and for me) 119
+V heal_the_world.txt: Heal the world we live in (You and for me) 120
+W heal_the_world.txt: Save it for our childre 121

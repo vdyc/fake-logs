@@ -10,7 +10,7 @@ class LinePattern:
 		"clf": '%h - - [%d %Z] "%m %U %H" %s %b',
 		"elf-vhost": '%v:%h - - [%d %Z] "%m %U %H" %s %b "%R" "%u"',
 		"clf-vhost": '%v:%h - - [%d %Z] "%m %U %H" %s %b',
-		"logcat": '%d  %p %t: %b'
+		"logcat": '%d  %p %c'
 	}
 
 	def __init__(self, pattern=None, date_pattern=None, file_format="logcat", fake_tokens=None, log_freq=None):
@@ -22,7 +22,7 @@ class LinePattern:
 		self.tokens = []
 		# sleep in seconds
 		if log_freq is not None:
-			self.fake_tokens.log_freq = [60 / log_freq[1], (60 / log_freq[0])]
+			self.fake_tokens.log_freq = log_freq
 
 		tokens_regex = re.compile("%([a-zA-Z]{1})")
 		self.line = tokens_regex.sub(self.match_token, self.pattern)

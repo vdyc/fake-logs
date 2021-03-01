@@ -1,178 +1,178 @@
-V superman.txt: Mhmmm *inhales* 1
-V superman.txt: You high, baby? 2
-D superman.txt: Yeah 3
+F superman.txt: Mhmmm *inhales* 1
+W superman.txt: You high, baby? 2
+V superman.txt: Yeah 3
 D superman.txt: Yeah? 4
-W superman.txt: Talk to me 5
-D superman.txt: You want me to tell you something? 6
-V superman.txt: Uh-huh 7
+V superman.txt: Talk to me 5
+W superman.txt: You want me to tell you something? 6
+D superman.txt: Uh-huh 7
 V superman.txt: I know what you wanna hear 8
-D superman.txt:  9
-V superman.txt: [Refrain: Eminem (& Dina Rae)] 10
-D superman.txt: 'Cause I know you want me, baby, I think I want you too 11
-V superman.txt: (I think I love you, baby) I think I love you too 12
-D superman.txt: I'm here to save you, girl, come be in Shady's world 13
-D superman.txt: I wanna grow together, let's let our love unfurl 14
-D superman.txt: You know you want me, baby, you know I want you too 15
-I superman.txt: They call me Superman, I'm here to rescue you 16
-D superman.txt: I wanna save you, girl, come be in Shady's world 17
-V superman.txt: (Oh boy, you drive me crazy) Bitch, you make me hurl 18
-V superman.txt:  19
+V superman.txt:  9
+D superman.txt: [Refrain: Eminem (& Dina Rae)] 10
+V superman.txt: 'Cause I know you want me, baby, I think I want you too 11
+D superman.txt: (I think I love you, baby) I think I love you too 12
+V superman.txt: I'm here to save you, girl, come be in Shady's world 13
+V superman.txt: I wanna grow together, let's let our love unfurl 14
+V superman.txt: You know you want me, baby, you know I want you too 15
+D superman.txt: They call me Superman, I'm here to rescue you 16
+F superman.txt: I wanna save you, girl, come be in Shady's world 17
+D superman.txt: (Oh boy, you drive me crazy) Bitch, you make me hurl 18
+F superman.txt:  19
 V superman.txt: [Verse 1: Eminem] 20
-D superman.txt: They call me Superman 21
-E superman.txt: Leap tall hoes in a single bound 22
-V superman.txt: I'm single now: got no ring on this finger now 23
+V superman.txt: They call me Superman 21
+V superman.txt: Leap tall hoes in a single bound 22
+D superman.txt: I'm single now: got no ring on this finger now 23
 D superman.txt: I'd never let another chick bring me down 24
-D superman.txt: In a relationship; save it, bitch! 25
-D superman.txt: Babysit? You make me sick 26
-V superman.txt: Superman ain't savin' shit 27
-V superman.txt: Girl, you can jump on Shady's dick 28
-E superman.txt: Straight from the hip, cut to the chase 29
-D superman.txt: I tell a motherfuckin' slut to her face 30
+V superman.txt: In a relationship; save it, bitch! 25
+V superman.txt: Babysit? You make me sick 26
+D superman.txt: Superman ain't savin' shit 27
+D superman.txt: Girl, you can jump on Shady's dick 28
+I superman.txt: Straight from the hip, cut to the chase 29
+V superman.txt: I tell a motherfuckin' slut to her face 30
 V superman.txt: Play no games, say no names 31
-W superman.txt: Ever since I broke up with what's-her-face 32
+I superman.txt: Ever since I broke up with what's-her-face 32
 V superman.txt: I'm a different man, kiss my ass 33
-V superman.txt: Kiss my lips? Bitch, why ask? 34
+E superman.txt: Kiss my lips? Bitch, why ask? 34
 V superman.txt: Kiss my dick, get my cash? 35
 V superman.txt: I'd rather have you whip my ass 36
-E superman.txt: Don't put out, I'll put you out 37
-D superman.txt: Won't get out, I'll push you out 38
-V superman.txt: Puss blew out, poppin' shit 39
-V superman.txt: Wouldn't piss on fire to put you out 40
+V superman.txt: Don't put out, I'll put you out 37
+V superman.txt: Won't get out, I'll push you out 38
+D superman.txt: Puss blew out, poppin' shit 39
+D superman.txt: Wouldn't piss on fire to put you out 40
 D superman.txt: Am I too nice? Buy you ice? 41
-V superman.txt: Bitch, if you died, wouldn't buy you life 42
+I superman.txt: Bitch, if you died, wouldn't buy you life 42
 D superman.txt: What, you tryin' to be my new wife? 43
 V superman.txt: What, you Mariah? Fly through twice 44
-W superman.txt:  45
-V superman.txt:  46
-I superman.txt: Primis Player Placeholder 47
+V superman.txt:  45
+D superman.txt:  46
+D superman.txt: Primis Player Placeholder 47
 V superman.txt:  48
 V superman.txt:  A Vocal Coach Reacts To Lil Tjay's Melodies | Genius News 49
-D superman.txt:  50
+E superman.txt:  50
 V superman.txt: [Pre-Chorus: Eminem] 51
-D superman.txt: But I do know one thing though 52
+F superman.txt: But I do know one thing though 52
 D superman.txt: Bitches, they come, they go 53
 W superman.txt: Saturday through Sunday, Monday 54
-D superman.txt: Monday through Sunday, yo 55
+V superman.txt: Monday through Sunday, yo 55
 V superman.txt: Maybe I'll love you one day 56
-V superman.txt: Maybe we'll someday grow 57
+D superman.txt: Maybe we'll someday grow 57
 V superman.txt: 'Til then just sit your drunk ass on that fuckin' runway, ho 58
-D superman.txt:  59
-V superman.txt: [Chorus: Eminem] 60
-V superman.txt: ‘Cause I can't be your Superman, can't be your Superman 61
+V superman.txt:  59
+D superman.txt: [Chorus: Eminem] 60
+I superman.txt: ‘Cause I can't be your Superman, can't be your Superman 61
 D superman.txt: Can't be your Superman, can't be your Superman 62
-D superman.txt: I can't be your Superman, can't be your Superman 63
+V superman.txt: I can't be your Superman, can't be your Superman 63
 V superman.txt: Can't be your Superman, your Superman, your Superman 64
-D superman.txt:  65
-V superman.txt: [Verse 2: Eminem] 66
-D superman.txt: Don't get me wrong, I love these hoes 67
-D superman.txt: It's no secret, everybody knows 68
+V superman.txt:  65
+D superman.txt: [Verse 2: Eminem] 66
+V superman.txt: Don't get me wrong, I love these hoes 67
+V superman.txt: It's no secret, everybody knows 68
 V superman.txt: Yeah, we fucked—bitch, so what? 69
 V superman.txt: That's about as far as your buddy goes 70
- superman.txt: We'll be friends, I'll call you again 71
-V superman.txt: I'll chase you around every bar you attend 72
-D superman.txt: Never know what kinda car I'll be in 73
-V superman.txt: We'll see how much you'll be partyin' then 74
+I superman.txt: We'll be friends, I'll call you again 71
+W superman.txt: I'll chase you around every bar you attend 72
+F superman.txt: Never know what kinda car I'll be in 73
+E superman.txt: We'll see how much you'll be partyin' then 74
 V superman.txt: You don't want that, neither do I 75
 V superman.txt: I don't wanna flip when I see you with guys 76
 V superman.txt: Too much pride, between you and I 77
-D superman.txt: Not a jealous man, but females lie 78
-V superman.txt: But I guess that's just what sluts do 79
-I superman.txt: How could it ever be just us two? 80
-V superman.txt: I'd never love you enough to trust you 81
+V superman.txt: Not a jealous man, but females lie 78
+D superman.txt: But I guess that's just what sluts do 79
+V superman.txt: How could it ever be just us two? 80
+D superman.txt: I'd never love you enough to trust you 81
 V superman.txt: We just met and I just fucked you 82
-F superman.txt:  83
-V superman.txt:  84
-V superman.txt: [Pre-Chorus: Eminem] 85
-V superman.txt: But I do know one thing though 86
-D superman.txt: Bitches, they come, they go 87
+D superman.txt:  83
+W superman.txt:  84
+D superman.txt: [Pre-Chorus: Eminem] 85
+D superman.txt: But I do know one thing though 86
+V superman.txt: Bitches, they come, they go 87
 V superman.txt: Saturday through Sunday, Monday 88
 V superman.txt: Monday through Sunday, yo 89
-D superman.txt: Maybe I'll love you one day 90
-D superman.txt: Maybe we'll someday grow 91
-V superman.txt: 'Til then just sit your drunk ass on that fuckin' runway, ho 92
+V superman.txt: Maybe I'll love you one day 90
+V superman.txt: Maybe we'll someday grow 91
+D superman.txt: 'Til then just sit your drunk ass on that fuckin' runway, ho 92
 V superman.txt:  93
 V superman.txt: [Chorus: Eminem] 94
-V superman.txt: ‘Cause I can't be your Superman, can't be your Superman 95
-D superman.txt: Can't be your Superman, can't be your Superman 96
-D superman.txt: I can't be your Superman, can't be your Superman 97
-D superman.txt: Can't be your Superman, your Superman, your Superman 98
-I superman.txt: ‘Cause I can't be your Superman, can't be your Superman 99
-W superman.txt: Can't be your Superman, can't be your Superman 100
-V superman.txt: I can't be your Superman, can't be your Superman 101
-V superman.txt: Can't be your Superman, your Superman, your Superman 102
-D superman.txt:  103
+I superman.txt: ‘Cause I can't be your Superman, can't be your Superman 95
+V superman.txt: Can't be your Superman, can't be your Superman 96
+V superman.txt: I can't be your Superman, can't be your Superman 97
+V superman.txt: Can't be your Superman, your Superman, your Superman 98
+D superman.txt: ‘Cause I can't be your Superman, can't be your Superman 99
+D superman.txt: Can't be your Superman, can't be your Superman 100
+W superman.txt: I can't be your Superman, can't be your Superman 101
+D superman.txt: Can't be your Superman, your Superman, your Superman 102
+V superman.txt:  103
 V superman.txt: [Refrain: Eminem (& Dina Rae)] 104
-V superman.txt: 'Cause I know you want me, baby, I think I want you too 105
+D superman.txt: 'Cause I know you want me, baby, I think I want you too 105
 D superman.txt: (I think I love you, baby) I think I love you too 106
-V superman.txt: I'm here to save you, girl, come be in Shady's world 107
+D superman.txt: I'm here to save you, girl, come be in Shady's world 107
 D superman.txt: I wanna grow together, let's let our love unfurl 108
 V superman.txt: You know you want me, baby, you know I want you too 109
-E superman.txt: They call me Superman, I'm here to rescue you 110
-D superman.txt: I wanna save you, girl, come be in Shady's world 111
-V superman.txt: (Oh boy, you drive me crazy) Bitch, you make me hurl 112
-V superman.txt:  113
-D superman.txt:  114
-V superman.txt: [Verse 3: Eminem] 115
-V superman.txt: First thing you say: I'm not fazed 116
-V superman.txt: I hang around big stars all day 117
+V superman.txt: They call me Superman, I'm here to rescue you 110
+V superman.txt: I wanna save you, girl, come be in Shady's world 111
+D superman.txt: (Oh boy, you drive me crazy) Bitch, you make me hurl 112
+D superman.txt:  113
+V superman.txt:  114
+D superman.txt: [Verse 3: Eminem] 115
+D superman.txt: First thing you say: I'm not fazed 116
+D superman.txt: I hang around big stars all day 117
 D superman.txt: I don't see what the big deal is anyway 118
-V superman.txt: You're just plain old Marshall to me 119
+D superman.txt: You're just plain old Marshall to me 119
 V superman.txt: Ooh yeah, girl, run that game 120
-D superman.txt: Hailie Jade, I love that name 121
+W superman.txt: Hailie Jade, I love that name 121
 V superman.txt: Love that tattoo, what's that say? 122
-D superman.txt: "Rot In Pieces," uh, that's great 123
+V superman.txt: "Rot In Pieces," uh, that's great 123
 V superman.txt: First off, you don't know Marshall 124
 V superman.txt: At all, so don't grow partial 125
-D superman.txt: That's ammo for my arsenal 126
+W superman.txt: That's ammo for my arsenal 126
 D superman.txt: I'll slap you off that bar stool 127
-D superman.txt: There goes another lawsuit 128
-D superman.txt: Leave handprints all across you 129
-W superman.txt: Good Lordy, whoadie 130
+V superman.txt: There goes another lawsuit 128
+V superman.txt: Leave handprints all across you 129
+D superman.txt: Good Lordy, whoadie 130
 V superman.txt: You must be gone off that water bottle 131
-D superman.txt: You want what you can't have 132
-W superman.txt: Ooh girl, that's too damn bad 133
+V superman.txt: You want what you can't have 132
+V superman.txt: Ooh girl, that's too damn bad 133
 W superman.txt: Don't touch what you can't grab 134
 V superman.txt: End up with two backhands 135
 V superman.txt: Put anthrax on a Tampax 136
 D superman.txt: And slap you 'til you can't stand 137
-D superman.txt: Girl, you just blew your chance 138
-V superman.txt: Don't mean to ruin your plans 139
-V superman.txt:  140
+V superman.txt: Girl, you just blew your chance 138
+F superman.txt: Don't mean to ruin your plans 139
+D superman.txt:  140
 V superman.txt: [Pre-Chorus: Eminem] 141
- superman.txt: But I do know one thing though 142
-V superman.txt: Bitches, they come, they go 143
-V superman.txt: Saturday through Sunday, Monday 144
-V superman.txt: Monday through Sunday, yo 145
-V superman.txt: Maybe I'll love you one day 146
-V superman.txt: Maybe we'll someday grow 147
-W superman.txt: 'Til then just sit your drunk ass on that fuckin' runway, ho 148
+D superman.txt: But I do know one thing though 142
+W superman.txt: Bitches, they come, they go 143
+D superman.txt: Saturday through Sunday, Monday 144
+D superman.txt: Monday through Sunday, yo 145
+D superman.txt: Maybe I'll love you one day 146
+D superman.txt: Maybe we'll someday grow 147
+V superman.txt: 'Til then just sit your drunk ass on that fuckin' runway, ho 148
 D superman.txt:  149
 V superman.txt: [Chorus: Eminem] 150
 D superman.txt: ‘Cause I can't be your Superman, can't be your Superman 151
- superman.txt: Can't be your Superman, can't be your Superman 152
-D superman.txt: I can't be your Superman, can't be your Superman 153
+V superman.txt: Can't be your Superman, can't be your Superman 152
+V superman.txt: I can't be your Superman, can't be your Superman 153
 V superman.txt: Can't be your Superman, your Superman, your Superman 154
 V superman.txt: ‘Cause I can't be your Superman, can't be your Superman 155
-D superman.txt: Can't be your Superman, can't be your Superman 156
-V superman.txt: I can't be your Superman, can't be your Superman 157
+V superman.txt: Can't be your Superman, can't be your Superman 156
+D superman.txt: I can't be your Superman, can't be your Superman 157
 D superman.txt: Can't be your Superman, your Superman, your Superman 158
 V superman.txt:  159
-I superman.txt: [Refrain: Eminem (& Dina Rae)] 160
-D superman.txt: 'Cause I know you want me, baby, I think I want you too 161
+V superman.txt: [Refrain: Eminem (& Dina Rae)] 160
+V superman.txt: 'Cause I know you want me, baby, I think I want you too 161
 D superman.txt: (I think I love you, baby) I think I love you too 162
 V superman.txt: I'm here to save you, girl, come be in Shady's world 163
 D superman.txt: I wanna grow together, let's let our love unfurl 164
 D superman.txt: You know you want me, baby, you know I want you too 165
 D superman.txt: They call me Superman, I'm here to rescue you 166
-D superman.txt: I wanna save you, girl, come be in Shady's world 167
-D superman.txt: (Oh boy, you drive me crazy) Bitch, you make me hurl 168
-V superman.txt:  169
+V superman.txt: I wanna save you, girl, come be in Shady's world 167
+V superman.txt: (Oh boy, you drive me crazy) Bitch, you make me hurl 168
+D superman.txt:  169
 V superman.txt: [Chorus: Eminem] 170
-V superman.txt: ‘Cause I can't be your Superman, can't be your Superman 171
-D superman.txt: Can't be your Superman, can't be your Superman 172
-D superman.txt: I can't be your Superman, can't be your Superman 173
+D superman.txt: ‘Cause I can't be your Superman, can't be your Superman 171
+V superman.txt: Can't be your Superman, can't be your Superman 172
+V superman.txt: I can't be your Superman, can't be your Superman 173
 V superman.txt: Can't be your Superman, your Superman, your Superman 174
 V superman.txt: ‘Cause I can't be your Superman, can't be your Superman 175
-V superman.txt: Can't be your Superman, can't be your Superman 176
-V superman.txt: I can't be your Superman, can't be your Superman 177
-D superman.txt: Can't be your Superman, your Superman, your Superma 178
+F superman.txt: Can't be your Superman, can't be your Superman 176
+W superman.txt: I can't be your Superman, can't be your Superman 177
+I superman.txt: Can't be your Superman, your Superman, your Superma 178

@@ -1,111 +1,111 @@
-D godzilla.txt: Ugh, you're a monster 1
-W godzilla.txt: I can swallow a bottle of alcohol and I'll feel like Godzilla 2
-V godzilla.txt: Better hit the deck like the card dealer 3
+V godzilla.txt: Ugh, you're a monster 1
+V godzilla.txt: I can swallow a bottle of alcohol and I'll feel like Godzilla 2
+D godzilla.txt: Better hit the deck like the card dealer 3
 V godzilla.txt: My whole squad's in here, walkin' around the party 4
-V godzilla.txt: A cross between a zombie apocalypse and big Bobby 5
-D godzilla.txt: The Brain Heenan which is probably the 6
-D godzilla.txt: Same reason I wrestle with mania 7
-D godzilla.txt: Shady's in this bitch, I'm posse'd up 8
+I godzilla.txt: A cross between a zombie apocalypse and big Bobby 5
+V godzilla.txt: The Brain Heenan which is probably the 6
+V godzilla.txt: Same reason I wrestle with mania 7
+V godzilla.txt: Shady's in this bitch, I'm posse'd up 8
 D godzilla.txt: Consider it to cross me a costly mistake 9
-D godzilla.txt: If they sleepin' on me, the 10
-D godzilla.txt: Hoes better get insomnia, ADHD, hydroxycut 11
-D godzilla.txt: Pass the Courvoisi' (Hey, hey) 12
-V godzilla.txt: In AA, with an AK, melee, finna set it like a playdate 13
+V godzilla.txt: If they sleepin' on me, the 10
+V godzilla.txt: Hoes better get insomnia, ADHD, hydroxycut 11
+V godzilla.txt: Pass the Courvoisi' (Hey, hey) 12
+D godzilla.txt: In AA, with an AK, melee, finna set it like a playdate 13
 V godzilla.txt: Better vacate, retreat like a vacay, mayday 14
-D godzilla.txt: This beat is cray-cray, Ray J, h-a, h-a, h-a 15
-D godzilla.txt: Laughin' all the way to the bank, I spray flames 16
+V godzilla.txt: This beat is cray-cray, Ray J, h-a, h-a, h-a 15
+V godzilla.txt: Laughin' all the way to the bank, I spray flames 16
 V godzilla.txt: They cannot tame or placate the (Ayy) 17
-D godzilla.txt: Monster 18
+V godzilla.txt: Monster 18
 V godzilla.txt:  19
-I godzilla.txt: You get in my way? I'ma feed you to the monster (Yeah) 20
+D godzilla.txt: You get in my way? I'ma feed you to the monster (Yeah) 20
 D godzilla.txt: I'm normal during the day, but at night turn to a monster (Yeah) 21
-D godzilla.txt: When the moon shines like Ice Road Truckers 22
+F godzilla.txt: When the moon shines like Ice Road Truckers 22
 V godzilla.txt: I look like a villain outta those blockbusters 23
-E godzilla.txt: Godzilla, fire spitter, monster 24
-V godzilla.txt: Blood on the dance floor, and on the Louis V carpet 25
+V godzilla.txt: Godzilla, fire spitter, monster 24
+D godzilla.txt: Blood on the dance floor, and on the Louis V carpet 25
 V godzilla.txt: Fire, Godzilla, fire, monster 26
 V godzilla.txt: Blood on the dance floor, and on the Louis V carpet 27
 V godzilla.txt: I'm just a product of Slick Rick, at Onyx, told 'em lick the balls 28
-I godzilla.txt: Had 'em just appalled at so many things that pissed 'em off 29
-D godzilla.txt: It's impossible to list 'em all 30
+D godzilla.txt: Had 'em just appalled at so many things that pissed 'em off 29
+V godzilla.txt: It's impossible to list 'em all 30
 V godzilla.txt: And in the midst of all this 31
-V godzilla.txt: I'm in a mental hospital with a crystal ball 32
-V godzilla.txt: Tryna see, will I still be like this tomorrow? 33
-I godzilla.txt: Risperdal, voices whisper 34
-D godzilla.txt: But my fist is balled back up against the wall, pencil drawn 35
+D godzilla.txt: I'm in a mental hospital with a crystal ball 32
+I godzilla.txt: Tryna see, will I still be like this tomorrow? 33
+V godzilla.txt: Risperdal, voices whisper 34
+I godzilla.txt: But my fist is balled back up against the wall, pencil drawn 35
 D godzilla.txt: This is just the song to go ballistic on 36
 V godzilla.txt: You just pulled a pistol on the guy with the missile launcher 37
 D godzilla.txt: I'm just a Loch Ness, the mythological 38
-W godzilla.txt: Quick to tell a bitch screw off like a fifth of Vodka 39
-D godzilla.txt: When you twist the top of the bottle, I'm a 40
-E godzilla.txt: Monster 41
+D godzilla.txt: Quick to tell a bitch screw off like a fifth of Vodka 39
+V godzilla.txt: When you twist the top of the bottle, I'm a 40
+V godzilla.txt: Monster 41
 V godzilla.txt:  42
 D godzilla.txt: You get in my way? I'ma feed you to the monster (Yeah) 43
-V godzilla.txt: I'm normal during the day, but at night turn to a monster (Yeah) 44
-W godzilla.txt: When the moon shines like Ice Road Truckers 45
-V godzilla.txt: I look like a villain outta those blockbusters 46
+D godzilla.txt: I'm normal during the day, but at night turn to a monster (Yeah) 44
+V godzilla.txt: When the moon shines like Ice Road Truckers 45
+E godzilla.txt: I look like a villain outta those blockbusters 46
 V godzilla.txt: Godzilla, fire spitter, monster 47
 V godzilla.txt: Blood on the dance floor, and on the Louis V carpet 48
 V godzilla.txt: Fire, Godzilla, fire, monster 49
-V godzilla.txt: Blood on the dance floor, and on the Louis V carpet 50
+W godzilla.txt: Blood on the dance floor, and on the Louis V carpet 50
 V godzilla.txt: If you never gave a damn, raise your hand 51
-D godzilla.txt: 'Cause I'm about to set trip, vacation plans 52
-D godzilla.txt: I'm on point, like my index is, so all you will ever get is 53
-D godzilla.txt: The motherfuckin' finger (Finger), prostate exam ('xam) 54
-D godzilla.txt: How can I have all these fans and perspire? 55
+I godzilla.txt: 'Cause I'm about to set trip, vacation plans 52
+V godzilla.txt: I'm on point, like my index is, so all you will ever get is 53
+V godzilla.txt: The motherfuckin' finger (Finger), prostate exam ('xam) 54
+V godzilla.txt: How can I have all these fans and perspire? 55
 D godzilla.txt: Like a liar's pants, I'm on fire 56
-V godzilla.txt: And I got no plans to retire and I'm still the man you admire 57
+D godzilla.txt: And I got no plans to retire and I'm still the man you admire 57
 V godzilla.txt: These chicks are spazzin' out, I only get more handsome and flier 58
-W godzilla.txt: I got 'em passin' out like what you do, when you hand someone flyers 59
-D godzilla.txt: What goes around comes around just like the blades on a chainsaw 60
-D godzilla.txt: 'Cause I caught the flaps of my dollar stack 61
+D godzilla.txt: I got 'em passin' out like what you do, when you hand someone flyers 59
+V godzilla.txt: What goes around comes around just like the blades on a chainsaw 60
+V godzilla.txt: 'Cause I caught the flaps of my dollar stack 61
 V godzilla.txt: Right off the bat like a baseball, like Kid Ink 62
- godzilla.txt: Bitch, I got them racks with so much ease that they call me Diddy 63
+I godzilla.txt: Bitch, I got them racks with so much ease that they call me Diddy 63
 D godzilla.txt: 'Cause I make bands and I call getting cheese a cakewalk (Cheesecake) 64
 V godzilla.txt: Bitch, I'm a player, I'm too motherfuckin' stingy for Cher 65
 V godzilla.txt: Won't even lend you an ear ain't even pretendin' to care 66
 V godzilla.txt:  67
-D godzilla.txt: But I tell a bitch I'll marry her, if she'll bury her 68
-V godzilla.txt: Face on my genital area, the original Richard Ramirez 69
-W godzilla.txt: Christian Rivera ' 70
+V godzilla.txt: But I tell a bitch I'll marry her, if she'll bury her 68
+I godzilla.txt: Face on my genital area, the original Richard Ramirez 69
+D godzilla.txt: Christian Rivera ' 70
 V godzilla.txt: 'Cause my lyrics never sit well so they wanna give me the chair 71
-D godzilla.txt: Like a paraplegic, and it's scary, call it Harry Carry 72
-D godzilla.txt: 'Cause every Tom and Dick and Harry 73
-V godzilla.txt: Carry a Merriam motherfuckin' dictionary 74
-D godzilla.txt: Got 'em swearin' up and down, they can't spit, this shit's hilarious 75
+W godzilla.txt: Like a paraplegic, and it's scary, call it Harry Carry 72
+V godzilla.txt: 'Cause every Tom and Dick and Harry 73
+D godzilla.txt: Carry a Merriam motherfuckin' dictionary 74
+V godzilla.txt: Got 'em swearin' up and down, they can't spit, this shit's hilarious 75
 D godzilla.txt: It's time to put these bitches in the obituary column 76
-V godzilla.txt: We wouldn't see eye to eye with a staring problem 77
+W godzilla.txt: We wouldn't see eye to eye with a staring problem 77
 D godzilla.txt: Get the shaft out like a steering column (Mark Jack) 78
 V godzilla.txt: Trigger happy, pack heat, but it's black ink 79
-D godzilla.txt: Evil half of the Bad Meets 80
-V godzilla.txt: Evil, that means take a back seat 81
+V godzilla.txt: Evil half of the Bad Meets 80
+D godzilla.txt: Evil, that means take a back seat 81
 D godzilla.txt: Take it back to Fat Petes with a maxi, single 82
-D godzilla.txt: Look at my rap sheets, what attracts these people 83
-E godzilla.txt: Is my gangster, bitch, like Apache with a catchy jingle 84
+V godzilla.txt: Look at my rap sheets, what attracts these people 83
+V godzilla.txt: Is my gangster, bitch, like Apache with a catchy jingle 84
 V godzilla.txt: I stack these chips, you barely got a half-eaten Cheeto 85
-D godzilla.txt: Fill 'em with the venom, and eliminate 'em 86
-V godzilla.txt: Other words, I Minute Maid 'em 87
-V godzilla.txt: I don't want to hurt 'em, but I did 'em in a fit of rage 88
+W godzilla.txt: Fill 'em with the venom, and eliminate 'em 86
+D godzilla.txt: Other words, I Minute Maid 'em 87
+D godzilla.txt: I don't want to hurt 'em, but I did 'em in a fit of rage 88
 V godzilla.txt: I'm murderin' again, nobody will evade him 89
-D godzilla.txt: I'm finna kill 'em and dump all the fuckin' bodies in a lake 90
-I godzilla.txt:  91
+V godzilla.txt: I'm finna kill 'em and dump all the fuckin' bodies in a lake 90
+V godzilla.txt:  91
 D godzilla.txt: Obliteratin' everything, incineratin' and renegade 'em 92
-V godzilla.txt: And I make anybody who want it with the pen afraid 93
-D godzilla.txt: But don't nobody want it but they're gonna get it anyway 94
+D godzilla.txt: And I make anybody who want it with the pen afraid 93
+V godzilla.txt: But don't nobody want it but they're gonna get it anyway 94
 V godzilla.txt: 'Cause I'm beginnin' to feel like I'm mentally ill 95
 D godzilla.txt: I'm Atilla, kill or be killed, I'm a killer, be the vanilla gorilla 96
 D godzilla.txt: You're bringin' the killer within me, out of me 97
 V godzilla.txt: You don't want to be the enemy of the demon 98
 V godzilla.txt: Who went in me, and be on the recieving of me, what stupidity, it'd be 99
-D godzilla.txt: Every bit of me is the epitome of a spitter 100
-D godzilla.txt: When I'm in the vicinity, motherfucker, you better duck 101
-D godzilla.txt: Or you finna be dead the minute you run into me 102
-D godzilla.txt: A hundred percent of you is a fifth of a percent of me 103
+V godzilla.txt: Every bit of me is the epitome of a spitter 100
+V godzilla.txt: When I'm in the vicinity, motherfucker, you better duck 101
+V godzilla.txt: Or you finna be dead the minute you run into me 102
+V godzilla.txt: A hundred percent of you is a fifth of a percent of me 103
 D godzilla.txt: I'm 'bout to fuckin' finish you bitch, I'm unfadable 104
 D godzilla.txt: You wanna battle, I'm available, I'm blowin' up like an inflatable 105
 V godzilla.txt: I'm undebatable, I'm unavoidable, I'm unevadable 106
 V godzilla.txt: I'm on the toilet bowl 107
-D godzilla.txt: I got a trailer full of money and I'm paid in full 108
-D godzilla.txt: I'm not afraid to pull the 109
-V godzilla.txt: Man stop 110
+V godzilla.txt: I got a trailer full of money and I'm paid in full 108
+V godzilla.txt: I'm not afraid to pull the 109
+I godzilla.txt: Man stop 110
 V godzilla.txt: Look what I'm plannin' (Haha 111

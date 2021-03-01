@@ -1,92 +1,92 @@
-I bad.txt: [Verse 1] 1
+V bad.txt: [Verse 1] 1
 V bad.txt: Your butt is mine, gon' tell you right 2
-V bad.txt: Just show your face in broad daylight 3
+D bad.txt: Just show your face in broad daylight 3
 V bad.txt: I'm tellin' you on how I feel 4
 D bad.txt: Gon' hurt your mind, don't shoot to kill 5
 V bad.txt: Shamone, ah, shamone 6
-V bad.txt: Lay it on me, all right 7
+D bad.txt: Lay it on me, all right 7
 D bad.txt: I'm givin' you on count of three 8
-V bad.txt: To show your stuff or let it be 9
+D bad.txt: To show your stuff or let it be 9
 D bad.txt: I'm tellin' you, just watch your mouth 10
-D bad.txt: I know your game, what you're about 11
+E bad.txt: I know your game, what you're about 11
 D bad.txt:  12
-D bad.txt: [Pre-Chorus 1] 13
-D bad.txt: Well, they say the sky's the limit 14
-I bad.txt: And to me, that's really true 15
-I bad.txt: But my friend, you have seen nothing 16
+V bad.txt: [Pre-Chorus 1] 13
+V bad.txt: Well, they say the sky's the limit 14
+V bad.txt: And to me, that's really true 15
+V bad.txt: But my friend, you have seen nothing 16
 D bad.txt: Just wait 'til I get through! 17
-D bad.txt:  18
-V bad.txt: [Chorus] 19
-D bad.txt: Because I'm bad, I'm bad! Shamone! (Bad, bad, really, really bad) 20
-D bad.txt: You know I'm bad, I'm bad (Bad, bad) 21
+V bad.txt:  18
+D bad.txt: [Chorus] 19
+V bad.txt: Because I'm bad, I'm bad! Shamone! (Bad, bad, really, really bad) 20
+W bad.txt: You know I'm bad, I'm bad (Bad, bad) 21
 V bad.txt: You know it! (Really, really bad) 22
 V bad.txt: You know I'm bad, I'm bad! Shamone! (Bad, bad) 23
 D bad.txt: You know! (Really, really bad) 24
 V bad.txt: And the whole world has to answer right now 25
 V bad.txt: Just to tell you once again: Who's bad? 26
-D bad.txt:  27
+V bad.txt:  27
 D bad.txt:  28
-V bad.txt: Primis Player Placeholder 29
+E bad.txt: Primis Player Placeholder 29
 V bad.txt:  30
-V bad.txt:  31
-D bad.txt:  A Vocal Coach Reacts To Lil Tjay's Melodies | Genius News 32
-V bad.txt:  33
-E bad.txt: [Verse 2] 34
+D bad.txt:  31
+F bad.txt:  A Vocal Coach Reacts To Lil Tjay's Melodies | Genius News 32
+D bad.txt:  33
+W bad.txt: [Verse 2] 34
 D bad.txt: The word is out, you're doin' wrong 35
-V bad.txt: Gon' lock you up before too long 36
-D bad.txt: Your lyin' eyes gon' tell you right 37
-V bad.txt: So listen up, don't make a fight 38
+D bad.txt: Gon' lock you up before too long 36
+V bad.txt: Your lyin' eyes gon' tell you right 37
+I bad.txt: So listen up, don't make a fight 38
 D bad.txt: Your talk is cheap, you're not a man 39
-V bad.txt: You're throwin' stones to hide your hands 40
+D bad.txt: You're throwin' stones to hide your hands 40
 D bad.txt:  41
-V bad.txt: [Pre-Chorus 1] 42
+D bad.txt: [Pre-Chorus 1] 42
 V bad.txt: Well, they say the sky's the limit 43
-V bad.txt: And to me, that's really true 44
+D bad.txt: And to me, that's really true 44
 D bad.txt: But my friend, you have seen nothing 45
-V bad.txt: Just wait 'til I get through! 46
+D bad.txt: Just wait 'til I get through! 46
 V bad.txt:  47
-D bad.txt: [Chorus] 48
-D bad.txt: Because I'm bad, I'm bad! Shamone! (Bad, bad, really, really bad) 49
+V bad.txt: [Chorus] 48
+V bad.txt: Because I'm bad, I'm bad! Shamone! (Bad, bad, really, really bad) 49
 V bad.txt: You know I'm bad, I'm bad (Bad, bad) 50
-V bad.txt: You know it! (Really, really bad) 51
-D bad.txt: You know I'm bad, I'm bad! Shamone! (Bad, bad) 52
-E bad.txt: You know! (Really, really bad) 53
-V bad.txt: And the whole world has to answer right now 54
+F bad.txt: You know it! (Really, really bad) 51
+V bad.txt: You know I'm bad, I'm bad! Shamone! (Bad, bad) 52
+D bad.txt: You know! (Really, really bad) 53
+D bad.txt: And the whole world has to answer right now 54
 V bad.txt: Just to tell you once again: Who's bad? 55
 V bad.txt:  56
-V bad.txt: [Organ Solo] 57
+D bad.txt: [Organ Solo] 57
 V bad.txt:  58
-F bad.txt: [Pre-Chorus 2] 59
-V bad.txt: We can change the world tomorrow 60
-V bad.txt: This could be a better place 61
-V bad.txt: If you don't like what I'm sayin' 62
-I bad.txt: Then won't you slap my face? 63
-D bad.txt:  64
-D bad.txt:  65
-D bad.txt: [Chorus] 66
-E bad.txt: Because I'm bad, I'm bad! Shamone! (Bad, bad, really, really bad) 67
-W bad.txt: You know I'm bad, I'm bad (Bad, bad) 68
-D bad.txt: You know it! (Really, really bad) 69
+D bad.txt: [Pre-Chorus 2] 59
+D bad.txt: We can change the world tomorrow 60
+D bad.txt: This could be a better place 61
+D bad.txt: If you don't like what I'm sayin' 62
+V bad.txt: Then won't you slap my face? 63
+V bad.txt:  64
+W bad.txt:  65
+V bad.txt: [Chorus] 66
+D bad.txt: Because I'm bad, I'm bad! Shamone! (Bad, bad, really, really bad) 67
+V bad.txt: You know I'm bad, I'm bad (Bad, bad) 68
+V bad.txt: You know it! (Really, really bad) 69
 D bad.txt: You know I'm bad, I'm bad (Bad, bad) 70
 D bad.txt: You know it, you know! (Really, really bad) 71
-D bad.txt: And the whole world has to answer right now (Hoo! Hoo!) 72
-F bad.txt: Just to tell you once again (Hoo!) 73
-D bad.txt: You know I'm bad, I'm bad! Shamone! (Bad, bad, really, really bad) 74
+V bad.txt: And the whole world has to answer right now (Hoo! Hoo!) 72
+D bad.txt: Just to tell you once again (Hoo!) 73
+V bad.txt: You know I'm bad, I'm bad! Shamone! (Bad, bad, really, really bad) 74
 D bad.txt: You know I'm bad, I'm bad (Bad, bad) 75
 V bad.txt: You know it, you know it! (Really, really bad) 76
-V bad.txt: You know, you know! (Bad, bad) 77
-V bad.txt: You know, shamone! (Really, really bad) 78
+D bad.txt: You know, you know! (Bad, bad) 77
+D bad.txt: You know, shamone! (Really, really bad) 78
 V bad.txt: And the whole world has to answer right now 79
-E bad.txt: Just to tell you once again 80
+V bad.txt: Just to tell you once again 80
 V bad.txt: You know I move, I'm bad, you know it! (Bad, bad, really, really bad) 81
 V bad.txt: You know I'm bad, I'm bad (Bad, bad, really, really bad) 82
-D bad.txt: You know, you know, you know it (Bad, bad, really, really bad) 83
+V bad.txt: You know, you know, you know it (Bad, bad, really, really bad) 83
 D bad.txt: Shamone! (Really, really bad) 84
-V bad.txt: And the whole world has to answer right now (Hoo!) 85
-V bad.txt: Just to tell you once again 86
+I bad.txt: And the whole world has to answer right now (Hoo!) 85
+D bad.txt: Just to tell you once again 86
 V bad.txt: You know I'm bad, I'm bad, you know it! (Bad, bad, really, really bad) 87
 V bad.txt: You know I'm bad, you know, woo! (Bad, bad, really, really bad) 88
 D bad.txt: You know I'm bad, I'm bad! (Bad, bad) 89
-D bad.txt: You know it, you know! (Really, really bad) 90
+V bad.txt: You know it, you know! (Really, really bad) 90
 V bad.txt: And the whole world has to answer right now 91
 V bad.txt: Just to tell you once again: Who's bad 92

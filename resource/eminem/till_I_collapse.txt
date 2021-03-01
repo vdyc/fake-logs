@@ -1,88 +1,88 @@
-V till_I_collapse.txt: 'Cause sometimes you just feel tired, you feel weak 1
+I till_I_collapse.txt: 'Cause sometimes you just feel tired, you feel weak 1
 V till_I_collapse.txt: And when you feel weak you feel like you want to just give up 2
-D till_I_collapse.txt: But you gotta search within you, you gotta find that inner strength 3
+V till_I_collapse.txt: But you gotta search within you, you gotta find that inner strength 3
 D till_I_collapse.txt: And just pull that shit out of you and get that motivation to not give up 4
 D till_I_collapse.txt: And not be a quitter, no matter how bad you want to just fall flat on your face and collapse 5
-W till_I_collapse.txt: 'Til I collapse I'm spilling these raps long as you feel 'em 6
+V till_I_collapse.txt: 'Til I collapse I'm spilling these raps long as you feel 'em 6
 V till_I_collapse.txt: 'Til the day that I drop you'll never say that I'm not killing 'em 7
-E till_I_collapse.txt: 'Cause when I am not then I'm a stop pinning them 8
+V till_I_collapse.txt: 'Cause when I am not then I'm a stop pinning them 8
 V till_I_collapse.txt: And I am not hip-hop and I'm just not Eminem 9
-D till_I_collapse.txt: Subliminal thoughts when I'm stop sending them 10
-D till_I_collapse.txt: Women are caught in webs spin and hock venom 11
-V till_I_collapse.txt:  12
+E till_I_collapse.txt: Subliminal thoughts when I'm stop sending them 10
+W till_I_collapse.txt: Women are caught in webs spin and hock venom 11
+D till_I_collapse.txt:  12
 V till_I_collapse.txt: Adrenaline shots of penicillin could not get the illin' to stop 13
-E till_I_collapse.txt: Amoxicillin is just not real enough 14
+W till_I_collapse.txt: Amoxicillin is just not real enough 14
 V till_I_collapse.txt: The criminal cop killing hip-hop filling a 15
-E till_I_collapse.txt: Minimal swap to cop millions of Pac listeners 16
-V till_I_collapse.txt: You're coming with me, feel it or not 17
-V till_I_collapse.txt: You're gonna fear it like I showed you the spirit of god lives in us 18
+D till_I_collapse.txt: Minimal swap to cop millions of Pac listeners 16
+D till_I_collapse.txt: You're coming with me, feel it or not 17
+D till_I_collapse.txt: You're gonna fear it like I showed you the spirit of god lives in us 18
 D till_I_collapse.txt: You hear it a lot, lyrics that shock, is it a miracle 19
 D till_I_collapse.txt: Or am I just a product of pop fizzing up 20
 V till_I_collapse.txt: For shizzle my whizzle this is the plot listen up 21
-V till_I_collapse.txt: You Bizzles forgot Slizzle does not give a fuck 22
+D till_I_collapse.txt: You Bizzles forgot Slizzle does not give a fuck 22
 V till_I_collapse.txt: 'Til the roof comes off, till the lights go out 23
 D till_I_collapse.txt: 'Til my legs give out, can't shut my mouth. 24
 V till_I_collapse.txt: 'Til the smoke clears out and my high perhaps 25
-D till_I_collapse.txt:  26
-F till_I_collapse.txt: I'm a rip this shit till my bone collapse. 27
-V till_I_collapse.txt: 'Til the roof comes off, till the lights go out 28
+E till_I_collapse.txt:  26
+V till_I_collapse.txt: I'm a rip this shit till my bone collapse. 27
+D till_I_collapse.txt: 'Til the roof comes off, till the lights go out 28
 V till_I_collapse.txt: 'Til my legs give out, can't shut my mouth. 29
-D till_I_collapse.txt: 'Til the smoke clears out and my high perhaps 30
-D till_I_collapse.txt: I'm a rip this shit till my bone collapse. 31
-W till_I_collapse.txt: Music is like magic there's a certain feeling you get 32
-D till_I_collapse.txt: When you're real and you spit and people are feeling your shit 33
-D till_I_collapse.txt: This is your moment and every single minute you spittin' 34
+F till_I_collapse.txt: 'Til the smoke clears out and my high perhaps 30
+W till_I_collapse.txt: I'm a rip this shit till my bone collapse. 31
+I till_I_collapse.txt: Music is like magic there's a certain feeling you get 32
+V till_I_collapse.txt: When you're real and you spit and people are feeling your shit 33
+V till_I_collapse.txt: This is your moment and every single minute you spittin' 34
 V till_I_collapse.txt: Trying to hold onto it 'cause you may never get it again 35
 V till_I_collapse.txt: So while you're in it try to get as much shit as you can 36
-V till_I_collapse.txt: And when your run is over just admit when it's at its end 37
+W till_I_collapse.txt: And when your run is over just admit when it's at its end 37
 V till_I_collapse.txt: 'Cause I'm at the end of my wits with half the shit that gets in 38
-I till_I_collapse.txt: I got a list, here's the order of my list that it's in; 39
-V till_I_collapse.txt: It goes, Reggie, Jay-Z, Tupac and Biggie 40
-D till_I_collapse.txt: Andre from Outkast, Jada, Kurupt, Nas and then me 41
-V till_I_collapse.txt: But in this industry I'm the cause of a lot of envy 42
-V till_I_collapse.txt: So when I'm not put on this list the shit does not offend me 43
-V till_I_collapse.txt: That's why you see me walk around like nothing's bothering me 44
-V till_I_collapse.txt: Even though half you people got a fuckin' problem with me 45
-V till_I_collapse.txt: You hate it but you know respect you've got to give me 46
+V till_I_collapse.txt: I got a list, here's the order of my list that it's in; 39
+D till_I_collapse.txt: It goes, Reggie, Jay-Z, Tupac and Biggie 40
+V till_I_collapse.txt: Andre from Outkast, Jada, Kurupt, Nas and then me 41
+D till_I_collapse.txt: But in this industry I'm the cause of a lot of envy 42
+I till_I_collapse.txt: So when I'm not put on this list the shit does not offend me 43
+D till_I_collapse.txt: That's why you see me walk around like nothing's bothering me 44
+D till_I_collapse.txt: Even though half you people got a fuckin' problem with me 45
+D till_I_collapse.txt: You hate it but you know respect you've got to give me 46
 D till_I_collapse.txt: The press's wet dream like Bobby and Whitney, Nate hit me 47
-W till_I_collapse.txt:  48
-D till_I_collapse.txt: 'Til the roof comes off, till the lights go out 49
-V till_I_collapse.txt: 'Til my legs give out, can't shut my mouth. 50
+D till_I_collapse.txt:  48
+F till_I_collapse.txt: 'Til the roof comes off, till the lights go out 49
+D till_I_collapse.txt: 'Til my legs give out, can't shut my mouth. 50
 D till_I_collapse.txt: 'Til the smoke clears out and my high perhaps 51
 V till_I_collapse.txt: I'm a rip this shit till my bone collapse. 52
 V till_I_collapse.txt: 'Til the roof comes off, till the lights go out 53
 V till_I_collapse.txt: 'Til my legs give out, can't shut my mouth. 54
-V till_I_collapse.txt: 'Til the smoke clears out and my high perhaps 55
-V till_I_collapse.txt: I'm a rip this shit till my bone collapse. 56
-V till_I_collapse.txt: Soon as a verse starts I eat at an MC's heart 57
-V till_I_collapse.txt: What is he thinking? Enough to not go against me, smart 58
-V till_I_collapse.txt: And its absurd how people hang on every word 59
-V till_I_collapse.txt: I'll probably never get the props I feel I ever deserve 60
+F till_I_collapse.txt: 'Til the smoke clears out and my high perhaps 55
+D till_I_collapse.txt: I'm a rip this shit till my bone collapse. 56
+D till_I_collapse.txt: Soon as a verse starts I eat at an MC's heart 57
+D till_I_collapse.txt: What is he thinking? Enough to not go against me, smart 58
+D till_I_collapse.txt: And its absurd how people hang on every word 59
+W till_I_collapse.txt: I'll probably never get the props I feel I ever deserve 60
 V till_I_collapse.txt: But I'll never be served my spot is forever reserved 61
 D till_I_collapse.txt: If I ever leave earth that would be the death of me first 62
-D till_I_collapse.txt: 'Cause in my heart of hearts I know nothing could ever be worse 63
-W till_I_collapse.txt: That's why I'm clever when I put together every verse 64
+V till_I_collapse.txt: 'Cause in my heart of hearts I know nothing could ever be worse 63
+V till_I_collapse.txt: That's why I'm clever when I put together every verse 64
 V till_I_collapse.txt:  65
-D till_I_collapse.txt: My thoughts are sporadic, I act like I'm an addict 66
-D till_I_collapse.txt: I rap like I'm addicted to smack like I'm Kim Mathers 67
-V till_I_collapse.txt: But I don't want to go forth and back in constant battles 68
-D till_I_collapse.txt: The fact is I would rather sit back and bomb some rappers' 69
-D till_I_collapse.txt: So this is like a full blown attack I'm launching at 'em 70
+V till_I_collapse.txt: My thoughts are sporadic, I act like I'm an addict 66
+V till_I_collapse.txt: I rap like I'm addicted to smack like I'm Kim Mathers 67
+D till_I_collapse.txt: But I don't want to go forth and back in constant battles 68
+V till_I_collapse.txt: The fact is I would rather sit back and bomb some rappers' 69
+V till_I_collapse.txt: So this is like a full blown attack I'm launching at 'em 70
 D till_I_collapse.txt: The track is on some battling raps who want some static 71
-D till_I_collapse.txt: 'Cause I don't really think that the fact that I'm Slim matters 72
- till_I_collapse.txt: A plaque of platinum status is whack if I'm not the baddest 73
+V till_I_collapse.txt: 'Cause I don't really think that the fact that I'm Slim matters 72
+D till_I_collapse.txt: A plaque of platinum status is whack if I'm not the baddest 73
 V till_I_collapse.txt: 'Til the roof comes off, till the lights go out 74
-D till_I_collapse.txt: 'Til my legs give out, can't shut my mouth. 75
-W till_I_collapse.txt: 'Til the smoke clears out and my high perhaps 76
-W till_I_collapse.txt: I'm a rip this shit till my bone collapse. 77
-D till_I_collapse.txt: 'Til the roof comes off, till the lights go out 78
-V till_I_collapse.txt: 'Til my legs give out, can't shut my mouth. 79
+V till_I_collapse.txt: 'Til my legs give out, can't shut my mouth. 75
+V till_I_collapse.txt: 'Til the smoke clears out and my high perhaps 76
+V till_I_collapse.txt: I'm a rip this shit till my bone collapse. 77
+I till_I_collapse.txt: 'Til the roof comes off, till the lights go out 78
+D till_I_collapse.txt: 'Til my legs give out, can't shut my mouth. 79
 V till_I_collapse.txt: 'Til the smoke clears out and my high perhaps 80
-D till_I_collapse.txt: I'm a rip this shit till my bone collapse. 81
-D till_I_collapse.txt: Until the roof (Until the roof) 82
-V till_I_collapse.txt: The roof comes off (The roof comes off) 83
+V till_I_collapse.txt: I'm a rip this shit till my bone collapse. 81
+V till_I_collapse.txt: Until the roof (Until the roof) 82
+D till_I_collapse.txt: The roof comes off (The roof comes off) 83
 V till_I_collapse.txt: Until my legs (Until my legs) 84
 D till_I_collapse.txt: Give out from underneath me (Underneath me, I) 85
-V till_I_collapse.txt: I will not fall 86
-F till_I_collapse.txt: I will stand tall 87
+D till_I_collapse.txt: I will not fall 86
+V till_I_collapse.txt: I will stand tall 87
 D till_I_collapse.txt: Feels like no one can beat m 88
